@@ -1,0 +1,901 @@
+,city_in_israel,star_rate,guests_number,bedroom_number,beds_number,baths_number,price_for_night,cleanliness_rate,communication_rate,check_in_rate,accuracy_rate,location_rate,value_rate,balcony,wifi,tv
+0,"Ramat Gan, Tel Aviv District, Israel",4.84 ·,2,Studio,1,1,166,4.6,4.9,4.9,4.9,4.8,4.9,no,yes,yes
+1,"Giv'atayim, Tel Aviv District, Israel",4.84 ·,2,1,1,1,171,4.8,4.9,4.9,4.8,4.4,4.9,no,yes,yes
+2,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,2,Studio,1,1,192,5,5,5,5,5,5,yes,yes,yes
+3,"Ramat Gan, Tel Aviv District, Israel",,Nan,Nan,Nan,Nan,118,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+4,"Kiryat Ono, Tel Aviv District, Israel",5.0 ·,1,1,1,1,171,5,5,5,5,4.9,5,no,yes,yes
+5,"Giv'atayim, Tel Aviv District, Israel",5.0 ·,4,1,1,2,200,5,5,5,5,4,5,no,yes,yes
+6,"Ramat Gan, Tel Aviv District, Israel",4.80 ·,2,1,1,1.5,120,4.5,5,4.9,4.8,4.8,4.9,yes,yes,yes
+7,"Ramat Gan, Israel",4.89 ·,1,1,1,1,100,4.7,4.8,5,5,4.4,4.9,yes,yes,yes
+8,"רמת גן, מחוז תל אביב, Israel",5.0 ·,3,1,2,1,346,5,5,5,5,4.8,4.8,yes,yes,yes
+9,"Ramat Gan, Tel Aviv District, Israel",4.97 ·,4,1,3,1.5,350,5,5,5,5,4.8,4.9,yes,yes,yes
+10,"Ramat Gan, Tel Aviv District, Israel",4.50 ·,2,1,1,1,300,4.8,5,5,4.5,4.8,4.2,no,yes,yes
+11,"Kiryat Ono, Tel Aviv District, Israel",4.87 ·,2,1,1,1,240,5,5,5,4.9,4.8,4.8,no,yes,yes
+12,"Ramat Gan, Tel Aviv District, Israel",4.61 ·,2,Studio,1,1,100,4.3,4.9,5,4.8,4.7,4.7,no,yes,yes
+13,"Ramat Gan, Tel Aviv District, Israel",4.33 ·,2,1,1,1,79,3.7,4.7,4.5,4.2,4.2,4.3,no,no,yes
+14,"Ramat Gan, Tel Aviv District, Israel",4.97 ·,1,Studio,2,1,165,4.9,5,5,5,4.9,4.9,no,yes,yes
+15,"רמת גן, מחוז תל אביב, Israel",4.81 ·,2,1,1,1,172,4.8,4.6,5,4.8,4.7,4.7,no,yes,yes
+16,"Kiryat Ono, Tel Aviv District, Israel",5.0 ·,1,1,1,1.5,250,4.8,5,5,5,5,5,no,yes,yes
+17,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,2,Studio,1,1,178,4.3,5,4.8,4.6,4.8,4.9,no,yes,yes
+18,"Ramat Gan, Israel",4.91 ·,3,2,2,1,180,4.9,5,5,5,4.8,4.9,no,yes,yes
+19,"Ramat Gan, Tel Aviv District, Israel",4.76 ·,2,1,2,1,225,4.8,4.8,5,4.7,4.8,4.5,yes,yes,yes
+20,"Ramat Gan, Tel Aviv District, Israel",4.43 ·,1,1,1,1.5,126,4.7,4.4,4.9,4.6,4.1,4.4,no,yes,yes
+21,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,2,Studio,1,1,149,4.8,5,5,5,4.8,5,no,yes,yes
+22,"Ramat Gan, Tel Aviv District, Israel",4.76 ·,5,2,2,1.5,302,4.6,5,5,4.8,4.9,4.8,no,yes,yes
+23,"Bnei Brak, Tel Aviv District, Israel",5.0 ·,2,1,2,1,126,5,5,4.8,5,4.8,4.6,no,yes,yes
+24,"Giv'atayim, Tel Aviv District, Israel",4.90 ·,2,1,1,1,143,4.9,5,5,4.9,4.8,4.8,no,yes,yes
+25,"Ramat Gan, Tel Aviv District, Israel",4.67 ·,4,1,1,1,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+26,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,1,1,1,1,110,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+27,"Ramat Gan, Tel Aviv District, Israel",4.86 ·,2,1,1,1,300,4.8,4.9,4.9,4.9,4.9,4.9,yes,yes,yes
+28,"Ramat Gan, Tel Aviv District, Israel",,2,2,2,1,274,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+29,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.82 ·,3,1,1,1,190,4.8,5,5,4.9,4.9,4.8,no,yes,yes
+30,"Giv'atayim, Tel Aviv District, Israel",5.0 ·,2,1,1,1.5,304,4.8,5,5,5,5,5,no,yes,yes
+31,"Ramat Gan, Tel Aviv District, Israel",,1,1,1,1,64,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+32,"Ramat Gan, Tel Aviv District, Israel",4.63 ·,6,2,3,1,310,4.7,4.8,5,4.9,4.8,4.8,no,yes,yes
+33,"Givataim, Giv'atayim, Israel",4.50 ·,7,2,4,1.5,340,4.5,4.8,4.8,4.7,4.7,4.5,no,yes,yes
+34,"Giv'atayim, Tel Aviv District, Israel",Nan,1,1,1,1.5,71,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+35,"Kiryat Ono, Tel Aviv District, Israel",4.94 ·,2,1,1,1,307,4.9,5,5,4.9,4.8,4.9,yes,yes,yes
+36,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,2,1,1,1,220,5,4.8,5,5,5,5,no,yes,yes
+37,"Ramat Gan, Israel",,4,4,1,2.5,600,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+38,"Ramat Gan, Tel Aviv District, Israel",4.91 ·,5,2,3,1.5,420,5,5,5,5,4.7,4.8,no,yes,yes
+39,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,2,Studio,1,1,178,4.8,5,5,5,5,4.8,yes,yes,yes
+40,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.72 ·,2,1,1,Half-bath,213,4.6,4.9,4.9,4.8,5,4.8,no,yes,yes
+41,"Ramat Gan, Tel Aviv District, Israel",4.73 ·,3,1,2,1.5,493,4.9,4.8,4.9,4.8,4.8,4.6,no,yes,yes
+42,"Ramat Gan, Israel",4.71 ·,1,1,1,1.5,50,4.3,5,5,4.9,4.9,4.7,no,yes,yes
+43,"Ramat Gan, Israel",4.88 ·,2,1,1,1,170,5,4.9,5,4.9,4.8,4.8,no,yes,yes
+44,"Giv'atayim, Tel Aviv District, Israel",4.72 ·,2,1,1,1,180,4.5,4.9,4.9,4.8,4.6,4.7,yes,yes,yes
+45,"Yehud-Monoson, Israel",5.0 ·,2,1,1,1,166,5,5,5,5,4.8,5,yes,yes,yes
+46,"Givatayim, Israel",4.97 ·,2,1,1,1,125,4.8,5,5,5,4.9,4.9,no,yes,yes
+47,"Bnei Brak, Tel Aviv District, Israel",5.0 ·,1,1,1,1,120,5,5,4.9,5,4.9,4.9,no,yes,yes
+48,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.47 ·,2,1,2,1,169,4.1,4.9,4.9,4.7,5,4.5,no,yes,yes
+49,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.97 ·,4,Studio,2,1,322,4.9,5,5,5,4.9,4.9,yes,yes,yes
+50,"Kiryat Ono, Tel Aviv District, Israel",4.86 ·,Nan,Nan,Nan,Nan,230,4.8,5,5,4.9,4.9,4.8,no,yes,yes
+51,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,4,1,2,1,263,4.8,5,5,4.9,4.2,4.8,no,yes,yes
+52,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.36 ·,2,1,1,1,190,4.4,4.5,5,4.5,4.8,4.3,yes,yes,yes
+53,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.44 ·,2,Studio,1,1,204,4.4,4.9,4.8,4.5,4.6,4.6,no,yes,yes
+54,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.86 ·,2,Studio,1,1,219,4.9,4.9,4.9,4.8,4.9,4.7,no,yes,yes
+55,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,1,1,1,1,159,4.6,4.8,4.9,4.8,4.1,4.6,yes,yes,yes
+56,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,2,1,1,1,95,5,5,5,4.9,4.6,4.9,no,yes,yes
+57,"Giv'at Shmuel, Center District, Israel",,3,1,1,1,453,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+58,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,6,3,3,2.5,"1,330",5,5,5,5,5,5,no,no,yes
+59,"Giv'atayim, Tel Aviv District, Israel",,6,3,3,1,503,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+60,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+61,"Tel Aviv, Israel",4.92 ·,3,1,1,1,248,4.9,5,4.9,4.9,4.7,4.8,no,yes,yes
+62,"Kiryat Ono, Tel Aviv District, Israel",Nan,2,2,1,1,170,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+63,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,1,1,1,181,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+64,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,2,Studio,1,1,203,5,4.9,4.9,4.9,5,4.8,no,yes,yes
+65,"Giv'atayim, Tel Aviv District, Israel",5.0 ·,3,1,2,1.5,220,4.8,5,5,4.9,4.6,4.8,no,yes,yes
+66,"Giv'atayim, Tel Aviv District, Israel",4.78 ·,2,1,1,1,190,4.7,4.9,4.9,4.9,4.7,4.8,yes,yes,yes
+67,"Tel Aviv, Israel",4.66 ·,4,1,2,1,238,4.6,4.9,5,4.7,4.7,4.6,no,yes,yes
+68,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,6,2,4,1.5,572,5,5,5,5,4.8,5,no,yes,yes
+69,"Giv'atayim, Tel Aviv District, Israel",5.0 ·,4,2,2,1.5,363,4.9,5,4.9,4.9,4.9,5,no,yes,yes
+70,"Petah Tikva, Israel, Israel",4.89 ·,2,2,4,1.5,247,4.9,5,5,4.9,4.8,4.9,no,yes,yes
+71,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.44 ·,2,Studio,1,1,283,4.5,4.7,4.7,4.7,4.9,4.3,no,yes,yes
+72,"Ramat Gan, Tel Aviv District, Israel",4.72 ·,3,1,2,1,230,4.7,4.8,4.8,4.9,4.6,4.8,yes,yes,yes
+73,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.86 ·,3,1,1,1,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+74,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.54 ·,4,1,2,1,380,4.6,4.6,4.7,4.6,4.9,4.5,yes,yes,yes
+75,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,4,2,2,1,350,5,5,5,5,5,5,no,yes,yes
+76,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.57 ·,3,1,2,1,383,4.6,4.6,4.8,4.5,4.6,4.5,no,yes,yes
+77,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,4,2,2,1.5,557,5,5,5,5,5,5,yes,yes,yes
+78,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.95 ·,3,1,1,1,298,5,5,5,5,4.6,5,no,yes,yes
+79,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.69 ·,4,1,2,1,229,4.7,4.8,5,4.8,5,4.8,no,yes,yes
+80,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.69 ·,4,1,2,1,229,4.7,4.8,5,4.8,5,4.8,no,yes,yes
+81,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.91 ·,4,1,2,1,288,4.9,5,5,5,4.7,4.9,yes,yes,yes
+82,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,5,1,3,1,285,4.8,4.9,4.9,4.8,4.6,4.7,no,yes,yes
+83,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.34 ·,4,Studio,2,1,296,4.4,4.2,4.5,4.5,4.8,4.4,yes,yes,yes
+84,"Giv'atayim, Tel Aviv District, Israel",4.83 ·,2,1,1,1,170,4.7,4.9,4.9,4.9,4.7,4.8,yes,yes,yes
+85,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.38 ·,4,1,2,1,338,4.4,4.5,4.6,4.5,4.6,4.1,no,yes,yes
+86,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+87,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,4,2,2,1,350,5,5,5,5,5,5,no,yes,yes
+88,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.68 ·,2,Studio,1,1,240,4.6,5,4.9,5,4.9,4.9,no,yes,yes
+89,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,6,2,3,1,429,4.6,4.8,4.7,4.8,5,4.6,yes,yes,yes
+90,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,Studio,1,1,278,4.9,4.7,4.7,4.9,5,4.7,yes,yes,yes
+91,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+92,"Tel Aviv , Center District, Israel",4.74 ·,3,1,1,1,339,4.5,4.9,5,4.8,4.9,4.7,yes,yes,yes
+93,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,5,2,2,1.5,581,5,5,5,5,5,4.7,no,yes,yes
+94,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.93 ·,2,1,1,1,128,4.7,4.9,4.9,4.9,4.8,4.9,yes,yes,yes
+95,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.69 ·,5,2,3,1.5,414,4.7,4.9,4.9,4.8,4.8,4.6,yes,yes,yes
+96,"Ramat Gan, Tel Aviv District, Israel",4.89 ·,2,1,1,1,334,4.9,5,5,4.9,5,5,no,yes,yes
+97,"Yehud, Center District, Israel",4.94 ·,2,1,1,1,267,4.9,5,5,5,4.9,4.9,no,yes,yes
+98,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.92 ·,3,1,1,1,271,5,5,5,4.8,4.8,4.9,yes,yes,yes
+99,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.33 ·,4,1,2,1,296,4.5,4.5,4.8,4.5,5,4.3,yes,yes,yes
+100,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.64 ·,4,1,2,1,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+101,"Yehud, Center District, Israel",4.94 ·,2,1,1,1,267,4.9,5,5,5,4.9,4.9,no,yes,yes
+102,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.80 ·,6,2,4,1.5,378,4.8,4.9,5,4.9,4.8,4.8,no,yes,yes
+103,"Ramat Gan, Tel Aviv District, Israel",4.72 ·,3,1,2,1,230,4.7,4.8,4.8,4.9,4.6,4.8,yes,yes,yes
+104,"Tel Aviv, Israel",4.92 ·,5,2,3,2,375,4.8,5,5,4.9,4.8,4.8,no,yes,yes
+105,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,6,2,3,1,439,4.4,4.8,4.7,4.7,4.8,4.6,no,yes,yes
+106,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.94 ·,3,1,1,1,Nan,4.9,4.9,4.9,5,4.3,4.6,yes,no,yes
+107,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,2,Studio,1,1,311,5,5,4.9,5,5,4.8,yes,yes,yes
+108,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.93 ·,2,1,1,1,128,4.7,4.9,4.9,4.9,4.8,4.9,yes,yes,yes
+109,"Ramat Gan, Tel Aviv District, Israel",4.89 ·,2,1,1,1,334,4.9,5,5,4.9,5,5,no,yes,yes
+110,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,1,3,1,298,4.9,5,5,4.9,4.9,4.9,yes,yes,yes
+111,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,2,1,1,1,160,4.9,5,5,4.9,4.3,4.7,no,yes,yes
+112,"Ramat Gan, Tel Aviv District, Israel",,4,2,1,2.5,340,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+113,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,4,3,4,2,320,5,5,5,5,4.8,4.8,no,yes,yes
+114,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,3,Studio,2,1,297,4.9,5,5,5,5,4.9,no,yes,yes
+115,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.48 ·,2,Studio,1,1,211,4.6,4.9,4.9,4.7,5,4.4,no,yes,yes
+116,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,2,2,1,318,4.8,5,5,5,4.9,5,yes,yes,yes
+117,"Giv'atayim, Tel Aviv District, Israel",4.0 ·,6,2,3,2.5,718,4,4.8,4.8,4.5,4,4,yes,yes,yes
+118,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,2,Studio,1,1,186,4.4,4.8,4.8,4.7,5,4.6,yes,yes,yes
+119,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,5,1,3,1,289,4.8,5,5,4.9,4.9,4.8,no,yes,yes
+120,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,5,1,3,1,289,4.8,5,5,4.9,4.9,4.8,no,yes,yes
+121,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,6,2,2,1.5,437,4.4,4.9,5,4.9,5,4.6,yes,yes,yes
+122,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.93 ·,4,1,1,1,302,5,5,5,5,5,4.9,no,yes,yes
+123,"Ramat Gan, Tel Aviv District, Israel",,3,1,1,1,425,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+124,"Ramat Gan, Tel Aviv District, Israel",4.91 ·,5,1,1,1.5,447,4.5,4.9,5,4.9,4.9,4.8,no,yes,yes
+125,"Ramat Gan, Tel Aviv District, Israel",5.0 ·,2,1,1,1.5,349,4.8,5,5,5,5,5,no,yes,yes
+126,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.92 ·,3,1,1,1,271,5,5,5,4.8,4.8,4.9,yes,yes,yes
+127,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,2,1,1,1,410,4.5,4.8,4.9,4.8,4.9,4.5,no,yes,yes
+128,"Ramat Gan, Israel",4.74 ·,3,1,1,1,550,5,4.7,5,4.5,4.9,4.6,yes,yes,yes
+129,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.86 ·,2,1,1,1.5,350,4.6,5,5,5,4.4,4.9,no,yes,yes
+130,"Ramat Gan, Tel Aviv District, Israel",,1,Studio,1,1,270,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+131,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,6,2,3,1.5,671,4.8,4.9,4.9,4.9,4.9,4.8,yes,yes,yes
+132,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.95 ·,4,1,2,1.5,509,5,5,4.9,5,5,5,no,yes,yes
+133,"Ganei Tikva, Israel",4.90 ·,5,1,4,1,429,5,5,5,4.8,4.8,4.8,no,yes,yes
+134,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,321,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+135,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,4,Studio,2,1,207,4.7,4.7,4.7,4.7,4.9,4.3,no,yes,yes
+136,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.44 ·,4,1,2,1,422,4.7,4.3,4.6,4.6,4.9,4.4,yes,yes,yes
+137,"Giv'atayim, Tel Aviv District, Israel",Nan,2,1,1,1.5,400,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+138,"Ramat Gan, Tel Aviv District, Israel",Nan,2,1,1,1,150,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+139,"Tel Aviv, Tel Aviv District, Israel",4.68 ·,2,1,3,1,280,4.2,5,4.9,4.7,4.7,4.8,no,yes,yes
+140,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,2,2,1.5,413,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+141,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.38 ·,4,1,1,1,217,4.3,4.7,4.8,4.5,4.8,4.2,no,yes,yes
+142,"Ramat Gan, Tel Aviv District, Israel",Nan,2,1,1,1,150,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+143,"Kiryat Ono, Tel Aviv District, Israel",4.89 ·,1,1,1,1.5,Nan,4.9,4.8,4.8,4.8,4.6,4.6,yes,yes,yes
+144,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.47 ·,3,1,1,1,187,4.6,4.9,4.9,4.7,4.7,4.5,no,yes,yes
+145,"Ramat Gan, Tel Aviv District, Israel",,1,Studio,1,1,270,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+146,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,2,1,1,1,476,4.7,4.9,4.8,4.9,5,4.7,no,yes,yes
+147,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.96 ·,3,1,2,1,325,5,5,4.8,5,4.7,4.9,yes,no,yes
+148,"Kiryat Ono, Tel Aviv District, Israel",4.88 ·,1,1,1,1.5,127,4.7,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+149,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.74 ·,4,1,1,1,339,4.7,4.8,4.8,5,4.9,4.7,no,yes,yes
+150,"Giv'at Shmu'el, Center District, Israel",5.0 ·,4,2,3,2,380,5,5,5,5,5,4.8,yes,yes,yes
+151,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.98 ·,2,1,1,1,210,4.9,5,5,5,5,4.8,no,yes,yes
+152,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.89 ·,6,2,3,1,634,4.9,4.9,4.8,4.9,5,4.8,no,yes,yes
+153,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.55 ·,3,1,1,1,585,4.5,4.5,4.8,4.5,5,4.3,no,no,yes
+154,"Ramat Gan, Tel Aviv District, Israel",,4,1,2,1.5,750,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+155,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,2,1,1,1,180,4.3,5,5,4.7,4.5,4.8,yes,yes,yes
+156,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.94 ·,2,1,1,1,219,5,5,5,4.9,5,5,no,yes,yes
+157,"Bnei Brak, Tel Aviv District, Israel",5.0 ·,4,1,3,1,400,5,4.9,5,4.9,4.7,4.7,no,no,yes
+158,"Ganei Tikva, Center District, Israel",4.96 ·,5,2,4,1,504,5,5,5,4.9,4.9,5,no,yes,yes
+159,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,2,1,1,1,371,4.8,5,5,4.8,5,4.7,no,yes,yes
+160,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,Studio,1,1,311,5,5,5,5,5,5,yes,yes,yes
+161,"Bnei Brak, Tel Aviv District, Israel",5.0 ·,4,1,3,1,400,5,4.9,5,4.9,4.7,4.7,no,no,yes
+162,"Giv'atayim, Tel Aviv District, Israel",Nan,2,1,1,1,150,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+163,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.87 ·,2,Studio,1,1,346,4.7,4.8,5,4.9,4.8,4.7,no,yes,yes
+164,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.81 ·,2,1,2,1.5,270,4.7,5,5,4.9,4.9,4.8,no,yes,yes
+165,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.93 ·,6,2,3,1,624,4.8,5,5,4.9,5,4.8,no,yes,yes
+166,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,1,1,1,393,5,4.7,4.3,5,5,5,no,yes,yes
+167,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.64 ·,2,1,3,1,200,4.4,4.8,4.9,4.8,4.9,4.7,no,yes,yes
+168,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.80 ·,3,1,1,1,279,5,4.9,4.9,4.9,4.8,4.8,yes,no,yes
+169,"Kiryat Ono, Tel Aviv District, Israel",4.88 ·,1,1,1,1.5,127,4.7,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+170,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,2,1,1,1,180,4.6,4.9,5,5,4.4,4.7,no,yes,yes
+171,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.66 ·,4,1,2,1,380,4.7,4.9,4.8,4.8,4.9,4.5,no,yes,yes
+172,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+173,"Tel Aviv-Yafo, Tel Aviv District, Israel",,3,1,1,1,311,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+174,"Giv'atayim, Tel Aviv District, Israel",Nan,4,2,3,2,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+175,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.89 ·,2,Studio,1,1,302,5,5,5,5,5,5,no,yes,yes
+176,"Ramat Gan, Istael, Israel",4.88 ·,1,1,1,1,100,4.6,4.9,4.9,4.8,4.6,4.9,yes,yes,yes
+177,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,244,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+178,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,1,1,1,353,5,5,5,5,5,4.7,no,yes,yes
+179,"Kiryat Ono, Tel Aviv District, Israel",4.88 ·,2,1,1,1.5,230,5,5,5,5,4.8,4.9,no,yes,yes
+180,"Kiryat Ono, Tel Aviv District, Israel",4.88 ·,2,1,1,1.5,230,5,5,5,5,4.8,4.9,no,yes,yes
+181,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.50 ·,3,2,2,1,312,4.9,4.4,4.4,4.4,3.6,4.2,no,yes,yes
+182,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.70 ·,2,1,1,1,330,4.5,4.9,4.9,4.7,4.6,4.6,no,yes,yes
+183,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.25 ·,2,1,1,1,416,4.3,4.9,4.6,4.7,4.9,4.3,no,yes,yes
+184,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.72 ·,2,Studio,1,1,208,4.7,4.8,4.9,4.8,5,4.6,no,yes,yes
+185,"Petah Tikva, Center District, Israel",3.67 ·,3,2,2,1,160,3.3,3.7,4.7,4,4.7,4,no,yes,yes
+186,"Giv'atayim, Tel Aviv District, Israel",Nan,4,1,1,1,425,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+187,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.68 ·,3,1,1,1,476,4.6,4.7,4.6,4.7,4.9,4.4,yes,yes,yes
+188,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.87 ·,2,1,1,1,250,4.9,5,5,5,5,4.8,no,yes,yes
+189,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,3,1,1,1,310,5,4.9,5,4.8,4.8,4.8,yes,no,yes
+190,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,2,1,243,4.9,5,5,5,5,4.5,yes,no,yes
+191,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,2,1,1,1,393,5,4.7,4.7,5,5,4.7,no,yes,yes
+192,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.47 ·,2,1,1,1,361,4.7,4.8,4.9,4.8,4.3,4.4,no,yes,yes
+193,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.84 ·,2,1,1,1,186,4.6,5,5,4.8,5,4.9,no,yes,yes
+194,"Ramat Gan, Israel",4.74 ·,1,1,1,2,120,4.2,4.9,4.8,4.5,4.7,4.7,no,yes,yes
+195,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,4,1,2,1,357,5,5,5,4.9,4.8,4.8,no,yes,yes
+196,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.52 ·,4,1,1,1,287,4.3,4.9,4.8,4.6,4.8,4.5,no,yes,yes
+197,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.53 ·,6,2,3,1,507,4.5,4.6,4.8,4.9,5,4.6,yes,yes,yes
+198,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,2,1,1,1.5,250,5,5,5,5,4.8,5,no,yes,yes
+199,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,2,1,178,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+200,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,4,1,2,1,325,4.5,4.8,4.7,4.5,4.7,4.3,no,yes,yes
+201,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.91 ·,4,1,1,1,524,5,4.7,4.8,5,4.8,4.8,yes,yes,yes
+202,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,2,1,178,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+203,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,7,3,6,2,872,4.9,5,4.9,4.9,4.7,4.6,yes,yes,yes
+204,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.36 ·,3,1,1,1,190,4.4,4.6,4.6,4.5,4.5,4.3,no,yes,yes
+205,"Giv'at Shmuel, Center District, Israel",,4,2,3,1.5,238,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+206,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,3,1,1,1,244,4.9,5,5,4.8,5,4.7,no,yes,yes
+207,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.56 ·,2,1,1,1,240,4.6,4.9,4.9,4.8,5,4.6,no,yes,yes
+208,"Tel Aviv-Yafo, Tel Aviv District, Israel",,3,1,1,1,240,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+209,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,Studio,1,1,311,5,5,5,5,5,5,yes,yes,yes
+210,"Tel Aviv-Yafo, Tel Aviv District, Israel",,3,1,2,1,274,Nan,Nan,Nan,Nan,Nan,Nan,yes,no,yes
+211,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,1,1,1,1,105,4.8,5,5,4.9,4.7,4.9,yes,yes,yes
+212,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.47 ·,2,Studio,1,1,213,4.6,4.9,4.9,4.4,5,4.5,no,yes,yes
+213,"Giv'at Shmuel, Center District, Israel",4.83 ·,3,2,2,2,286,5,5,5,5,4.8,4.5,no,yes,yes
+214,"Giv'atayim, Tel Aviv District, Israel",Nan,2,2,1,1,156,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+215,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.97 ·,4,2,3,1,666,4.8,5,5,4.9,5,4.9,no,yes,yes
+216,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.92 ·,2,Studio,1,1,213,4.7,5,4.9,4.8,5,4.7,no,yes,yes
+217,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,4,2,2,2,667,5,3.7,4,4.7,5,4.3,yes,yes,yes
+218,"Holon, Center District, Israel",4.93 ·,4,2,2,1,382,4.9,5,5,5,4.8,4.9,no,yes,yes
+219,"Ramat Gan, Tel Aviv District, Israel",Nan,2,1,1,1.5,140,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+220,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,2,Studio,1,1,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+221,"Tel Aviv-Yafo, Israel",4.84 ·,4,1,1,1,397,4.9,4.9,4.9,4.9,5,4.7,yes,yes,yes
+222,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,6,3,4,2.5,450,4.5,4.9,4.9,4.8,4.9,4.6,no,yes,yes
+223,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.25 ·,4,1,2,1,422,4,4.8,4.8,4.2,5,4.2,yes,yes,yes
+224,"Ramat Gan, Tel Aviv District, Israel",Nan,2,1,1,1.5,140,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+225,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,4,1,2,1,719,4.6,4.9,4.8,4.9,5,4.6,yes,yes,yes
+226,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,5,2,2,1,420,4.4,4.9,5,4.8,5,4.7,no,yes,yes
+227,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.47 ·,4,1,2,1,250,4,5,4.9,4.5,4.8,4.5,no,yes,yes
+228,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.80 ·,4,2,2,1,615,4.9,4.6,4.7,4.8,4.9,4.5,yes,yes,yes
+229,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,2,1,302,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+230,"Ramat Gan, Tel Aviv District, Israel",Nan,2,1,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+231,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,2,3,1.5,300,5,5,5,4.9,5,5,no,yes,yes
+232,"Tel Aviv - Jaffa, Tel Aviv, Israel",4.85 ·,5,2,4,2,550,4.8,4.7,4.8,4.8,5,4.7,yes,yes,yes
+233,"Tel Aviv - Jaffa, Tel Aviv, Israel",4.56 ·,5,2,4,1.5,553,4.4,4.8,4.8,4.7,4.8,4.2,no,yes,yes
+234,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.98 ·,4,2,2,2,721,4.9,5,5,5,4.9,4.7,yes,yes,yes
+235,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,1,1,1,1.5,215,4.8,5,5,4.9,5,4.8,no,yes,yes
+236,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.98 ·,2,1,1,1,247,5,5,5,5,5,4.8,no,yes,yes
+237,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,4,1,1,1.5,531,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+238,"Giv'atayim, Tel Aviv District, Israel",4.82 ·,3,2,2,1.5,320,4.7,4.9,4.9,4.8,4.7,4.7,yes,yes,yes
+239,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.59 ·,2,1,1,1.5,110,4.5,4.8,4.9,4.8,4.6,4.6,no,yes,yes
+240,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,4,1,1,1.5,531,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+241,"Tel Aviv - Jaffa, Tel Aviv, Israel",4.75 ·,7,3,5,2,763,4.8,4.2,4.5,5,5,4.8,yes,yes,yes
+242,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,1,1,284,4.7,5,5,5,4.3,5,yes,no,yes
+243,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,1,1,1.5,290,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+244,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.81 ·,3,Studio,1,1,360,4.8,4.9,4.9,4.9,4.9,4.8,yes,yes,yes
+245,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.25 ·,3,1,2,1,299,4,5,5,4.5,4.8,4.5,no,yes,yes
+246,"tel aviv, Israel",4.43 ·,4,2,2,1,329,4.6,5,5,4.6,4.9,4.6,no,yes,yes
+247,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.65 ·,2,1,1,1,461,4.7,4.7,4.9,4.7,4.8,4.5,no,yes,yes
+248,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,393,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+249,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.70 ·,2,1,1,1,162,4.6,4.9,5,4.9,4.9,4.7,no,yes,yes
+250,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.70 ·,4,1,2,1,602,4.6,4.9,4.9,4.6,4.9,4.8,yes,yes,yes
+251,"Ramat Gan, Tel Aviv District, Israel",,2,1,1,1,223,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+252,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.81 ·,4,Studio,2,1,Nan,4.8,4.8,4.9,5,5,4.8,no,yes,yes
+253,"Tel Aviv - Jaffa, Tel Aviv, Israel",4.80 ·,4,2,2,3,565,4.8,5,5,4.9,5,5,yes,yes,yes
+254,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.89 ·,3,1,2,1,339,4.9,4.8,5,4.6,4.8,4.8,no,yes,yes
+255,"Ramat Gan, Tel Aviv District, Israel",Nan,1,2,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+256,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,2,1,1,1,184,4.9,5,5,4.9,5,4.7,no,yes,yes
+257,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,Studio,1,1,261,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+258,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,2,1,1,2,114,4.8,5,5,4.9,4.6,4.9,no,yes,yes
+259,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.40 ·,4,1,2,1,429,4.4,4.6,4.9,4.5,4.8,4.4,no,yes,yes
+260,"Giv'atayim, Tel Aviv District, Israel",5.0 ·,4,2,2,1,585,5,5,4.9,4.9,4.9,4.7,no,yes,yes
+261,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,1,1,1,Nan,5,5,5,4.9,5,4.9,no,yes,yes
+262,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.18 ·,2,Studio,1,1,258,4.2,4.7,4.6,4.4,4.9,4,no,yes,yes
+263,"Ramat Gan, Tel Aviv District, Israel",Nan,1,2,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+264,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+265,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,Studio,1,1,393,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+266,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,2,1,1,1,245,4.9,4.9,4.9,4.9,5,4.8,no,yes,yes
+267,"Ramat Gan, Tel Aviv District, Israel",3.25 ·,4,2,2,1.5,300,4.2,3.2,3.8,3.8,4,3.5,yes,yes,yes
+268,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,393,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+269,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.80 ·,4,1,2,1,506,4.6,4.7,4.8,4.8,5,4.8,no,yes,yes
+270,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.87 ·,3,1,1,1.5,254,4.8,5,4.9,4.9,5,4.8,no,yes,yes
+271,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,2,1,2,1,314,4.7,4.9,4.9,4.9,4.8,4.7,no,yes,yes
+272,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,2,1,314,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+273,"Ramat Gan, Tel Aviv District, Israel",,4,2,4,1,723,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+274,"Ramat Gan, Tel Aviv District, Israel",4.88 ·,4,1,2,1.5,440,4.9,5,5,4.8,4.7,4.7,yes,yes,yes
+275,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,3,1,1,1,384,4.8,5,5,5,5,4.5,no,yes,yes
+276,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.84 ·,5,2,2,1.5,495,4.7,4.9,5,4.9,5,4.6,yes,yes,yes
+277,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,2,1,1,1,500,4.8,5,5,5,4.9,4.7,no,yes,yes
+278,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,1,1,308,5,5,5,5,4.8,4.9,yes,no,yes
+279,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,3,1,1,1.5,267,4.7,4.6,4.6,4.6,5,4.7,yes,yes,yes
+280,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.68 ·,3,1,1,1,432,4.7,4.8,4.8,4.6,4.9,4.6,yes,yes,yes
+281,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.91 ·,6,3,3,2,527,4.6,4.9,4.9,4.9,4.9,5,yes,yes,yes
+282,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.47 ·,2,Studio,1,1,222,4.6,4.7,4.8,4.4,4.7,4.3,no,yes,yes
+283,"Ramat Hasharon, Tel Aviv District, Israel",4.89 ·,3,Studio,2,1,318,4.9,5,5,5,5,5,no,yes,yes
+284,"Tel Aviiv-Yafo, Tel Aviv District, Israel",4.40 ·,5,2,2,1,470,4.5,4.9,5,4.6,4.8,4.5,yes,yes,yes
+285,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,2,4,1,491,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+286,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,2,Studio,1,1,400,4.7,5,5,5,5,4.7,no,yes,yes
+287,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,1,2,1.5,425,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+288,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.76 ·,4,2,2,2,573,4.7,4.9,4.9,4.9,4.9,4.6,no,yes,yes
+289,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.93 ·,4,2,2,2,504,4.8,4.9,5,5,4.9,4.8,no,yes,yes
+290,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.41 ·,6,3,3,2,661,4.2,4.3,4.9,4.6,4.8,4.3,no,yes,yes
+291,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,293,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+292,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.20 ·,4,1,2,1,414,4.2,4,4.2,4.2,5,4.2,no,yes,yes
+293,"Ramat Gan, Tel Aviv District, Israel",4.40 ·,6,2,3,1.5,600,5,4.4,4.4,4.4,5,4.2,no,yes,yes
+294,"Giv'atayim, Tel Aviv District, Israel",Nan,4,2,2,1.5,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+295,"Ramat Gan, Tel Aviv District, Israel",Nan,4,2,2,3,260,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+296,"Tel Aviv, Israel, Israel",4.90 ·,2,1,2,1,311,5,5,5,5,4.8,4.9,no,yes,yes
+297,"Tel Aviv, Israel",4.85 ·,2,1,2,1,180,4.9,5,5,4.9,4.7,4.9,yes,yes,yes
+298,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.89 ·,4,1,1,1,534,4.7,4.9,4.9,4.9,5,4.7,no,yes,yes
+299,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,1,1,1,1,198,4.2,5,5,4.6,5,4.6,no,yes,yes
+300,"Haifa, Haifa District, Israel",4.94 ·,3,Studio,1,1,175,5,4.9,4.9,4.9,4.7,4.9,no,yes,yes
+301,"Haifa, Haifa District, Israel",5.0 ·,3,1,2,1,183,5,5,5,5,4.9,5,no,yes,yes
+302,"Haifa, Haifa District, Israel",4.96 ·,2,Studio,1,1,264,4.9,5,5,5,4.9,5,yes,yes,yes
+303,"Haifa, Haifa District, Israel",4.79 ·,3,1,2,1,183,4.8,5,5,4.8,4.8,4.8,no,yes,yes
+304,"Haifa, Haifa District, Israel",4.79 ·,3,Studio,1,1,160,4.8,4.8,4.9,4.9,4.6,4.8,no,yes,yes
+305,"Haifa, Haifa District, Israel",4.47 ·,2,1,1,1.5,185,4.6,4.8,4.9,4.7,5,4.5,no,yes,yes
+306,"Haifa, Haifa District, Israel",4.99 ·,2,Studio,1,1,212,5,5,5,5,5,5,no,yes,yes
+307,"Haifa, Haifa District, Israel",4.91 ·,2,1,1,1,233,5,5,5,5,5,5,no,no,yes
+308,"Haifa, Haifa District, Israel",5.0 ·,2,1,1,1,200,4.5,4.8,5,5,5,4.8,no,yes,yes
+309,"Haifa, Israel, Israel",4.80 ·,4,2,2,1,348,4.7,4.9,4.9,5,4.8,4.8,yes,yes,yes
+310,"Haifa, Haifa District, Israel",4.91 ·,4,1,2,1,200,4.9,5,5,5,4.6,4.9,no,no,yes
+311,"Haifa, Haifa District, Israel",4.68 ·,2,1,1,1.5,135,4.6,4.9,4.9,4.7,4.6,4.7,no,yes,yes
+312,"Haifa, Haifa District, Israel",4.80 ·,3,1,2,1,170,4.8,4.6,4.8,4.6,4.8,5,no,yes,yes
+313,"Haifa, Haifa District, Israel",4.79 ·,6,2,3,1,276,4.6,4.9,4.9,4.9,4.9,4.8,yes,yes,yes
+314,"Haifa, Haifa District, Israel",4.85 ·,5,2,3,1,183,4.8,5,5,4.8,4.6,4.8,yes,yes,yes
+315,"Haifa, Haifa District, Israel",4.71 ·,2,1,1,1,165,4.9,5,5,4.8,4.2,4.8,no,yes,yes
+316,"Haifa, Haifa District, Israel",4.67 ·,2,1,1,1,133,3.7,5,4.7,4.7,4.3,4.7,no,yes,yes
+317,"Haifa, Haifa District, Israel",4.92 ·,2,Studio,1,1,200,4.9,4.9,5,4.9,4.7,4.9,yes,yes,yes
+318,"Haifa, Haifa District, Israel",4.75 ·,4,1,2,1,167,4.5,5,4.8,4.8,5,4.5,no,yes,yes
+319,"Haifa, Haifa District, Israel",4.83 ·,1,1,1,1.5,160,4.5,4.8,4.8,4.8,4.7,4.7,no,no,yes
+320,"Haifa, Haifa District, Israel",4.75 ·,2,1,1,1,188,4.9,4.9,4.9,4.8,4.6,4.7,no,yes,yes
+321,"Haifa, Haifa District, Israel",4.96 ·,2,Studio,1,1,172,5,4.9,4.9,5,4.8,4.9,yes,yes,yes
+322,"Haifa, Haifa District, Israel",4.66 ·,2,1,1,1.5,200,4.5,4.7,5,4.7,4.8,4.5,no,yes,yes
+323,"Haifa, Haifa District, Israel",4.57 ·,5,2,3,1,207,4.6,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+324,"Haifa, Haifa District, Israel",4.74 ·,4,2,2,1,181,4.8,5,4.9,4.9,4.7,4.8,no,yes,yes
+325,"Haifa, Haifa District, Israel",5.0 ·,3,1,2,1.5,514,5,5,5,4.9,5,4.9,yes,yes,yes
+326,"Haifa, Haifa District, Israel",4.77 ·,2,1,1,1,199,4.8,4.9,4.9,4.9,4.7,4.7,no,yes,yes
+327,"Haifa, Haifa District, Israel",4.53 ·,2,1,1,1.5,350,4.5,4.8,5,4.8,4.9,4.4,yes,yes,yes
+328,"Haifa, Haifa District, Israel",Nan,2,1,2,1,230,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+329,"Haifa, Haifa District, Israel",4.72 ·,2,Studio,1,1,217,4.7,4.8,4.9,4.9,4.9,4.8,no,yes,yes
+330,"Haifa, Haifa District, Israel",4.51 ·,2,Studio,1,1,169,4.5,4.9,4.8,4.6,4.7,4.6,no,yes,yes
+331,"Haifa, Haifa District, Israel",4.75 ·,3,1,4,1,260,4.9,4.9,5,4.9,4.7,4.6,no,yes,yes
+332,"Haifa, Haifa District, Israel",4.76 ·,3,1,3,1.5,304,4.7,5,4.9,4.8,4.9,4.7,yes,yes,yes
+333,"Haifa, Haifa District, Israel",5.0 ·,2,1,1,1.5,255,5,5,4.9,4.9,4.3,5,no,yes,yes
+334,"Haifa, Haifa District, Israel",4.84 ·,4,2,1,1.5,150,4.6,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+335,"Haifa, Haifa District, Israel",,2,1,1,1.5,160,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+336,"Haifa, Haifa District, Israel",4.50 ·,2,Studio,1,1,238,4.6,4.4,4.7,4.3,5,4.8,no,yes,yes
+337,"Haifa, Haifa District, Israel",4.75 ·,2,1,1,1,95,4.2,5,4.9,4.9,4.9,4.9,no,yes,yes
+338,"Haifa, Haifa District, Israel",4.92 ·,2,Studio,1,1,270,4.9,4.9,5,4.9,4.9,4.8,no,yes,yes
+339,"Haifa, Haifa District, Israel",4.67 ·,2,2,3,1.5,207,4.3,4.7,5,4.8,4.7,4.5,no,yes,yes
+340,"Haifa, Haifa District, Israel",4.64 ·,3,1,2,1,195,4.6,4.8,4.7,4.7,4.6,4.8,no,yes,yes
+341,"Haifa, Haifa District, Israel",5.0 ·,2,Studio,1,1,250,4.7,4.9,5,5,5,4.9,yes,yes,yes
+342,"Haifa, Haifa District, Israel",4.64 ·,2,1,1,1.5,183,4.5,4.9,5,4.6,5,4.6,no,yes,yes
+343,"Haifa, Haifa District, Israel",4.74 ·,2,1,1,1.5,266,4.7,4.7,5,4.8,4.8,4.6,yes,yes,yes
+344,"Haifa, Haifa District, Israel",4.55 ·,3,1,2,1,160,4.5,4.7,4.8,4.7,4.8,4.6,no,yes,yes
+345,"Haifa, Haifa District, Israel",4.73 ·,4,1,2,1,204,4.9,4.8,4.8,4.9,4.8,4.8,no,yes,yes
+346,"Haifa, Haifa District, Israel",4.76 ·,4,2,2,1,223,4.7,5,4.9,4.8,4.8,4.9,yes,yes,yes
+347,"Haifa, Haifa District, Israel",4.81 ·,4,1,2,1,320,4.5,5,4.9,4.9,5,4.8,yes,yes,yes
+348,"Haifa, Haifa District, Israel",4.29 ·,4,Studio,4,1,114,3.9,4.7,5,4.1,4.4,4.6,no,yes,yes
+349,"Haifa, Haifa District, Israel",4.83 ·,3,1,1,1.5,80,4.8,5,5,5,4.8,5,no,yes,yes
+350,"Haifa, Haifa District, Israel",5.0 ·,5,2,6,1,260,5,5,5,5,4.7,5,yes,yes,yes
+351,"Haifa, Haifa District, Israel",4.69 ·,3,Studio,2,1,250,4.7,4.9,4.9,5,5,4.8,yes,yes,yes
+352,"Haifa, Haifa District, Israel",,2,1,1,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+353,"Haifa, Haifa District, Israel",4.58 ·,4,1,2,1,143,4.5,4.7,4.7,4.7,4.9,4.7,no,yes,yes
+354,"Haifa, Haifa District, Israel",4.91 ·,8,1,4,1.5,371,4.8,5,5,4.9,4.8,4.8,no,yes,yes
+355,"Haifa, Haifa District, Israel",4.48 ·,1,1,1,1,150,4.8,4.8,4.8,4.7,4.5,4.5,no,yes,yes
+356,"Haifa, Haifa District, Israel",5.0 ·,2,Studio,1,1,150,4.8,5,5,5,5,5,no,yes,yes
+357,"Haifa, Haifa District, Israel",4.76 ·,6,2,3,1,213,4.8,4.9,4.9,4.9,4.7,4.8,no,yes,yes
+358,"Haifa, Haifa District, Israel",4.85 ·,2,Studio,1,1,315,4.8,4.9,5,4.9,4.8,4.8,yes,yes,yes
+359,"Haifa, Haifa District, Israel",4.97 ·,5,2,4,1.5,328,5,5,5,5,5,4.9,no,yes,yes
+360,"Haifa, Haifa District, Israel",4.84 ·,2,1,1,1,199,4.9,5,5,4.8,4.4,4.8,no,yes,yes
+361,"Haifa, Haifa District, Israel",4.89 ·,5,2,3,1.5,220,4.7,5,5,4.9,5,4.9,yes,yes,yes
+362,"Haifa, Haifa District, Israel",4.87 ·,2,1,1,1,250,4.8,5,5,5,4.8,4.8,yes,yes,yes
+363,"Haifa, Haifa District, Israel",4.48 ·,2,1,1,1,200,4.4,4.5,4.9,4.5,4.7,4.5,no,yes,yes
+364,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+365,"Haifa, Haifa District, Israel",4.98 ·,6,3,4,2,350,5,5,5,5,4.9,5,yes,yes,yes
+366,"HaHotrim, Haifa District, Israel",4.87 ·,2,1,1,1.5,400,4.9,5,5,4.9,4.8,4.8,no,yes,yes
+367,"Haifa, Haifa District, Israel",4.79 ·,2,1,1,1,300,4.9,5,4.9,4.9,4.8,4.8,no,yes,yes
+368,"Haifa, Haifa District, Israel",4.83 ·,3,1,1,1,323,4.9,5,5,4.9,4.5,4.7,no,yes,yes
+369,"Haifa, Haifa District, Israel",4.60 ·,4,2,2,1.5,175,4.5,4.9,4.9,4.8,4.9,4.7,no,yes,yes
+370,"Haifa, Haifa District, Israel",4.63 ·,2,Studio,3,1.5,104,4.8,5,4.5,4.6,5,4.8,no,yes,yes
+371,"Haifa, Israel",4.87 ·,4,1,2,1,210,4.9,5,5,4.9,4.8,4.8,no,yes,yes
+372,"Haifa, Haifa District, Israel",4.60 ·,2,1,1,1,180,4.6,4.8,4.8,4.7,4.8,4.7,no,yes,yes
+373,"Haifa, Haifa District, Israel",4.77 ·,7,2,3,1,200,4.9,4.9,4.9,4.9,4.3,4.8,no,yes,yes
+374,"Haifa, Haifa District, Israel",4.89 ·,2,1,2,1,100,4.8,5,5,4.9,4.8,4.9,yes,yes,yes
+375,"Haifa, Haifa District, Israel",5.0 ·,3,1,2,1.5,250,5,5,5,5,5,4.8,no,yes,yes
+376,"Haifa, Haifa District, Israel",,2,1,1,1,520,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+377,"Haifa, Haifa District, Israel",4.90 ·,4,1,3,1,190,4.8,4.9,4.9,4.9,4.9,5,yes,yes,yes
+378,"Haifa, Haifa District, Israel",Nan,2,1,1,1,323,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+379,"Haifa, Haifa District, Israel",5.0 ·,3,1,2,1,300,5,5,5,4.8,4.8,5,no,yes,yes
+380,"Haifa, Haifa District, Israel",,5,2,4,1.5,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+381,"HaHotrim, Israel",4.84 ·,2,1,1,1.5,400,4.8,5,4.9,4.8,4.9,4.9,no,yes,yes
+382,"Haifa, Haifa District, Israel",,3,2,2,1.5,186,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+383,"Haifa, Haifa District, Israel",4.84 ·,6,3,3,2,600,4.6,4.9,4.9,4.9,5,4.7,no,yes,yes
+384,"Haifa, Haifa District, Israel",4.37 ·,2,1,1,1.5,196,4.2,4.7,4.7,4.6,4.7,4.5,no,yes,yes
+385,"Haifa, Haifa District, Israel",5.0 ·,4,1,1,1.5,282,4.7,4.7,5,5,5,4.7,no,yes,yes
+386,"Haifa, Haifa District, Israel",4.93 ·,4,2,2,1,488,4.9,5,5,5,4.7,4.8,yes,yes,yes
+387,"Haifa, Haifa District, Israel",4.88 ·,5,2,3,1,560,4.6,4.8,4.9,5,4.9,4.8,no,yes,yes
+388,"Haifa, Haifa District, Israel",5.0 ·,2,1,1,1,429,5,5,5,5,4.6,5,no,yes,yes
+389,"Haifa, Haifa District, Israel",4.59 ·,5,1,2,1.5,649,4.4,4.9,4.8,4.6,5,4.4,yes,yes,yes
+390,"Haifa, Haifa District, Israel",,2,Studio,1,1,419,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+391,"Кирьят-Ям, Haifa District, Israel",4.78 ·,2,1,3,1.5,200,4.4,5,5,4.8,4.8,4.7,no,yes,yes
+392,"Haifa, Haifa District, Israel",4.67 ·,4,2,2,1,377,5,5,5,5,4.5,4.5,yes,yes,yes
+393,"Haifa, Haifa District, Israel",4.70 ·,3,2,2,1,270,4.7,4.8,4.8,4.8,4.8,4.8,yes,yes,yes
+394,"Haifa, Haifa District, Israel",,6,2,3,1,224,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+395,"Haifa, Israel",4.76 ·,4,3,3,2,292,4.2,4.9,4.9,4.8,4.9,4.8,no,yes,yes
+396,"Haifa, Haifa District, Israel",4.80 ·,5,1,3,1,146,4.3,5,4.9,4.3,5,4.9,no,yes,yes
+397,"Haifa, Haifa District, Israel",3.17 ·,3,1,2,1,120,3.2,4.2,4.7,3.3,3.8,3.5,no,yes,yes
+398,"Haifa, Haifa District, Israel",4.87 ·,6,3,4,2,340,4.8,5,5,5,5,4.9,no,yes,yes
+399,"Haifa, Israel",4.54 ·,2,1,2,1,250,4.6,4.8,4.8,4.7,4.3,4.5,yes,yes,yes
+400,"Haifa, Haifa District, Israel",4.71 ·,6,2,6,1,300,4.6,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+401,"Haifa, Haifa District, Israel",4.73 ·,6,2,3,1,318,4.6,4.9,4.9,4.8,4.5,4.7,no,yes,yes
+402,"Haifa, Haifa District, Israel",4.88 ·,5,2,3,1,270,4.8,4.9,5,4.8,4.8,4.9,no,yes,yes
+403,"Haifa, Haifa District, Israel",4.52 ·,2,Studio,2,1,180,4.7,4.7,4.7,4.7,4.6,4.6,no,yes,yes
+404,"Haifa, Haifa District, Israel",4.75 ·,4,1,2,1,244,4.7,4.9,4.9,4.8,4.8,4.8,no,yes,yes
+405,"Haifa, Haifa District, Israel",4.75 ·,2,1,1,1.5,200,4.5,4.7,4.9,4.9,4.9,4.8,no,yes,yes
+406,"Haifa, Haifa District, Israel",4.61 ·,2,1,1,1.5,266,4.6,4.7,4.8,4.6,4.8,4.4,no,yes,yes
+407,"Haifa, Haifa District, Israel",4.25 ·,4,2,2,1,150,4.8,5,5,5,3.5,4.5,no,yes,yes
+408,"Haifa, Haifa District, Israel",Nan,2,1,1,1.5,70,Nan,Nan,Nan,Nan,Nan,Nan,yes,no,yes
+409,"Haifa, Haifa District, Israel",Nan,5,2,3,1.5,320,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+410,"Haifa, Haifa District, Israel",4.87 ·,4,Studio,1,1,416,4.9,5,5,4.9,4.9,4.8,no,yes,yes
+411,"Haifa, Haifa District, Israel",Nan,6,3,3,2.5,757,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+412,"Haifa, Haifa District, Israel",4.93 ·,6,3,4,2,510,4.9,5,4.9,5,4.7,4.9,yes,yes,yes
+413,"Haifa, Haifa District, Israel",4.71 ·,2,1,1,1,220,4.4,5,5,5,5,5,no,yes,yes
+414,"Haifa, Haifa District, Israel",4.30 ·,2,1,1,1,314,4.7,4.8,4.6,4.4,4.5,4.2,no,yes,yes
+415,"Haifa, Haifa District, Israel",4.76 ·,2,1,1,1,240,4.9,4.5,4.9,4.9,4.9,4.6,no,yes,yes
+416,"Haifa, Haifa District, Israel",,1,4,6,1.5,400,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+417,"Haifa, Haifa District, Israel",4.86 ·,5,1,2,1,590,4.7,5,4.9,5,5,4.7,no,yes,yes
+418,"Haifa, Haifa District, Israel",4.78 ·,5,2,2,1,655,4.8,5,4.9,4.9,4.9,5,no,yes,yes
+419,"Haifa, Israel",4.54 ·,4,1,2,1.5,180,4.3,4.9,4.9,4.5,4.5,4.5,no,yes,yes
+420,"Haifa, Haifa District, Israel",4.78 ·,5,2,2,1,655,4.8,5,4.9,4.9,4.9,5,no,yes,yes
+421,"Haifa, Haifa District, Israel",4.53 ·,5,1,2,1,664,4.4,4.8,4.9,4.9,4.7,4.7,yes,yes,yes
+422,"Haifa, Haifa District, Israel",4.94 ·,6,2,9,1,607,5,5,4.9,4.9,5,4.9,no,yes,yes
+423,"Haifa, Haifa District, Israel",4.63 ·,2,Studio,1,1,150,4.5,5,5,4.9,4.9,4.8,no,yes,yes
+424,"Haifa, Haifa District, Israel",4.88 ·,5,3,4,1.5,373,4.7,4.7,4.7,4.5,4.4,4.8,no,yes,yes
+425,"Haifa, Haifa District, Israel",4.78 ·,2,1,3,1,120,4.7,4.9,4.8,5,4.6,4.8,no,yes,yes
+426,"Haifa, Haifa District, Israel",4.73 ·,2,1,1,1,200,4.8,4.8,4.9,4.9,5,4.9,no,yes,yes
+427,"Haifa, Haifa District, Israel",4.73 ·,4,2,2,1,500,4.6,4.7,5,4.6,4.7,4.8,yes,yes,yes
+428,"Haifa, Haifa District, Israel",5.0 ·,2,1,1,1,365,5,5,5,5,5,5,yes,yes,yes
+429,"Haifa, Haifa District, Israel",,4,2,2,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+430,"Haifa, Haifa District, Israel",Nan,2,1,1,1.5,88,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+431,"Haifa, Haifa District, Israel",5.0 ·,3,2,2,1,240,4.9,5,5,5,5,5,no,yes,yes
+432,"Haifa, Haifa District, Israel",4.67 ·,3,Studio,2,1,329,4.9,4.8,4.7,4.7,4.4,4.5,no,yes,yes
+433,"Haifa, Haifa District, Israel",4.09 ·,2,1,1,1,200,4.2,4,4.3,4.6,4.7,4.3,no,yes,yes
+434,"Haifa, Haifa District, Israel",5.0 ·,2,1,1,1,515,4.7,5,5,5,5,4.7,yes,yes,yes
+435,"Haifa, Haifa District, Israel",5.0 ·,3,1,2,1,190,5,5,5,4.8,5,5,yes,yes,yes
+436,"Haifa, Haifa District, Israel",4.73 ·,2,1,2,1,286,4.7,4.9,4.9,4.6,4.7,4.7,no,yes,yes
+437,"Haifa, Israel",4.67 ·,2,1,1,1,348,4.8,4.9,4.9,4.8,4.7,4.6,yes,yes,yes
+438,"Haifa, Haifa District, Israel",,1,1,2,1.5,115,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+439,"Haifa, Haifa District, Israel",4.73 ·,4,1,2,1,220,4.7,4.8,4.6,4.8,4.7,4.5,no,yes,yes
+440,"Haifa, Haifa District, Israel",4.67 ·,6,2,3,1,800,4.5,4.8,4.8,4.7,5,4.6,yes,yes,yes
+441,"Haifa, Haifa District, Israel",Nan,4,1,2,1,264,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+442,"Haifa, Haifa District, Israel",4.56 ·,2,1,1,1,229,4.8,4.8,4.8,4.8,4.7,4.4,no,yes,yes
+443,"ХАЙФА, Israel",4.80 ·,6,2,2,2,223,4.8,5,5,5,5,5,no,yes,yes
+444,"Haifa, Haifa District, Israel",4.69 ·,5,1,3,1,264,4.8,4.8,4.9,4.9,5,4.7,no,yes,yes
+445,"Haifa, Haifa District, Israel",4.67 ·,4,1,3,1,150,4.6,4.8,4.7,4.8,4.4,4.6,no,yes,yes
+446,"Haifa, Haifa District, Israel",4.89 ·,4,1,2,1.5,321,5,5,5,4.9,4.6,4.8,yes,yes,yes
+447,"Haifa, Haifa District, Israel",4.47 ·,2,1,1,1,200,4.5,4.8,4.9,4.6,4.9,4.5,no,yes,yes
+448,"Haifa, Haifa District, Israel",4.86 ·,2,Studio,1,1,444,4.9,4.9,4.9,4.9,4.8,4.9,yes,yes,yes
+449,"Haifa, Haifa District, Israel",4.92 ·,6,2,3,2,684,4.9,5,4.9,4.9,4.9,4.9,no,yes,yes
+450,"Haifa, Haifa District, Israel",4.40 ·,6,2,4,1,558,5,4.8,4.8,4.4,4.8,4.4,yes,yes,yes
+451,"Haifa, Haifa District, Israel",,2,1,1,1.5,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+452,"Haifa, Haifa District, Israel",Nan,2,1,1,1,348,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+453,"Haifa, Haifa District, Israel",4.78 ·,2,1,1,1.5,230,4.9,3.8,4.3,4.9,5,4.8,no,yes,yes
+454,"Haifa, Haifa District, Israel",4.93 ·,2,1,1,1,200,4.9,5,5,4.9,4.9,4.8,yes,yes,yes
+455,"Haifa, Haifa District, Israel",4.82 ·,5,2,3,2,"1,000",5,4.8,4.8,4.8,4.9,4.7,yes,yes,yes
+456,"Haifa, Haifa District, Israel",4.71 ·,2,1,1,1,215,4.9,5,5,4.9,4.1,4.7,no,yes,yes
+457,"Haifa, Haifa District, Israel",4.67 ·,2,1,1,1,199,5,4.7,5,5,5,4.5,no,yes,yes
+458,"Haifa, Haifa District, Israel",4.94 ·,4,2,2,1,250,5,5,5,4.9,4.9,5,yes,yes,yes
+459,"Kiryat Motzkin, Haifa District, Israel",4.87 ·,2,1,1,1,357,5,5,5,4.8,4.5,4.9,no,yes,yes
+460,"Kiryat Motzkin, Haifa District, Israel",4.87 ·,2,1,1,1,357,5,5,5,4.8,4.5,4.9,no,yes,yes
+461,"Haifa, Israel",4.67 ·,4,1,2,1,400,4,5,5,5,5,5,no,yes,yes
+462,"Haifa, Haifa District, Israel",,1,1,1,1,380,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+463,"Haifa, Haifa District, Israel",4.89 ·,4,1,2,1,686,4.9,5,5,5,5,4.9,no,yes,yes
+464,"Haifa, Haifa District, Israel",4.79 ·,6,3,4,1.5,350,4.9,5,5,4.9,4.8,4.9,no,yes,yes
+465,"Haifa, Haifa District, Israel",4.75 ·,2,1,1,1,284,4.9,4.9,5,4.9,5,4.8,no,yes,yes
+466,"Haifa, Haifa District, Israel",4.78 ·,2,1,1,1,200,4.8,4.8,4.9,4.8,4.7,4.7,no,yes,yes
+467,"Haifa, Haifa District, Israel",4.69 ·,7,2,4,1,234,4.7,4.7,4.8,4.7,4.9,4.7,no,yes,yes
+468,"Haifa, Haifa District, Israel",4.57 ·,2,1,1,1.5,183,4.4,4.7,4.8,4.5,4.8,4.6,no,yes,yes
+469,"Haifa, Haifa District, Israel",,2,Studio,1,1,312,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+470,"Haifa, Haifa District, Israel",4.10 ·,4,2,1,1,153,3.6,4.8,4.8,4.4,4.1,4.4,no,yes,yes
+471,"Haifa, Haifa District, Israel",4.82 ·,2,1,1,1,220,4.9,5,4.9,4.9,4.5,4.7,no,yes,yes
+472,"Haifa, Haifa District, Israel",4.89 ·,2,1,1,1,186,4.9,5,5,4.9,4.9,4.9,yes,yes,yes
+473,"Haifa, Haifa District, Israel",,3,2,2,1,318,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+474,"Haifa, Haifa District, Israel",4.58 ·,2,1,1,1,146,4.8,4.7,4.8,4.7,4.8,4.6,yes,yes,yes
+475,"Haifa, Haifa District, Israel",Nan,4,1,1,1.5,368,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+476,"Haifa, Haifa District, Israel",,2,1,1,1,230,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+477,"Kiryat Motzkin, Haifa District, Israel",Nan,4,2,2,2,240,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+478,"Haifa, Haifa District, Israel",4.38 ·,3,Studio,3,1,490,4.8,4.9,5,4.2,4.9,4.6,yes,yes,yes
+479,"Haifa, Haifa District, Israel",4.33 ·,2,1,1,1,200,4.7,5,4.7,5,4.3,5,no,yes,yes
+480,"Haifa, Haifa District, Israel",Nan,3,1,2,1,189,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+481,"Kiryat Motzkin, Haifa District, Israel",4.79 ·,2,1,1,1,357,4.8,5,5,4.8,4.3,4.7,no,yes,yes
+482,"Haifa, Haifa District, Israel",5.0 ·,5,3,3,2.5,657,4.3,5,5,5,5,5,no,yes,yes
+483,"Haifa, Haifa District, Israel",3.67 ·,4,1,2,1,270,3,5,4.3,3.7,4.7,4,no,yes,yes
+484,"Haifa, Haifa District, Israel",,4,2,2,1,245,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+485,"Haifa, Haifa District, Israel",4.95 ·,4,1,2,1,450,5,5,5,5,5,4.9,yes,yes,yes
+486,"Haifa, Haifa District, Israel",Nan,4,1,1,1,160,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+487,"Haifa, Haifa District, Israel",5.0 ·,4,1,4,1,89,5,5,5,5,5,5,no,yes,yes
+488,"Haifa, Haifa District, Israel",4.43 ·,3,2,2,2,221,4.3,5,4.9,4.3,5,4.4,no,yes,yes
+489,"Haifa, Haifa District, Israel",Nan,2,1,1,1.5,173,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+490,"Haifa, Haifa District, Israel",4.14 ·,Nan,Nan,Nan,Nan,176,4.1,4.6,4.7,4.7,5,4.4,no,yes,yes
+491,"Haifa, Haifa District, Israel",4.64 ·,2,Studio,1,1,382,4.6,4.9,5,4.6,4.9,4.4,yes,yes,yes
+492,"Haifa, Dgania 60, IL, Haifa, Israel",4.50 ·,Nan,Nan,Nan,Nan,279,4.6,4.6,4.6,4.6,4.6,4.5,yes,yes,yes
+493,"Haifa, Haifa District, Israel",,2,1,1,1,300,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+494,"Haifa, Haifa District, Israel",4.47 ·,3,1,2,1,188,4.5,4.9,4.9,4.7,4.5,4.6,yes,yes,yes
+495,"Kiryat Yam, Haifa District, Israel",4.97 ·,6,2,3,1,387,5,5,5,5,4.8,4.9,no,yes,yes
+496,"Haifa, Haifa District, Israel",4.39 ·,2,Studio,2,1,160,4.5,4.8,4.9,4.6,4.7,4.5,no,yes,yes
+497,"Haifa, Israel",4.78 ·,3,2,3,1.5,136,5,4.9,4.9,4.9,4.7,4.8,no,yes,yes
+498,"Haifa, Haifa District, Israel",5.0 ·,2,1,2,1,250,5,5,5,5,5,5,no,yes,yes
+499,"Haifa, Haifa District, Israel",4.67 ·,2,1,1,1.5,287,5,4.7,5,5,5,4.3,no,yes,yes
+500,"Haifa, Haifa District, Israel",4.88 ·,7,4,5,2.5,310,5,4.9,5,5,4.6,5,no,yes,yes
+501,"Haifa, Haifa District, Israel",,2,2,1,1,230,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+502,"Haifa, Haifa District, Israel",4.67 ·,2,1,1,1.5,287,5,4.7,5,5,5,4.3,no,yes,yes
+503,"Haifa, Israel",4.61 ·,4,1,2,1,280,4.8,4.9,4.8,4.7,4.6,4.5,no,yes,yes
+504,"Haifa, Haifa District, Israel",4.78 ·,6,1,3,1,217,4.8,4.9,4.9,4.9,5,4.7,no,yes,yes
+505,"Haifa, Haifa District, Israel",4.40 ·,3,Studio,2,1,282,4.3,4.5,4.9,4.7,4.8,4.6,no,yes,yes
+506,"Haifa, Haifa District, Israel",4.62 ·,4,2,2,1,270,4.8,4.8,4.9,4.8,4.6,4.5,no,yes,yes
+507,"Haifa, Haifa District, Israel",4.94 ·,6,3,3,2,510,4.9,5,4.9,5,4.6,4.8,no,yes,yes
+508,"Haifa, Haifa District, Israel",4.57 ·,2,1,1,1,220,4,5,5,4.6,4.8,4.6,yes,yes,yes
+509,"Haifa, Israel",,2,1,1,1.5,103,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+510,"Haifa, Haifa District, Israel",,2,Studio,1,1,570,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+511,"Haifa, Haifa District, Israel",Nan,2,1,1,1.5,280,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+512,"Haifa, Haifa District, Israel",4.68 ·,1,5,5,2,"1,000",4.5,4.6,4.8,4.5,4.9,4.5,no,yes,yes
+513,"Haifa, Haifa District, Israel",4.92 ·,7,3,3,2.5,360,5,5,5,4.9,4.9,4.8,no,yes,yes
+514,"Haifa, Haifa District, Israel",4.73 ·,5,2,4,1,635,4.9,4.8,4.9,4.9,4.9,4.7,no,yes,yes
+515,"Haifa, Haifa District, Israel",4.68 ·,2,1,1,1,215,4.7,5,4.9,4.8,4.3,4.7,no,yes,yes
+516,"Haifa, Israel",5.0 ·,3,2,2,1,257,5,5,5,5,5,5,yes,yes,yes
+517,"Haifa, Haifa District, Israel",4.33 ·,3,1,2,1,179,4.7,4.8,4.9,4.8,4.9,4.7,no,yes,yes
+518,"Haifa, Haifa District, Israel",4.40 ·,4,1,2,1.5,528,4,4.8,4.8,3.8,5,4.4,no,yes,yes
+519,"Haifa, Haifa District, Israel",Nan,2,1,1,1,195,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+520,"Haifa, Israel",4.79 ·,5,1,3,1,219,4.9,4.9,4.9,4.8,4.7,4.8,no,yes,yes
+521,"Haifa, Haifa District, Israel",4.80 ·,2,1,1,1,150,5,5,4.9,4.9,4.8,4.9,yes,yes,yes
+522,"Kiryat Yam, Haifa District, Israel",4.80 ·,2,2,1,1.5,595,4.8,5,5,4.8,4.6,4.9,no,yes,yes
+523,"Haifa, Haifa District, Israel",4.91 ·,4,2,3,1,397,5,5,4.9,4.9,4.7,4.9,yes,yes,yes
+524,"Haifa, Haifa District, Israel",4.67 ·,4,2,2,1,414,4.8,5,5,4.8,5,4.7,yes,yes,yes
+525,"Haifa, Haifa District, Israel",4.96 ·,4,1,2,1,200,4.8,5,5,4.9,4.9,4.8,yes,yes,yes
+526,"Haifa, Haifa District, Israel",5.0 ·,6,2,2,1,726,5,5,5,5,5,5,no,yes,yes
+527,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+528,"Haifa, Haifa District, Israel",5.0 ·,4,Studio,4,1,261,5,5,5,5,5,5,yes,yes,yes
+529,"Haifa, Haifa District, Israel",4.94 ·,8,4,6,3.5,"2,000",4.9,5,4.9,5,4.9,4.9,yes,yes,yes
+530,"Haifa, Haifa District, Israel",4.83 ·,4,Studio,2,1,248,4.8,4.9,5,4.8,4.7,4.8,no,yes,yes
+531,"Haifa, Haifa District, Israel",4.90 ·,4,1,2,1,629,4.8,5,5,5,5,4.7,yes,yes,yes
+532,"Beit Oren, Haifa District, Israel",4.83 ·,2,1,1,1,325,4.6,4.9,5,4.8,4.8,4.7,no,yes,yes
+533,"Haifa, Haifa District, Israel",4.78 ·,8,3,9,1.5,520,4.8,5,5,5,4.7,4.8,yes,yes,yes
+534,"Haifa, Haifa District, Israel",4.57 ·,8,4,4,2,"1,000",4.1,4.6,5,4.8,4.9,4.5,no,yes,yes
+535,"Haifa, Haifa District, Israel",4.73 ·,2,1,1,1,245,4.7,5,4.9,4.8,4.3,4.7,no,yes,yes
+536,"Haifa, Haifa District, Israel",4.88 ·,4,1,2,1.5,280,4.9,4.8,5,4.9,4.9,4.8,no,yes,yes
+537,"Haifa, Haifa District, Israel",4.83 ·,3,1,2,1,350,4.8,5,4.9,5,4.8,4.9,no,yes,yes
+538,"Haifa, Israel, Israel",4.92 ·,6,2,3,2,801,5,4.9,5,5,5,4.8,yes,yes,yes
+539,"Haifa, Haifa District, Israel",4.20 ·,4,2,2,2,210,4.2,4.9,5,4,4.3,4.5,no,no,yes
+540,"Haifa, Haifa District, Israel",4.81 ·,4,2,2,2,376,4.9,5,5,4.9,4.4,4.7,yes,yes,yes
+541,"Haifa, Haifa District, Israel",4.84 ·,4,2,2,1,439,4.9,5,5,4.9,4.8,4.8,no,yes,yes
+542,"Haifa, Haifa District, Israel",4.67 ·,1,1,18,4,75,4.7,5,4.3,4,5,5,no,yes,yes
+543,"Haifa, Haifa District, Israel",4.62 ·,2,1,1,1,175,4.8,5,5,4.7,4.5,4.7,no,yes,yes
+544,"Haifa, Haifa District, Israel",,2,Studio,1,1,419,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+545,"Haifa, Haifa District, Israel",Nan,4,2,2,1,583,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+546,"Haifa, Haifa District, Israel",4.67 ·,4,2,2,1,200,4.7,4.9,4.9,4.9,5,4.8,yes,yes,yes
+547,"Haifa, Haifa District, Israel",,2,1,1,1,391,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+548,"Haifa, Haifa District, Israel",4.52 ·,4,2,2,1.5,188,4.5,4.9,5,4.6,4.6,4.7,no,yes,yes
+549,"חיפה, מחוז חיפה, Israel",4.67 ·,2,Studio,1,1,464,4.7,4.7,4.3,4.8,4.8,4.8,no,yes,yes
+550,"Haifa, Haifa District, Israel",,4,4,6,2,110,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+551,"Haifa, Haifa District, Israel",Nan,6,3,6,2,800,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+552,"Haifa, Haifa District, Israel",4.50 ·,9,2,4,1.5,140,4.1,4.8,4.9,4.6,4.7,4.5,no,yes,yes
+553,"Haifa, Israel",4.89 ·,3,Studio,2,1,543,5,4.9,5,4.8,4.9,4.8,no,yes,yes
+554,"Haifa, Haifa District, Israel",5.0 ·,6,3,6,2,450,4.9,5,5,5,4.8,5,no,yes,yes
+555,"Haifa, Haifa District, Israel",Nan,2,1,1,1,287,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+556,"Haifa, Haifa District, Israel",4.78 ·,2,1,1,1,638,4.7,5,4.9,4.8,4.3,4.4,no,yes,yes
+557,"Haifa, Haifa District, Israel",4.71 ·,2,1,1,1,181,4.7,4.8,4.8,4.9,4.8,4.7,yes,yes,yes
+558,"Tirat Carmel, Haifa District, Israel",5.0 ·,6,3,3,3.5,750,5,5,5,5,5,5,no,yes,yes
+559,"Haifa, Haifa District, Israel",,5,2,4,2.5,691,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+560,"Nesher, Haifa District, Israel",4.87 ·,2,Studio,1,1,245,4.9,5,5,4.9,4.4,4.9,no,yes,yes
+561,"Haifa, Israel",4.73 ·,2,1,1,1,160,4.4,4.9,4.9,4.9,4.8,4.5,no,yes,yes
+562,"Haifa, Haifa District, Israel",4.86 ·,2,1,1,1.5,285,5,5,5,5,4.7,5,no,yes,yes
+563,"Haifa, Haifa District, Israel",4.62 ·,1,1,2,1,250,4.7,4.8,4.9,4.8,4.7,4.7,no,yes,yes
+564,"Haifa, Haifa District, Israel",4.33 ·,3,1,2,1.5,174,4,4.7,5,4,4.8,4.5,no,yes,yes
+565,"Haifa, Haifa District, Israel",4.0 ·,6,3,3,2.5,"1,857",3.8,4.1,4.6,4.6,4.4,3.6,no,yes,yes
+566,"Haifa, Haifa District, Israel",4.88 ·,1,1,2,1.5,89,4.8,4.9,4.9,4.8,4.9,4.8,no,yes,yes
+567,"Haifa, Haifa District, Israel",4.57 ·,2,1,1,1,250,4.4,5,5,4.6,4.9,4.7,no,yes,yes
+568,"Haifa, Haifa District, Israel",5.0 ·,5,1,3,1,309,5,5,5,5,5,4.7,no,yes,yes
+569,"Haifa, Haifa District, Israel",4.67 ·,2,Studio,1,1,376,5,5,5,4.3,5,4.7,no,yes,yes
+570,"Haifa, Haifa District, Israel",4.70 ·,2,Studio,1,1,200,4.9,5,4.9,5,4.7,4.8,yes,yes,yes
+571,"Haifa, Haifa District, Israel",4.95 ·,2,1,2,1,180,5,5,5,5,4.8,4.9,no,yes,yes
+572,"Haifa, Haifa District, Israel",4.90 ·,2,1,1,1,313,5,5,5,4.9,4.9,4.8,no,yes,yes
+573,"Haifa, Haifa District, Israel",5.0 ·,2,Studio,1,1,544,5,4.6,4.8,4.8,4.6,4.8,no,yes,yes
+574,"Haifa, Haifa District, Israel",4.09 ·,2,Studio,1,1,121,4.5,4.7,4.7,4.4,4.3,4.4,no,yes,yes
+575,"Haifa, Haifa District, Israel",4.94 ·,4,2,3,1,493,4.8,5,5,5,4.9,4.7,yes,yes,yes
+576,"Haifa, Haifa District, Israel",4.41 ·,2,1,1,1.5,185,4.7,4.8,4.8,4.7,4.7,4.6,no,yes,yes
+577,"Haifa, Haifa District, Israel",4.73 ·,6,2,3,1,400,4.7,4.9,5,4.8,4.9,4.7,no,yes,yes
+578,"Haifa, Haifa District, Israel",4.63 ·,Nan,Nan,Nan,Nan,223,4.8,5,5,4.8,4.8,4.8,no,yes,yes
+579,"Haifa, Haifa District, Israel",5.0 ·,6,2,3,2.5,579,5,5,4.7,5,4.9,4.8,yes,yes,yes
+580,"Haifa, Haifa District, Israel",5.0 ·,6,2,3,2.5,579,5,5,4.7,5,4.9,4.8,yes,yes,yes
+581,"Haifa, Haifa District, Israel",5.0 ·,2,1,1,1,287,5,5,5,5,4.7,4.3,no,yes,yes
+582,"Haifa, Haifa District, Israel",4.79 ·,4,2,2,1,399,4.7,5,5,4.9,4.9,4.7,no,yes,yes
+583,"Haifa, Haifa District, Israel",,3,Studio,2,1,566,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+584,"Haifa, Haifa District, Israel",5.0 ·,6,2,2,1.5,986,5,5,5,5,4.8,5,yes,yes,yes
+585,"Kiryat Motzkin, Haifa District, Israel",4.78 ·,2,1,1,1,350,4.8,4.9,4.9,4.9,4.7,4.9,no,yes,yes
+586,"Haifa, Haifa District, Israel",4.68 ·,6,2,5,1,414,4.2,4.6,5,4.7,4.9,4.7,yes,yes,yes
+587,"Haifa, Haifa District, Israel",,1,1,1,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+588,"Haifa, Haifa District, Israel",,3,1,2,1,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+589,"Haifa, Haifa District, Israel",5.0 ·,2,1,2,1.5,464,4.9,5,5,5,5,4.9,no,yes,yes
+590,"Haifa, Haifa District, Israel",5.0 ·,2,1,1,1.5,359,5,5,5,5,5,4.8,no,yes,yes
+591,"Haifa, Haifa District, Israel",5.0 ·,6,2,4,1.5,429,4.9,5,4.9,5,4.6,4.9,yes,yes,yes
+592,"Haifa, Haifa District, Israel",4.93 ·,6,3,3,1,873,4.9,5,5,5,4.9,5,no,yes,yes
+593,"Haifa, Haifa District, Israel",,2,1,1,1,70,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+594,"Haifa, Haifa District, Israel",4.63 ·,2,Studio,1,1,413,4.9,4.8,4.5,4.8,4.2,4.4,no,yes,yes
+595,"Haifa, Haifa District, Israel",Nan,2,1,1,1,155,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+596,"Haifa, Haifa District, Israel",,4,1,2,1,951,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+597,"Haifa, Haifa District, Israel",4.89 ·,7,3,4,1,469,5,4.9,5,5,4.6,4.9,no,yes,yes
+598,"Haifa, Haifa District, Israel",4.63 ·,4,1,3,1,669,4.8,4.9,4.8,4.8,4.9,4.8,no,yes,yes
+599,"Haifa, Haifa District, Israel",4.31 ·,7,2,6,1,311,4,4.6,4.9,4.2,4.2,4.4,no,no,yes
+600,"Netanya, Center District, Israel",4.84 ·,3,1,1,1,200,4.8,4.9,5,4.8,4.9,4.7,no,yes,yes
+601,"Netanya, Center District, Israel",4.68 ·,2,Studio,1,1,224,4.3,5,5,5,5,4.6,yes,yes,yes
+602,"נתניה, מחוז המרכז, Israel",4.69 ·,2,Studio,1,1,230,4.5,5,4.9,4.9,4.9,4.9,no,yes,yes
+603,"Netanya, Center District, Israel",4.73 ·,2,1,1,1,136,4.8,5,4.7,4.8,4.9,4.8,no,yes,yes
+604,"Netanya, Center District, Israel",4.60 ·,3,Studio,2,1,149,4.5,5,5,4.9,4.8,4.8,no,yes,yes
+605,"Netanya, Center District, Israel",4.92 ·,4,2,3,1,150,4.8,4.9,5,4.9,4.9,4.9,no,yes,yes
+606,"Netanya, Center District, Israel",4.86 ·,4,1,3,1,269,4.8,4.9,4.9,4.9,4.7,4.8,yes,yes,yes
+607,"Netanya, Center District, Israel",4.74 ·,3,1,2,1,272,4.8,4.9,4.9,4.7,4.8,4.7,no,yes,yes
+608,"Netanya, Center District, Israel",4.57 ·,4,Studio,2,1.5,323,4.5,4.7,4.8,4.8,5,4.8,no,yes,yes
+609,"נתניה, מחוז המרכז, Israel",4.77 ·,2,1,1,1.5,200,4.8,5,4.9,4.9,4.7,4.9,no,yes,yes
+610,"Netanya, Center District, Israel",4.76 ·,3,Studio,2,1.5,336,4.8,4.8,4.8,4.8,4.9,4.8,no,yes,yes
+611,"Netanya, Center District, Israel",4.92 ·,4,1,4,1,144,4.8,5,5,5,4.7,4.8,no,yes,yes
+612,"Netanya, Israel, Israel",4.79 ·,3,1,2,1,127,4.6,4.9,5,4.8,4.9,4.9,no,yes,yes
+613,"Netanya, Center District, Israel",4.74 ·,7,3,3,3.5,490,4.4,4.6,4.8,4.8,5,4.8,no,yes,yes
+614,"Netanya, Center District, Israel",,2,Studio,1,1.5,294,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+615,"Netanya, Center District, Israel",4.71 ·,1,1,1,1.5,111,4.1,4.7,4.8,4.9,4.8,4.6,no,yes,yes
+616,"Netanya, Center District, Israel",,6,3,3,2,220,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+617,"Netanya, Center District, Israel",4.47 ·,3,Studio,3,1.5,307,4.5,4.5,4.7,4.5,4.9,4.5,no,yes,yes
+618,"Netanya, Israel",4.56 ·,2,Studio,2,1,318,4.5,4.8,4.8,4.6,4.7,4.5,no,yes,yes
+619,"Netanya, Center District, Israel",4.91 ·,6,3,5,2.5,266,4.8,4.9,4.9,4.9,4.8,4.8,yes,yes,yes
+620,"Netanya, Center District, Israel",4.81 ·,5,2,3,1.5,316,4.7,5,4.9,4.9,4.6,4.7,no,yes,yes
+621,"Netanya, Center District, Israel",4.57 ·,3,1,2,1,270,4.6,4.8,4.7,4.9,4.6,4.6,no,yes,yes
+622,"Netanya, Center District, Israel",4.95 ·,3,1,2,1.5,175,4.9,5,5,5,5,4.9,no,yes,yes
+623,"Netanya, Center District, Israel",4.86 ·,2,Studio,1,1.5,313,4.7,4.9,5,5,5,4.7,no,yes,yes
+624,"Netanya, Center District, Israel",4.96 ·,5,2,5,1,550,5,5,5,5,5,4.9,no,no,yes
+625,"Netanya, Center District, Israel",4.74 ·,4,1,2,1,284,4.7,4.8,4.9,4.7,4.5,4.7,no,yes,yes
+626,"Netanya, Center District, Israel",4.59 ·,3,1,1,1,190,4.4,4.9,4.9,4.8,4.9,4.6,yes,yes,yes
+627,"Netanya, Center District, Israel",4.64 ·,7,3,3,3,663,4.4,4.6,4.6,4.8,5,4.4,yes,yes,yes
+628,"Netanya, Center District, Israel",5.0 ·,2,1,1,1.5,200,5,5,5,5,5,5,no,yes,yes
+629,"Netanya, Center District, Israel",,2,1,1,1,348,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+630,"Netanya, Center District, Israel",5.0 ·,3,Studio,1,1.5,336,5,5,4.3,4.7,5,4.7,no,yes,yes
+631,"Netanya, Center District, Israel",4.75 ·,3,1,2,1,286,4.8,4.8,5,5,4.5,4.8,no,yes,yes
+632,"Netanya, Center District, Israel",4.83 ·,2,1,1,1,299,4.9,5,5,4.9,4.9,4.8,yes,no,yes
+633,"Netanya, Center District, Israel",4.93 ·,2,1,1,1,120,5,5,4.9,4.9,4.9,5,yes,yes,yes
+634,"Netanya, Israel",4.90 ·,3,1,2,1,276,4.9,4.9,4.9,4.9,4.8,4.8,no,yes,yes
+635,"Netanya, Center District, Israel",4.0 ·,Nan,Nan,Nan,Nan,238,4.2,3.8,3.5,3.8,5,4,no,yes,yes
+636,"Netanya, Center District, Israel",Nan,2,1,1,1,201,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+637,"Netanya, Center District, Israel",,3,Studio,2,1,329,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+638,"Netanya, Center District, Israel",4.70 ·,4,2,3,1.5,318,4.8,4.7,5,4.6,4.9,4.7,no,yes,yes
+639,"Netanya, Center District, Israel",4.90 ·,6,2,3,1.5,223,4.9,5,4.9,5,4.9,4.9,no,yes,yes
+640,"Netanya, Israel",4.85 ·,2,1,1,1,95,5,4.9,4.9,4.9,4.7,4.8,yes,yes,yes
+641,"Netanya, Center District, Israel",4.93 ·,6,2,3,1.5,321,5,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+642,"Netanya, Center District, Israel",,3,1,2,1,270,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+643,"Netanya, Center District, Israel",4.50 ·,2,Studio,3,1.5,311,4.8,4.2,4.5,4.8,4.5,4.2,no,yes,yes
+644,"Netanya, Center District, Israel",4.60 ·,7,2,4,2,607,4.6,4.8,4.8,4.6,5,4.2,no,yes,yes
+645,"Netanya, Center District, Israel",Nan,3,Studio,2,1,324,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+646,"Netanya, Center District, Israel",4.42 ·,2,1,1,2.5,180,4.5,4.6,5,4.5,4.7,4.7,yes,yes,yes
+647,"Netanya, Center District, Israel",4.60 ·,5,2,2,1.5,452,4.6,5,5,5,4.8,5,no,yes,yes
+648,"Netanya, Center District, Israel",4.90 ·,5,2,3,2,413,4.4,5,5,5,5,4.9,yes,yes,yes
+649,"Netanya, Center District, Israel",4.83 ·,8,3,4,2,568,4.7,5,4.8,5,4.8,4.8,no,yes,yes
+650,"Netanya, Center District, Israel",,4,1,2,1.5,379,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+651,"Netanya, Center District, Israel",,3,Studio,2,1.5,327,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+652,"Netanya, Center District, Israel",4.33 ·,3,Studio,2,1,270,4.7,4.5,4.7,4.5,4.5,4.2,no,yes,yes
+653,"Bat Hen, Center District, Israel",5.0 ·,2,1,2,1,450,5,5,5,5,4.9,5,no,yes,yes
+654,"Netanya, Center District, Israel",5.0 ·,2,1,1,1,176,5,5,5,5,5,5,no,yes,yes
+655,"Netanya, Center District, Israel",4.17 ·,4,1,2,1,405,4.5,4.4,4.6,4.2,5,3.9,no,yes,yes
+656,"Netanya, Center District, Israel",4.35 ·,3,1,2,1,272,4,4.9,4.8,4.5,4.5,4.4,no,yes,yes
+657,"Beit Yitshak Sha'ar Hefer, Center District, Israel",4.82 ·,2,1,1,1,250,4.8,5,5,4.9,4.9,4.9,no,yes,yes
+658,"Netanya, Center District, Israel",5.0 ·,2,1,1,1.5,165,5,5,4.9,5,4.9,5,no,yes,yes
+659,"Netanya, Center District, Israel",Nan,3,1,2,1,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+660,"Netanya, Center District, Israel",4.83 ·,8,3,2,3,668,4.8,4.8,5,4.8,4.8,4.3,yes,yes,yes
+661,"Netanya, Israel",4.53 ·,7,3,7,2.5,354,4.2,4.9,4.8,4.6,4.9,4.6,no,yes,yes
+662,"Netanya, Center District, Israel",4.42 ·,4,1,4,1,318,4.7,5,4.7,4.2,4.8,4.3,no,yes,yes
+663,"Netanya, Center District, Israel",4.55 ·,3,1,2,1,230,4.3,5,5,4.9,4.7,4.5,no,yes,yes
+664,"Netanya, Center District, Israel",,2,Studio,1,1,302,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+665,"Netanya, Center District, Israel",,2,Studio,1,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+666,"Netanya, Center District, Israel",,4,1,1,1,210,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+667,"Netanya, Israel",3.86 ·,5,2,3,1.5,531,4,4.1,4.3,4.1,4.6,3.6,no,yes,yes
+668,"Netanya, Center District, Israel",5.0 ·,5,2,4,1,Nan,4.8,5,5,5,5,5,no,yes,yes
+669,"Netanya, Center District, Israel",4.42 ·,6,3,3,3,789,4.3,4.3,4.6,4.4,4.8,4.5,no,yes,yes
+670,"Netanya, Center District, Israel",4.88 ·,6,3,5,1,420,4.6,4.8,4.9,4.8,4.9,4.7,yes,yes,yes
+671,"Poleg, Netanya, Center District, Israel",5.0 ·,5,3,3,2.5,413,4.7,5,4.9,5,5,4.9,yes,yes,yes
+672,"Netanya, Center District, Israel",,5,2,3,1,251,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+673,"Netanya, Center District, Israel",4.74 ·,1,1,6,1,716,4.6,4.8,4.8,4.8,4.5,4.7,no,yes,yes
+674,"Netanya, Center District, Israel",Nan,6,2,2,1,509,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+675,"Netanya, North District, Israel",4.71 ·,4,1,2,1,537,4.7,4.6,4.4,4.4,5,5,yes,yes,yes
+676,"Netanya, Center District, Israel",4.98 ·,5,2,4,1.5,707,5,5,5,5,4.9,5,yes,yes,yes
+677,"Netanya, Center District, Israel",4.77 ·,2,1,1,1,270,4.8,4.8,4.8,4.8,4.5,4.7,yes,yes,yes
+678,"Netanya, Center District, Israel",,5,2,2,1.5,454,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+679,"Netanya, Center District, Israel",4.46 ·,2,1,1,1,234,4.8,4.7,4.9,4.6,4.7,4.9,no,yes,yes
+680,"Netanya, Center District, Israel",4.47 ·,2,1,1,1.5,191,4.8,5,4.6,4.6,4.8,4.4,no,yes,yes
+681,"Netanya, Center District, Israel",4.59 ·,5,1,3,1,198,4.6,4.8,4.8,4.8,5,4.7,no,yes,yes
+682,"Netanya, Center District, Israel",4.67 ·,6,2,4,1,364,5,4.9,5,4.8,4.2,4.9,no,yes,yes
+683,"Netanya, Center District, Israel",,3,1,2,1,272,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+684,"Netanya, Center District, Israel",4.25 ·,6,2,3,1.5,350,4.1,4.6,4.5,4.4,4.9,4.3,no,yes,yes
+685,"Hofit, Center District, Israel",5.0 ·,2,1,1,1.5,470,4.4,4.4,4.4,4.4,4.4,4.4,no,yes,yes
+686,"Netanya, Center District, Israel",5.0 ·,2,1,1,1.5,120,4.7,5,5,5,5,5,no,yes,yes
+687,"Netanya, Center District, Israel",4.89 ·,3,1,2,1,238,5,5,5,4.9,4.9,4.9,no,yes,yes
+688,"Netanya, Center District, Israel",4.96 ·,2,1,1,1,149,4.9,5,5,4.9,4.8,4.9,no,yes,yes
+689,"Netanya, Center District, Israel",,2,Studio,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+690,"Netanya, Center District, Israel",,4,1,1,1,286,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+691,"Netanya, Center District, Israel",4.67 ·,4,2,3,2,600,4.5,4.8,4.9,5,5,4.8,yes,yes,yes
+692,"Netanya, Center District, Israel",Nan,3,Studio,2,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+693,"Netanya, Center District, Israel",4.87 ·,4,1,1,1,233,4.8,5,5,4.9,4.9,4.8,no,yes,yes
+694,"Netanya, Center District, Israel",,2,Studio,1,1,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+695,"Netanya, Center District, Israel",5.0 ·,7,3,5,2.5,934,5,5,5,5,5,4.9,no,yes,yes
+696,"Netanya, Center District, Israel",4.78 ·,4,1,4,1,280,4.7,5,5,4.8,4.8,4.4,yes,yes,yes
+697,"Netanya, Center District, Israel",,2,Studio,2,1.5,314,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+698,"Netanya, Center District, Israel",4.67 ·,2,Studio,1,1,249,4.3,5,5,5,5,4.7,no,yes,yes
+699,"Netanya, Center District, Israel",,2,Studio,1,1,586,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+700,"Netanya, Center District, Israel",,2,Studio,1,1,586,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+701,"Netanya, Center District, Israel",5.0 ·,2,1,3,1,120,5,5,5,5,5,4.8,no,yes,yes
+702,"Netanya, Center District, Israel",4.84 ·,5,2,2,1,350,4.7,4.9,5,4.9,4.7,4.8,no,yes,yes
+703,"Netanya, Center District, Israel",,3,1,2,1,562,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+704,"Netanya, Center District, Israel",,3,1,1,1,290,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+705,"Netanya, Center District, Israel",4.79 ·,3,1,2,1,270,4.7,5,4.9,4.9,4.9,4.8,no,yes,yes
+706,"Netanya, Center District, Israel",4.97 ·,2,1,1,1,159,5,5,5,5,4.8,4.9,no,yes,yes
+707,"Netanya, Center District, Israel",4.85 ·,2,Studio,2,1,900,4.6,5,5,5,4.9,4.8,no,yes,yes
+708,"Netanya, Center District, Israel",4.81 ·,5,2,4,1.5,277,4.4,5,5,4.9,5,4.8,no,yes,yes
+709,"Netanya, Center District, Israel",4.49 ·,1,4,4,3,904,4.4,4.7,4.9,4.7,4.9,4.5,yes,yes,yes
+710,"Netanya, Center District, Israel",5.0 ·,6,3,4,3,500,4.8,4.9,5,5,5,4.9,no,yes,yes
+711,"Netanya, Center District, Israel",4.81 ·,7,3,4,2,411,4.3,4.8,4.9,4.9,4.9,4.7,no,yes,yes
+712,"Netanya, Center District, Israel",4.75 ·,6,3,3,1.5,514,4.4,4.9,4.8,4.8,5,4.6,no,yes,yes
+713,"Netanya, Center District, Israel",Nan,2,Studio,1,1,295,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+714,"Netanya, Center District, Israel",Nan,2,Studio,1,1,191,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+715,"Netanya, Center District, Israel",4.33 ·,Nan,Nan,Nan,Nan,631,4.7,4.7,4.7,4,5,4.7,yes,yes,yes
+716,"Netanya, Center District, Israel",Nan,8,2,8,1,391,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+717,"Netanya, Center District, Israel",5.0 ·,2,Studio,2,1,359,5,5,5,5,5,5,no,yes,yes
+718,"Netanya, Center District, Israel",4.38 ·,4,1,2,1,187,4.6,4.9,4.5,4.5,4.7,4.6,no,yes,yes
+719,"Netanya, Center District, Israel",4.71 ·,7,3,4,2,"1,000",4.6,4.5,4.8,4.8,4.9,4.7,no,yes,yes
+720,"Netanya, Center District, Israel",4.63 ·,8,5,8,3.5,633,4.4,4.9,4.9,4.8,4.9,4.6,yes,yes,yes
+721,"Netanya, Center District, Israel",,4,2,3,1,220,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+722,"Netanya, Center District, Israel",,4,1,2,1,359,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+723,"Netanya, Center District, Israel",4.75 ·,6,3,5,1,450,4.8,5,5,4.8,5,4.2,no,yes,yes
+724,"Netanya, Center District, Israel",Nan,4,1,2,1,341,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+725,"Tzur Moshe, Center District, Israel",4.82 ·,4,1,2,1,190,4.6,4.9,4.9,5,4.9,5,no,yes,yes
+726,"Netanya, Center District, Israel",4.52 ·,3,1,2,1,270,4.7,4.9,4.7,4.6,4.7,4.6,no,yes,yes
+727,"Netanya, Center District, Israel",4.74 ·,2,1,1,2,180,4.5,4.7,4.8,4.6,4.8,4.4,no,yes,yes
+728,"Netanya, Center District, Israel",Nan,2,Studio,1,1.5,295,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+729,"Netanya, Israel",4.93 ·,5,3,3,2.5,408,4.9,5,5,4.9,5,4.9,yes,yes,yes
+730,"Netanya, Center District, Israel",4.40 ·,6,2,4,1,371,4.4,4.6,4.8,4.2,4.8,4.6,no,yes,yes
+731,"Netanya, Center District, Israel",4.42 ·,6,2,4,2.5,313,4.4,4.7,4.8,4.5,4.9,4.3,no,yes,yes
+732,"Netanya, Center District, Israel",5.0 ·,Nan,Nan,Nan,Nan,550,5,5,5,5,4.7,5,no,yes,yes
+733,"Netanya, Center District, Israel",5.0 ·,4,1,2,1,400,5,5,5,5,5,5,no,yes,yes
+734,"Netanya, Center District, Israel",,6,2,2,1,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+735,"Netanya, Center District, Israel",4.94 ·,9,3,7,2,847,4.8,4.9,5,5,5,4.8,yes,yes,yes
+736,"Netanya, Center District, Israel",4.82 ·,2,1,1,1,220,4.4,5,5,4.7,4.9,4.8,no,yes,yes
+737,"Netanya, Center District, Israel",5.0 ·,8,4,6,2,"1,076",5,5,5,5,4.9,4.8,no,yes,yes
+738,"Netanya, Center District, Israel",Nan,2,1,1,1,254,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+739,"Netanya, Center District, Israel",3.67 ·,2,Studio,1,1,287,3.7,3.7,3.7,3.7,3.7,3.7,no,yes,yes
+740,"Netanya, Center District, Israel",4.68 ·,8,3,4,1.5,300,4.6,5,5,4.6,4.8,4.9,yes,yes,yes
+741,"Netanya, Center District, Israel",4.64 ·,6,3,4,2,373,4.1,4.5,4.4,4.5,5,4.2,no,yes,yes
+742,"Netanya, Center District, Israel",4.67 ·,6,3,2,2.5,572,4.7,4.7,5,4.7,5,4.3,no,yes,yes
+743,"Netanya, Center District, Israel",4.77 ·,2,1,1,1,420,4.7,5,4.9,4.8,4.9,4.8,no,yes,yes
+744,"Netanya, Center District, Israel",5.0 ·,4,1,2,1,193,5,5,5,5,5,4.8,no,yes,yes
+745,"Netanya, Center District, Israel",4.71 ·,6,3,6,2,750,4.8,4.8,5,4.8,4.9,4.7,no,yes,yes
+746,"Netanya, Center District, Israel",4.56 ·,5,1,4,1,300,4.7,4.3,4.2,4.6,4.8,4.6,no,yes,yes
+747,"Нетания, Israel",4.54 ·,3,1,2,1,272,4.4,4.9,4.7,4.6,4.7,4.5,no,yes,yes
+748,"Netanya, Center District, Israel",4.53 ·,2,1,1,3,180,4.3,4.6,4.7,4.6,4.8,4.5,yes,yes,yes
+749,"Netanya, Center District, Israel",3.67 ·,Nan,Nan,Nan,Nan,281,3,4.3,4.7,4.3,4.3,3.3,no,yes,yes
+750,"Netanya, Center District, Israel",,Nan,Nan,Nan,Nan,310,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+751,"Netanya, Center District, Israel",Nan,3,1,1,1,382,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+752,"Netanya, Center District, Israel",5.0 ·,7,3,7,1,349,5,5,4.8,5,4.5,5,no,yes,yes
+753,"Netanya, Center District, Israel",Nan,2,1,1,1,500,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+754,"Netanya, Center District, Israel",,3,Studio,2,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+755,"Netanya, Center District, Israel",4.64 ·,2,1,1,2,145,4.5,4.7,4.8,4.8,4.4,4.5,yes,yes,yes
+756,"Netanya, Israel",4.63 ·,7,2,3,1,365,4.5,4.8,4.8,4.8,4.9,4.5,no,yes,yes
+757,"Netanya, Center District, Israel",4.90 ·,8,3,6,2,694,4.6,5,4.9,5,5,4.8,yes,yes,yes
+758,"נתניה, מחוז המרכז, Israel",4.75 ·,6,3,4,2,419,4.6,4.9,5,4.8,4.4,4.6,no,yes,yes
+759,"Herut, Center District, Israel",4.91 ·,2,1,1,1,770,5,4.9,5,4.9,4.9,4.8,no,yes,yes
+760,"Netanya, Center District, Israel",5.0 ·,4,1,2,1,307,5,5,5,5,5,5,no,yes,yes
+761,"Netanya, Center District, Israel",,1,3,10,3,955,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+762,"Netanya, Center District, Israel",3.67 ·,3,1,2,1,108,3.3,3.7,4,3.7,4,4,no,yes,yes
+763,"Netanya, Center District, Israel",5.0 ·,4,1,2,1,143,5,5,5,5,5,5,no,yes,yes
+764,"Netanya, Israel",4.75 ·,3,1,2,1.5,118,4.8,4.8,4.9,4.8,4.4,4.7,no,yes,yes
+765,"Netanya, Center District, Israel",4.70 ·,2,1,1,1,254,4.8,5,5,4.8,4.8,4.7,no,yes,yes
+766,"Netanya, Center District, Israel",4.54 ·,6,2,4,1,275,4.7,4.9,4.9,4.6,4.8,4.6,no,yes,yes
+767,"Netanya, Center District, Israel",5.0 ·,6,3,3,2,600,5,5,5,5,5,5,yes,yes,yes
+768,"Netanya, Center District, Israel",,2,Studio,1,1,286,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+769,"Netanya, Center District, Israel",Nan,3,1,2,1,270,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+770,"Netanya, Center District, Israel",,4,1,1,1,238,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+771,"Netanya, Center District, Israel",5.0 ·,2,1,1,1,350,5,5,5,5,4.8,4.8,no,yes,yes
+772,"Netanya, Center District, Israel",Nan,5,2,4,1,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+773,"Netanya, Center District, Israel",,2,2,2,2,700,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+774,"Netanya, Center District, Israel",4.60 ·,5,1,4,1,300,4.4,4.8,4,4.8,4.8,4.6,no,yes,yes
+775,"Netanya, Center District, Israel",,6,2,5,1,430,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+776,"Netanya, Israel",4.44 ·,3,1,2,1.5,95,4.6,4.4,4.8,4.6,4,4.5,yes,yes,yes
+777,"Netanya, Center District, Israel",4.74 ·,8,4,4,1.5,100,5,4.6,4.8,4.8,4.4,4.8,no,yes,yes
+778,"Netanya, Center District, Israel",5.0 ·,7,3,5,1,440,4.7,5,5,5,5,5,yes,yes,yes
+779,"Netanya, Center District, Israel",5.0 ·,2,Studio,1,1,305,4.3,5,5,5,5,3.7,no,yes,yes
+780,"Netanya, Center District, Israel",4.67 ·,8,4,4,2.5,"1,045",4.7,5,5,4.3,5,4.7,no,yes,yes
+781,"Netanya, Center District, Israel",Nan,2,1,1,1,500,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+782,"Netanya, Center District, Israel",Nan,8,2,2,2,994,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+783,"Netanya, Center District, Israel",4.0 ·,5,3,6,2.5,509,3.3,4.2,4.7,4.2,4.8,3.7,no,yes,yes
+784,"Bnei Zion, Center District, Israel",4.52 ·,2,1,2,1,200,4.7,4.8,4.9,4.7,4.7,4.6,no,yes,yes
+785,"Netanya, Center District, Israel",3.67 ·,8,2,6,1.5,380,4.7,3,4.7,4,4.7,4,no,yes,yes
+786,"Netanya, Center District, Israel",4.33 ·,1,2,4,1.5,479,4.3,4.9,4.8,4.6,5,4.4,no,yes,yes
+787,"Netanya, Center District, Israel",4.69 ·,6,3,3,2,525,4.2,4.8,4.9,4.8,4.9,4.5,yes,yes,yes
+788,"Netanya, Center District, Israel",Nan,2,1,1,1,496,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+789,"Netanya, Center District, Israel",4.50 ·,6,3,2,2,645,4.2,4.8,5,4.5,5,4.5,yes,yes,yes
+790,"Netanya, Center District, Israel",4.39 ·,4,1,2,1,318,4.6,4.7,4.7,4.6,4.7,4.3,no,yes,yes
+791,"Netanya, Center District, Israel",4.46 ·,5,2,4,1,410,4.5,4.9,4.9,4.5,4.8,4.7,no,yes,yes
+792,"Netanya, Center District, Israel",Nan,2,Studio,1,1.5,337,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+793,"Tsukei Yam, Center District, Israel",Nan,4,1,1,1,450,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+794,"Netanya, Center District, Israel",,2,Studio,1,1.5,376,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+795,"Beit Yanai, Center District, Israel",5.0 ·,4,2,2,2,450,4.5,5,5,5,5,5,yes,yes,yes
+796,"Netanya, Center District, Israel",5.0 ·,8,3,6,2,664,5,5,5,5,5,5,no,yes,yes
+797,"Netanya, Center District, Israel",,7,2,3,2,439,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+798,"Netanya, Center District, Israel",4.82 ·,6,3,5,4,610,4.5,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+799,"Netanya, Israel",4.88 ·,3,1,1,1,176,4.9,5,5,4.9,4.5,4.9,no,yes,yes
+800,"Netanya, Center District, Israel",4.72 ·,1,5,16,2.5,"1,059",4.5,4.9,4.9,4.9,5,4.6,no,yes,yes
+801,"Netanya, Center District, Israel",4.62 ·,4,1,1,1,396,4.8,4.8,4.8,4.7,4.8,4.5,yes,yes,yes
+802,"Netanya, Israel",4.25 ·,2,1,2,1,197,4.6,4.9,5,4.8,4.9,4.4,no,yes,yes
+803,"Netanya, Center District, Israel",,8,3,6,2,538,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+804,"Bat Hen, Center District, Israel",Nan,3,1,1,1,400,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+805,"Netanya, Center District, Israel",4.0 ·,2,Studio,1,1,354,3.4,4,4.2,4,4.2,3.9,no,yes,yes
+806,"Netanya, Center District, Israel",,6,1,3,1,907,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+807,"Netanya, Center District, Israel",5.0 ·,8,3,6,2,850,5,5,5,5,5,5,no,yes,yes
+808,"Netanya, Center District, Israel",5.0 ·,6,3,4,2,466,5,5,5,5,5,4.8,no,yes,yes
+809,"Netanya, Center District, Israel",4.50 ·,6,3,4,2,450,4,5,4.8,4.8,5,4.8,no,yes,yes
+810,"Netanya, Center District, Israel",Nan,5,2,3,1,477,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+811,"Netanya, Center District, Israel",5.0 ·,6,3,4,2.5,990,4.7,5,5,5,4.8,5,yes,yes,yes
+812,"Netanya, Center District, Israel",4.67 ·,6,3,3,1,250,5,4.8,5,5,5,4.8,no,yes,yes
+813,"Netanya, Center District, Israel",4.69 ·,4,1,2,1,364,4.6,5,5,4.9,5,4.5,no,yes,yes
+814,"Netanya, Center District, Israel",Nan,5,2,2,2,400,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+815,"Netanya, Center District, Israel",5.0 ·,1,5,11,2,699,5,5,5,5,5,4.9,no,yes,yes
+816,"Netanya, Center District, Israel",Nan,4,1,3,1.5,357,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+817,"Netanya, Center District, Israel",4.67 ·,6,3,5,1.5,538,4.6,5,4.9,4.8,4.9,4.7,no,yes,yes
+818,"Netanya, Center District, Israel",4.86 ·,6,2,3,1,400,4.8,5,5,5,4.8,4.8,no,yes,yes
+819,"Netanya, Center District, Israel",5.0 ·,4,2,4,1,432,5,5,5,5,5,4.7,no,yes,yes
+820,"Netanya, Center District, Israel",Nan,Nan,Nan,Nan,Nan,303,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+821,"Beit Herut, Center District, Israel",,2,1,2,1,400,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+822,"Netanya, Center District, Israel",5.0 ·,8,3,12,2.5,780,5,5,5,4.3,5,5,yes,yes,yes
+823,"Netanya, Center District, Israel",4.57 ·,8,4,4,2.5,550,4.7,4.4,4.9,4.6,4.9,4.6,yes,yes,yes
+824,"Netanya, Center District, Israel",Nan,2,Studio,1,1,323,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+825,"Netanya, Center District, Israel",5.0 ·,5,2,4,1,431,5,5,5,5,5,4.8,no,yes,yes
+826,"Netanya, Center District, Israel",Nan,4,1,1,1.5,379,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+827,"Netanya, Center District, Israel",,6,3,5,2,550,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+828,"Netanya, Center District, Israel",,2,Studio,1,1.5,297,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+829,"Netanya, Center District, Israel",Nan,4,1,1,1,"1,971",Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+830,"Netanya, Center District, Israel",Nan,1,5,1,4,366,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+831,"Netanya, Center District, Israel",5.0 ·,6,3,3,2.5,636,4.9,4.9,4.9,4.9,5,4.9,yes,yes,yes
+832,"Netanya, Center District, Israel",,2,1,1,1,400,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+833,"Netanya, Center District, Israel",,2,1,2,1,429,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+834,"Netanya, Center District, Israel",5.0 ·,6,3,5,1.5,535,4.9,5,5,5,5,5,no,yes,yes
+835,"Netanya, Center District, Israel",4.86 ·,1,4,10,2.5,"1,000",4.8,4.9,4.8,4.9,4.9,4.7,no,yes,yes
+836,"Netanya, Center District, Israel",4.26 ·,4,2,3,1,314,3.9,4.6,4.5,4.2,4.7,4.3,no,yes,yes
+837,"Avihayil, Center District, Israel",4.75 ·,3,1,1,1,350,4.5,5,5,5,4.8,5,no,yes,yes
+838,"Netanya, Center District, Israel",5.0 ·,9,4,4,2,686,4.3,5,5,5,5,4.8,no,yes,yes
+839,"Even Yehuda, Center District, Israel",,4,2,2,1,450,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+840,"Netanya, Center District, Israel",Nan,3,Studio,2,1.5,359,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+841,"Netanya, Center District, Israel",Nan,6,3,4,2,463,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+842,"Netanya, Center District, Israel",Nan,6,3,4,2,450,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+843,"Shoshanat HaAmakim, Center District, Israel",Nan,5,2,3,1,550,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+844,"Netanya, Center District, Israel",4.67 ·,4,1,1,1,143,4,5,4.7,4.7,5,4.3,no,yes,yes
+845,"Herzliya, Center District, Israel",4.89 ·,4,1,2,2,757,4.8,5,4.8,4.9,4.9,4.8,no,yes,yes
+846,"Netanya, Center District, Israel",Nan,4,2,3,1,323,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+847,"Netanya, Center District, Israel",,5,3,4,2,390,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+848,"Netanya, Center District, Israel",4.64 ·,2,1,1,1,"5,000",4.8,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+849,"Netanya, Israel",4.58 ·,6,3,4,1.5,373,4.1,4.8,4.7,4.6,4.9,4.4,no,yes,yes
+850,"Netanya, Center District, Israel",5.0 ·,8,4,5,3,595,4.9,5,5,5,5,4.9,yes,yes,yes
+851,"Netanya, Center District, Israel",4.80 ·,4,1,2,1,350,4.8,4.9,4.9,4.9,4.8,4.8,no,yes,yes
+852,"Netanya, Center District, Israel",5.0 ·,6,3,3,1,714,5,5,5,5,5,4.8,no,yes,yes
+853,"Netanya, Center District, Israel",4.81 ·,4,2,2,1,350,4.8,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+854,"Netanya, Center District, Israel",,6,2,4,2,588,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+855,"Netanya, Center District, Israel",5.0 ·,2,1,1,1,"5,000",5,5,5,5,5,5,no,yes,yes
+856,"Netanya, Center District, Israel",,7,3,5,3,620,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+857,"נתניה, מחוז המרכז, Israel",3.13 ·,2,1,1,2,180,3.1,3.4,2.8,3.5,3.6,3.1,no,yes,yes
+858,"Netanya, Center District, Israel",Nan,2,1,1,1.5,140,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+859,"Netanya, Center District, Israel",4.54 ·,4,2,2,2,318,4.7,5,4.8,4.7,4.9,4.8,no,yes,yes
+860,"Netanya, Center District, Israel",4.54 ·,4,2,2,2,318,4.7,5,4.8,4.7,4.9,4.8,no,yes,yes
+861,"Netanya, Israel",4.84 ·,5,2,2,1,323,4.5,5,5,4.9,4.8,4.9,no,yes,yes
+862,"Netanya, Center District, Israel",4.70 ·,8,3,6,2,750,4.5,4.7,5,5,5,4.6,no,yes,yes
+863,"Near Natanya Tsukei Yam, Center District, Israel",4.91 ·,2,1,1,1,447,4.3,4.5,4.4,4.4,4.6,4.6,yes,yes,yes
+864,"Netanya, Center District, Israel",Nan,2,1,1,1,466,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+865,"Netanya, Center District, Israel",Nan,3,1,2,1,137,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+866,"Netanya, Center District, Israel",Nan,8,4,4,2.5,672,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+867,"Netanya, Israel",5.0 ·,8,3,4,3,837,5,5,5,5,4.2,4.2,yes,yes,yes
+868,"Netanya, Israel",4.84 ·,6,3,3,2,509,5,4.8,4.8,4.9,4.8,4.6,yes,yes,yes
+869,"Netanya, Center District, Israel",Nan,2,1,1,1.5,120,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+870,"Netanya, Center District, Israel",4.54 ·,3,1,2,1,"5,000",4.8,5,5,4.8,4.8,4.8,no,yes,yes
+871,"Netanya, Center District, Israel",4.29 ·,6,3,4,2,600,4.3,5,5,4.7,4.7,4.6,no,yes,yes
+872,"Netanya, Center District, Israel",4.78 ·,4,2,2,1,450,4.8,5,5,5,5,4.6,no,yes,yes
+873,"Netanya, Center District, Israel",Nan,5,1,3,1,343,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+874,"Netanya, Center District, Israel",,2,Studio,1,1.5,287,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+875,"Netanya, Center District, Israel",4.0 ·,4,2,3,2,323,3,5,4.8,4.8,5,4.5,no,yes,yes
+876,"Netanya, Center District, Israel",2.50 ·,5,4,4,2,826,2,2.5,4,2.2,3,2.2,yes,yes,yes
+877,"Netanya, Center District, Israel",,6,2,4,1,984,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+878,"Netanya, Center District, Israel",4.20 ·,4,2,2,1,450,4.6,4.4,4.4,4.8,5,4.2,no,yes,yes
+879,"Netanya, Center District, Israel",Nan,4,1,4,1.5,550,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+880,"Arsuf, Center District, Israel",4.89 ·,3,1,2,2,382,4.8,4.9,4.9,4.9,4.8,4.8,yes,yes,yes
+881,"Netanya, Center District, Israel",4.58 ·,2,Studio,1,1,"5,000",4.9,4.9,4.8,4.9,4.3,4.6,no,yes,yes
+882,"Netanya, Center District, Israel",,4,1,1,1,393,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+883,"Netanya, Center District, Israel",Nan,1,1,1,1,178,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+884,"Netanya, Center District, Israel",Nan,5,1,4,1,430,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+885,"Netanya, Center District, Israel",,4,1,2,1,414,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+886,"Netanya, Center District, Israel",4.0 ·,6,3,4,2,603,4,3,4.5,4.3,4.5,3.5,no,yes,yes
+887,"Beit Herut, Center District, Israel",,4,1,2,1.5,325,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+888,"Netanya, Center District, Israel",5.0 ·,4,1,1,1,"5,000",5,5,5,5,4.5,4.8,no,yes,yes
+889,"Netanya, Center District, Israel",,6,3,2,2,318,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+890,"Netanya, Center District, Israel",3.25 ·,8,4,4,3,"2,100",2.2,4,4.8,3,5,4.2,yes,yes,yes
+891,"Netanya, Center District, Israel",Nan,8,4,4,2.5,950,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+892,"Even Yehuda, Center District, Israel",4.93 ·,4,1,1,1,400,4.9,4.9,5,4.9,4.9,4.9,no,yes,yes
+893,"Netanya, Center District, Israel",4.06 ·,7,3,5,2,600,4,4.2,4.2,4.5,4.8,4.1,yes,yes,yes
+894,"Netanya, Center District, Israel",4.55 ·,8,3,6,1,450,4.5,5,4.9,4.6,4.5,4.5,no,yes,yes
+895,"Netanya, Center District, Israel",4.80 ·,8,3,4,2,558,4.8,5,5,5,5,5,no,yes,yes
+896,"Netanya, Center District, Israel",,4,1,2,1,451,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+897,"Netanya, Center District, Israel",,5,2,5,2,632,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+898,"Netanya, Center District, Israel",4.56 ·,6,2,5,1,795,4.2,4.7,4.4,4.6,4.9,4.6,no,yes,yes
+899,"Netanya, Center District, Israel",4.78 ·,4,2,2,2,523,4.7,4.9,5,4.7,5,4.9,no,yes,yes

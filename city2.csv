@@ -1,0 +1,601 @@
+,city_in_israel,star_rate,guests_number,bedroom_number,beds_number,baths_number,price_for_night,cleanliness_rate,communication_rate,check_in_rate,accuracy_rate,location_rate,value_rate,balcony,wifi,tv
+0,"Holon, Center District, Israel",4.75 ·,4,1,1,1,200,5,5,5,5,5,5,yes,yes,yes
+1,"Holon, Center District, Israel",Nan,5,2,5,1,156,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+2,"Holon, Center District, Israel",4.93 ·,4,2,2,1,382,4.9,5,5,5,4.8,4.9,no,yes,yes
+3,"Holon, Center District, Israel",4.88 ·,2,1,1,1,124,4.9,4.9,5,4.9,4.8,4.9,yes,yes,yes
+4,"Bat Yam, Center District, Israel",4.75 ·,2,1,1,1,154,5,4.5,4.8,4.5,4.2,4.8,no,yes,yes
+5,"Bat Yam, Center District, Israel",4.93 ·,2,1,1,1,124,4.9,5,5,5,4.8,5,no,yes,yes
+6,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,2,Studio,1,1,178,4.3,5,4.8,4.6,4.8,4.9,no,yes,yes
+7,"Bat Yam, Center District, Israel",4.40 ·,3,1,1,1,154,4.6,5,5,5,4.8,4.6,no,yes,yes
+8,"Holon, Center District, Israel",Nan,4,2,2,2.5,500,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+9,"Holon, Center District, Israel",4.86 ·,2,1,1,1.5,190,4.9,5,4.9,4.8,4.6,4.8,no,yes,yes
+10,"Bat Yam, Center District, Israel",5.0 ·,4,1,1,1.5,240,4.7,5,5,5,5,5,no,yes,yes
+11,"Bat Yam, Center District, Israel",,2,1,2,1.5,160,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+12,"Bat Yam, Center District, Israel",,2,1,1,1,120,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+13,"Bat Yam, Center District, Israel",3.33 ·,2,Studio,1,1,149,3.3,3.7,4.7,3.7,3.3,3.3,no,yes,yes
+14,"Bat Yam, Center District, Israel",5.0 ·,2,1,1,1,154,5,5,5,4.8,5,5,no,yes,yes
+15,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,4,1,2,1,263,4.8,5,5,4.9,4.2,4.8,no,yes,yes
+16,"Bat Yam, Center District, Israel",,4,1,2,1,258,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+17,"Rishon LeTsiyon, Center District, Israel",4.85 ·,3,1,2,1,295,4.8,5,5,4.9,4.9,4.9,no,yes,yes
+18,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,185,5,5,5,5,4.8,5,no,yes,yes
+19,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,2,1,1,1,160,4.9,5,5,4.9,4.3,4.7,no,yes,yes
+20,"Holon, Israel",4.68 ·,2,1,1,1,115,4.6,5,5,4.8,4.6,4.7,no,yes,yes
+21,"Bat Yam, Center District, Israel",4.65 ·,3,1,2,1,228,4.7,4.7,4.8,4.7,4.8,4.8,no,yes,yes
+22,"Bat Yam, Center District, Israel",4.75 ·,2,1,1,1,151,5,5,5,4.8,4.5,4.8,no,yes,yes
+23,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+24,"Bat Yam, Center District, Israel",,2,1,1,1,147,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+25,"Bat Yam, Center District, Israel",4.89 ·,2,Studio,1,1,220,4.9,5,5,5,4.8,4.9,no,yes,yes
+26,"Bat Yam, Center District, Israel",4.64 ·,2,Studio,1,1,300,4.7,5,5,4.6,5,4.6,no,yes,yes
+27,"Beit Dagan, Center District, Israel",4.78 ·,2,1,1,1.5,285,4.7,5,4.9,4.9,4.8,4.8,yes,yes,yes
+28,"Holon, Israel",4.55 ·,6,3,3,3,432,4.5,5,4.9,4.6,4.7,4.6,yes,yes,yes
+29,"Bat Yam, Center District, Israel",Nan,3,Studio,2,1,211,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+30,"Bat Yam, Center District, Israel",4.50 ·,2,1,1,1,210,4.5,5,5,4.5,4.8,4.2,no,yes,yes
+31,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,199,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+32,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,Nan,Nan,Nan,Nan,239,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+33,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,252,5,5,5,5,4.5,4.8,no,yes,yes
+34,"Bat Yam, Center District, Israel",4.50 ·,4,1,2,1,241,5,4.5,4.8,4.7,4.5,4.7,no,yes,yes
+35,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,4,2,2,1.5,244,4.6,5,4.9,4.9,4.7,4.8,no,yes,yes
+36,"Bat Yam, Center District, Israel",4.56 ·,4,1,1,1.5,440,4.7,4.6,4.6,4.7,4.7,4.5,yes,yes,yes
+37,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.27 ·,4,Studio,1,1,201,4.1,4.5,4.5,4.4,4.5,4.2,no,yes,yes
+38,"Bat Yam, Center District, Israel",4.87 ·,2,Studio,1,1,197,4.9,5,4.9,4.9,4.8,4.8,no,yes,yes
+39,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,1,3,1,254,4.8,5,5,4.8,5,5,no,yes,yes
+40,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.44 ·,2,Studio,1,1,204,4.4,4.9,4.8,4.5,4.6,4.6,no,yes,yes
+41,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,3,1,2,1,361,4.9,4.9,4.9,4.9,4.8,4.7,no,yes,yes
+42,"Bat Yam, Center District, Israel",4.50 ·,3,1,1,1,146,4.5,4.2,4.8,4.5,4,4.5,no,yes,yes
+43,"Bat Yam, Center District, Israel",,2,1,1,1.5,152,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+44,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,172,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+45,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,259,5,5,5,5,5,5,no,yes,yes
+46,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,2,1,2,1,251,4.7,5,5,4.9,4.7,4.7,yes,yes,yes
+47,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.78 ·,4,1,2,1,310,4.6,4.7,4.8,4.8,4.8,4.8,yes,yes,yes
+48,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,378,5,4.7,5,5,5,4.9,yes,yes,yes
+49,"Bat yam, מחוז המרכז, Israel",4.56 ·,7,2,3,2.5,377,4.4,4.9,4.9,4.4,4.7,4.4,no,yes,yes
+50,"Bat Yam, Center District, Israel",4.58 ·,4,1,2,1,420,4.9,4.8,4.7,4.6,4.1,4.7,no,yes,yes
+51,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.81 ·,3,1,1,1,203,4.8,5,5,4.8,4.8,4.7,no,yes,yes
+52,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,164,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+53,"Bat Yam, Israel",4.66 ·,3,1,2,1,222,4.6,5,5,4.9,4.8,4.5,no,yes,yes
+54,"Bat Yam, Center District, Israel",4.80 ·,6,2,3,1,362,5,4.8,5,5,4.6,4.8,no,yes,yes
+55,"חולון, מחוז המרכז, Israel",4.67 ·,2,1,1,1.5,181,4.8,5,4.9,5,4.8,4.4,no,yes,yes
+56,"Tel Aviv-Yafo, Tel Aviv District, Israel",,3,1,2,1,480,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+57,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,Studio,1,1,181,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+58,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.96 ·,2,Studio,1,1,300,4.9,5,5,5,5,4.9,no,yes,yes
+59,"Holon, Center District, Israel",5.0 ·,4,2,2,1.5,260,5,5,5,5,5,5,no,yes,yes
+60,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.76 ·,3,1,2,2,157,4.9,5,5,5,4.8,4.8,yes,yes,yes
+61,"Bat Yam, Center District, Israel",5.0 ·,6,2,3,1,369,5,5,5,5,5,5,no,yes,yes
+62,"Rishon LeTsiyon, Center District, Israel",,3,1,1,1,346,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+63,"Bat Yam, Center District, Israel",4.83 ·,4,1,2,1,279,4.8,5,5,4.8,4.7,4.7,no,yes,yes
+64,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,208,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+65,"Bat Yam, Center District, Israel",,4,1,2,1,264,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+66,"Tel Aviv-Yafo, Tel Aviv District, Israel",3.80 ·,2,Studio,1,1,185,4.4,4.8,4.6,4.2,4.6,4,no,yes,yes
+67,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,4,1,2,1,175,4.8,5,4.8,4.6,5,4.6,no,yes,yes
+68,"Holon, Center District, Israel",5.0 ·,2,2,2,Half-bath,400,4.9,5,5,4.9,4.9,4.6,no,yes,yes
+69,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.78 ·,3,1,2,1,251,4.8,5,5,4.8,4.8,4.7,no,yes,yes
+70,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.75 ·,4,1,1,1,490,4.7,4.8,4.9,4.8,4.9,4.7,yes,yes,yes
+71,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,1,1,288,4.8,5,4.9,4.9,4.7,4.6,yes,yes,yes
+72,"Bat Yam, Center District, Israel",4.68 ·,4,1,2,1,330,4.9,5,5,4.9,4.8,4.5,yes,yes,yes
+73,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,231,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+74,"Bat Yam, Center District, Israel",,2,1,1,1,130,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+75,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,1,1,1,181,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+76,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,3,Studio,2,1,200,4.7,4.7,4.6,4.6,5,4.4,no,yes,yes
+77,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.66 ·,2,Studio,1,1,125,4.5,5,4.9,4.8,4.8,4.5,no,yes,yes
+78,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.45 ·,2,1,1,1,99,4.3,4.5,4.8,4.5,4.4,4.5,no,yes,yes
+79,"Holon, Center District, Israel",4.67 ·,2,1,1,1,150,4.3,4.7,4.3,4,4,4.7,yes,yes,yes
+80,"Bat Yam, Center District, Israel",4.40 ·,4,1,2,1,300,4.5,4.5,4.5,4.3,3.9,4.3,no,yes,yes
+81,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.63 ·,2,1,1,1,150,4.4,4.8,4.9,4.6,4.9,5,no,yes,yes
+82,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,219,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+83,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.45 ·,2,1,1,1,99,4.3,4.5,4.8,4.5,4.4,4.5,no,yes,yes
+84,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.33 ·,3,Studio,2,1,208,4.6,4.6,4.6,4.6,4.8,4.3,no,yes,yes
+85,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,1,1,288,4.8,5,4.9,4.9,4.7,4.6,yes,yes,yes
+86,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,165,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+87,"Bat Yam, Center District, Israel",4.77 ·,4,1,2,1.5,302,4.9,4.9,4.8,4.8,4.8,4.7,yes,yes,yes
+88,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.09 ·,2,Studio,1,1,186,4.5,4.4,4.5,4,4.2,4.5,no,yes,yes
+89,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,99,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+90,"Holon, Center District, Israel",4.67 ·,2,1,1,1,150,4.3,4.7,4.3,4,4,4.7,yes,yes,yes
+91,"Rishon LeTsiyon, Center District, Israel",4.69 ·,3,1,1,1,210,4.8,4.8,4.8,4.9,4.8,4.8,no,yes,yes
+92,"Rishon LeTsiyon, Center District, Israel",4.84 ·,5,2,2,1,230,4.9,4.9,5,4.9,4.8,4.8,no,yes,yes
+93,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,8,138,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+94,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.56 ·,2,Studio,1,1,169,4.5,4.8,4.8,4.7,4.7,4.6,no,yes,yes
+95,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.97 ·,3,1,1,1,239,4.9,5,5,5,4.7,4.9,yes,yes,yes
+96,"Tel Aviv-Yafo, Tel Aviv District, Israel",3.86 ·,4,Studio,2,1,204,4,4.6,4.3,4,3.9,3.9,no,yes,yes
+97,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.91 ·,3,1,1,1,270,4.7,5,5,5,4.9,4.7,no,yes,yes
+98,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,407,4.7,5,5,4.8,5,4.7,no,yes,yes
+99,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,3,1,1,1.5,560,4.9,4.5,4.7,4.5,5,4.5,yes,yes,yes
+100,"Rishon LeTsiyon, Center District, Israel",4.69 ·,3,1,1,1,210,4.8,4.8,4.8,4.9,4.8,4.8,no,yes,yes
+101,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,4,1,2,1,310,4.9,4.9,4.8,4.9,5,4.8,yes,yes,yes
+102,"Tel Aviv-Yafo, Tel Aviv District, Israel",3.86 ·,4,Studio,2,1,204,4,4.6,4.3,4,3.9,3.9,no,yes,yes
+103,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.80 ·,2,Studio,1,1,189,4.4,5,5,4.7,5,4.7,yes,yes,yes
+104,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.56 ·,2,Studio,1,1,169,4.5,4.8,4.8,4.7,4.7,4.6,no,yes,yes
+105,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.96 ·,3,1,2,1,325,5,5,4.8,5,4.7,4.9,yes,no,yes
+106,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,165,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+107,"Bat Yam, Center District, Israel",5.0 ·,9,3,4,2,430,4,5,5,4.7,4.7,4.7,no,yes,yes
+108,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,4,1,2,1.5,299,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+109,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,1,3,1,298,4.9,5,5,4.9,4.9,4.9,yes,yes,yes
+110,"Holon, Center District, Israel",5.0 ·,2,2,2,Half-bath,400,4.9,5,5,4.9,4.9,4.6,no,yes,yes
+111,"Bat Yam, Center District, Israel",,4,1,2,1.5,383,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+112,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,99,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+113,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.82 ·,3,1,1,1,239,4.8,5,4.9,4.8,4.8,4.7,no,yes,yes
+114,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,6,2,3,1,429,4.6,4.8,4.7,4.8,5,4.6,yes,yes,yes
+115,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.66 ·,4,1,2,1,380,4.7,4.9,4.8,4.8,4.9,4.5,no,yes,yes
+116,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,3,1,1,1,248,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+117,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,8,138,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+118,"Bat Yam, Israel",4.50 ·,4,1,2,1,191,4.5,4.8,4.9,4.7,4.6,4.7,no,yes,yes
+119,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,2,1,1,2,161,4.9,5,5,4.9,4.9,4.7,yes,yes,yes
+120,"Tel Aviv-Yafo, Tel Aviv District, Israel",3.86 ·,4,Studio,2,1,204,4,4.6,4.3,4,3.9,3.9,no,yes,yes
+121,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,2,1,1,2,161,4.9,5,5,4.9,4.9,4.7,yes,yes,yes
+122,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,4,1,2,1.5,508,4.7,4.9,5,4.8,5,4.8,yes,yes,yes
+123,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,244,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+124,"Holon, Center District, Israel",Nan,3,1,1,1.5,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+125,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,99,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+126,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,3,1,1,1,310,5,4.9,5,4.8,4.8,4.8,yes,no,yes
+127,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.50 ·,2,1,1,1,186,4.2,4.2,4.6,4.5,4.6,4.3,no,yes,yes
+128,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.38 ·,4,1,2,1,338,4.4,4.5,4.6,4.5,4.6,4.1,no,yes,yes
+129,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,4,2,2,2,394,4.8,4.9,4.9,5,5,4.8,yes,yes,yes
+130,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.76 ·,3,1,4,1.5,159,4.9,4.8,4.9,4.8,4.7,4.9,no,yes,yes
+131,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.78 ·,1,1,1,1,173,4.7,4.9,4.9,4.9,4.8,4.6,yes,yes,yes
+132,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,1,1,1,184,4.7,5,5,5,4.7,5,yes,yes,yes
+133,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,8,138,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+134,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,199,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+135,"Tel Aviv-Yafo, Tel Aviv District, Israel",,3,1,1,1,248,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+136,"Tel Aviv-Yafo, Center District, Israel",4.72 ·,2,Studio,1,1,158,4.8,5,4.9,4.8,4.8,4.7,no,yes,yes
+137,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.69 ·,4,1,2,1,229,4.7,4.8,5,4.8,5,4.8,no,yes,yes
+138,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,5,1,3,1,285,4.8,4.9,4.9,4.8,4.6,4.7,no,yes,yes
+139,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.81 ·,4,1,2,1,223,4.9,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+140,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,3,1,1,1,299,5,5,5,4.9,5,4.8,yes,yes,yes
+141,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,199,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+142,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.68 ·,3,1,1,1,663,4.3,4.8,4.8,4.7,5,4.4,no,yes,yes
+143,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,8,138,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+144,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.68 ·,4,Studio,2,1,181,4.6,4.9,4.9,4.9,4.7,4.6,no,yes,yes
+145,"Tel Aviv-Yafo, Israel",4.69 ·,4,1,2,1.5,416,4.6,4.9,4.9,4.8,4.9,4.6,no,yes,yes
+146,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+147,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.94 ·,3,1,1,1,298,4.9,4.9,4.9,5,4.3,4.6,yes,no,yes
+148,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,154,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+149,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,5,1,3,1,289,4.8,5,5,4.9,4.9,4.8,no,yes,yes
+150,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,Nan,Nan,Nan,Nan,199,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+151,"Bat Yam, Center District, Israel",4.79 ·,6,3,4,2,Nan,4.4,4.8,5,4.8,5,4.8,yes,yes,yes
+152,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.82 ·,2,1,1,1,190,4.5,5,4.9,4.9,4.9,4.7,no,yes,yes
+153,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,2,1,1,1,212,4.9,5,4.8,4.8,4.8,4.6,no,yes,yes
+154,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.90 ·,3,Studio,2,1,297,4.9,5,5,5,5,4.9,no,yes,yes
+155,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.23 ·,2,1,1,1,219,4.2,4.6,4.6,4.5,4.9,4.4,no,yes,yes
+156,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.35 ·,4,1,2,1,390,3.9,4.7,4.9,4.4,5,4.1,yes,yes,yes
+157,"Bat Yam, Center District, Israel",4.74 ·,2,1,1,1.5,197,4.8,4.7,4.9,4.9,4.7,4.7,no,yes,yes
+158,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,6,2,3,1,209,5,5,5,5,3.5,4.9,no,yes,yes
+159,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.63 ·,3,Studio,2,1,303,4.4,4.7,4.8,4.7,4.7,4.5,yes,yes,yes
+160,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,2,Studio,1,1,251,4.8,5,4.9,4.9,5,4.8,yes,yes,yes
+161,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,199,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+162,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.78 ·,3,1,1,1,205,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+163,"Bat Yam, Center District, Israel",4.85 ·,4,1,2,1,229,4.8,4.9,4.8,5,4.8,4.7,no,yes,yes
+164,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,6,2,3,1,209,5,5,5,5,3.5,4.9,no,yes,yes
+165,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,2,1,1,1,180,4.3,5,5,4.7,4.5,4.8,yes,yes,yes
+166,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.86 ·,2,Studio,1,1,190,4.8,5,4.8,4.8,4.8,4.8,no,yes,yes
+167,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,1,1,1,279,5,5,5,5,5,4.4,yes,yes,yes
+168,"Tel Aviv-Yafo, Tel Aviv District, Israel",,3,1,2,1,274,Nan,Nan,Nan,Nan,Nan,Nan,yes,no,yes
+169,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,154,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+170,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,4,Studio,2,1,221,4.6,4.7,4.9,4.7,4.6,4.5,no,yes,yes
+171,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.91 ·,5,2,3,1,715,4.7,5,5,4.9,5,4.8,yes,yes,yes
+172,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.72 ·,6,2,3,1,304,4.8,4.9,4.8,4.8,4.8,4.7,no,yes,yes
+173,"Holon, Center District, Israel",5.0 ·,2,Studio,1,1,160,5,5,5,5,5,5,no,yes,yes
+174,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,2,1,1,1,180,4.6,4.9,5,5,4.4,4.7,no,yes,yes
+175,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,Nan,Nan,Nan,Nan,296,4.9,5,5,5,5,4.9,no,yes,yes
+176,"Holon, Center District, Israel",4.81 ·,2,1,1,2,159,4.9,4.8,4.8,5,4.9,5,no,yes,yes
+177,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.50 ·,2,Studio,1,1,176,4.3,4.7,4.5,4.5,4.8,4.4,yes,yes,yes
+178,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,145,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+179,"Tel Aviv-Yafo, Israel",4.57 ·,4,1,2,1,220,4.7,4.9,4.9,4.7,4.9,4.6,no,yes,yes
+180,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.50 ·,2,Studio,1,1,176,4.3,4.7,4.5,4.5,4.8,4.4,yes,yes,yes
+181,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.43 ·,3,1,2,1,350,4.6,4.7,4.8,4.7,4.7,4.4,yes,yes,yes
+182,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.50 ·,3,2,2,1,312,4.9,4.4,4.4,4.4,3.6,4.2,no,yes,yes
+183,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.93 ·,2,1,1,1.5,301,4.9,4.9,4.9,4.9,4.6,4.8,no,yes,yes
+184,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.91 ·,2,1,1,1,330,4.8,5,5,5,4.9,4.9,yes,yes,yes
+185,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,1,1,1,1,480,4.9,5,5,5,4.9,4.9,no,yes,yes
+186,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,2,Studio,1,1,147,4.8,5,4.9,4.8,4.8,4.9,no,yes,yes
+187,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.30 ·,2,1,1,1,314,4.2,4.4,4.8,4.4,4.4,4.3,no,yes,yes
+188,"Holon, Center District, Israel",4.67 ·,2,1,1,1,150,4.3,4.7,4.3,4,4,4.7,yes,yes,yes
+189,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.80 ·,3,1,1,1,279,5,4.9,4.9,4.9,4.8,4.8,yes,no,yes
+190,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.92 ·,3,1,1,1,271,5,5,5,4.8,4.8,4.9,yes,yes,yes
+191,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,182,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+192,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.27 ·,4,Studio,2,1,198,4.4,4.8,5,4.2,4.5,4.2,no,yes,yes
+193,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,298,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+194,"Bat Yam, Center District, Israel",5.0 ·,4,3,2,2,572,5,5,5,5,5,5,no,yes,yes
+195,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.25 ·,3,1,2,1,299,4,5,5,4.5,4.8,4.5,no,yes,yes
+196,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.33 ·,2,Studio,1,1,252,3.8,5,4.8,4.5,4.7,4.2,yes,yes,yes
+197,"Bat Yam, Israel",5.0 ·,3,1,2,1,403,5,5,5,5,5,5,no,yes,yes
+198,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.33 ·,2,Studio,1,1,164,4,4.5,4.3,4.3,4.5,3.8,no,yes,yes
+199,"Rishon LeTsiyon, Center District, Israel",5.0 ·,8,3,3,2.5,420,4.9,5,5,5,4.9,4.4,no,yes,yes
+200,"Holon, Center District, Israel",4.67 ·,2,1,1,1,150,4.3,4.7,4.3,4,4,4.7,yes,yes,yes
+201,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,1,2,1,390,4.8,5,5,5,5,4.8,yes,yes,yes
+202,"Bat Yam, Center District, Israel",,3,1,1,1.5,209,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+203,"Bat Yam, Center District, Israel",4.88 ·,3,1,2,1,256,4.1,5,5,5,5,4.9,no,yes,yes
+204,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.87 ·,4,1,2,1,319,4.9,5,4.9,4.9,5,4.8,no,yes,yes
+205,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,199,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+206,"Bat Yam, Israel",4.89 ·,5,2,2,2,473,4.6,4.8,4.8,4.9,4.8,4.8,yes,yes,yes
+207,"Bat Yam, Israel",4.78 ·,2,1,2,1,322,4.8,4.9,4.9,4.9,4.7,4.6,no,yes,yes
+208,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,2,2,1.5,413,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+209,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.29 ·,2,1,1,1,189,4.2,4.6,4.5,4.5,4.8,4.2,yes,yes,yes
+210,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,1,1,284,4.7,5,5,5,4.3,5,yes,no,yes
+211,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,1,1,308,5,5,5,5,4.8,4.9,yes,no,yes
+212,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,2,1,1,1,178,4.3,4.9,4.8,4.8,4.9,4.5,no,yes,yes
+213,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.33 ·,2,Studio,1,1,164,4,4.5,4.3,4.3,4.5,3.8,no,yes,yes
+214,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.29 ·,4,1,2,1,390,3.7,4.3,4.8,4.2,4.9,4.2,yes,yes,yes
+215,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.20 ·,Nan,Nan,Nan,Nan,239,4.6,5,5,5,4.6,4.2,yes,yes,yes
+216,"Bat Yam, Center District, Israel",4.78 ·,3,2,2,2,422,4.9,4.7,4.9,4.7,4.7,4.8,yes,yes,yes
+217,"Holon, Tel Goborim , Israel",,2,1,2,1.5,150,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+218,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,1,1,1,1,159,4.6,4.8,4.9,4.8,4.1,4.6,yes,yes,yes
+219,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.91 ·,4,1,1,1,330,4.9,5,5,4.9,5,4.8,no,yes,yes
+220,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,4,2,2,2,428,4.5,4.7,4.8,5,5,4.3,yes,yes,yes
+221,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.20 ·,Nan,Nan,Nan,Nan,239,4.6,5,5,5,4.6,4.2,yes,yes,yes
+222,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.33 ·,5,2,2,2,380,4.7,5,5,4.5,5,4.5,no,yes,yes
+223,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.71 ·,1,1,1,1,159,4.6,4.8,4.9,4.8,4.1,4.6,yes,yes,yes
+224,"Tel Aviv-Yafo, Tel Aviv District, Israel",3.80 ·,1,Studio,1,1,167,3.6,4.2,4.2,3.8,4.6,4,yes,yes,yes
+225,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.72 ·,4,2,3,2,647,4.6,4.8,4.9,4.9,5,4.6,yes,yes,yes
+226,"Bat Yam, Israel",4.39 ·,4,1,2,1,191,4.8,4.9,4.7,4.8,4.4,4.4,no,yes,yes
+227,"Bat Yam, Israel",3.67 ·,5,1,2,1.5,186,4,4.7,4.3,4.3,3.7,4,no,yes,yes
+228,"Bat Yam, Israel",4.93 ·,3,1,2,1,207,4.9,5,5,4.9,4.7,4.7,no,yes,yes
+229,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,Studio,1,1.5,374,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+230,"Bat Yam, Center District, Israel",4.95 ·,4,1,1,1,320,5,5,5,5,4.7,4.8,no,yes,yes
+231,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,3,1,1,1,307,5,5,5,5,4.7,4.7,yes,yes,yes
+232,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.60 ·,2,1,1,1,178,4.3,4.9,4.8,4.8,4.9,4.5,no,yes,yes
+233,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,159,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+234,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.73 ·,4,1,2,1,326,4.5,4.8,4.7,4.5,4.7,4.3,no,yes,yes
+235,"Rishon LeTsiyon, Center District, Israel",4.84 ·,4,2,2,1,310,4.7,4.9,5,4.8,4.8,4.8,no,yes,yes
+236,"Bat Yam, Center District, Israel",4.88 ·,6,3,4,2.5,439,4.8,5,4.9,4.9,4.9,4.8,yes,yes,yes
+237,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.63 ·,2,1,2,2,137,4.3,4.9,4.9,4.8,4.6,4.7,yes,yes,yes
+238,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.29 ·,4,Studio,2,1,200,4.4,4.3,4.6,4.6,4.9,4.1,no,yes,yes
+239,"Rishon LeTsiyon, Center District, Israel",4.93 ·,4,1,2,1,197,4.9,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+240,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.29 ·,4,Studio,2,1,200,4.4,4.3,4.6,4.6,4.9,4.1,no,yes,yes
+241,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,181,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+242,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,2,Studio,1,1,285,5,4.8,4.7,4.7,5,4.5,yes,no,yes
+243,"Bat Yam, Center District, Israel",4.80 ·,2,1,1,1,178,4.8,5,5,5,4.8,4.7,no,yes,yes
+244,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.20 ·,2,Studio,1,1,186,4.2,3.8,4.6,4.6,5,4.2,no,yes,yes
+245,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.68 ·,4,1,2,1,359,4.4,5,4.9,4.9,4.9,4.5,yes,yes,yes
+246,"Bat Yam, Center District, Israel",,2,1,1,1,191,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+247,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.50 ·,4,2,2,2,661,4.7,4.6,4.6,4.6,4.6,4,yes,yes,yes
+248,"Holon, Center District, Israel",Nan,1,2,3,2.5,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+249,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.55 ·,2,1,1,1,512,4.8,4.6,4.7,4.8,4.8,4.5,no,yes,yes
+250,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.31 ·,2,Studio,1,1,219,4.6,4.4,4.6,4.6,4.9,4.2,no,yes,yes
+251,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,190,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+252,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,154,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+253,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.67 ·,4,1,2,1,243,4.2,4.7,4.7,4.5,4.7,4.7,yes,yes,yes
+254,"Tel Aviv-Yafo, Tel Aviv District, Israel",,4,Studio,2,1,190,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+255,"Tel Aviv-Yafo, Tel Aviv District, Israel",,Nan,Nan,Nan,Nan,199,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+256,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.0 ·,4,1,2,1,480,4,4,5,4.7,5,4,yes,yes,yes
+257,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.83 ·,4,1,2,1,379,4.6,5,4.8,4.9,4.9,4.7,no,yes,yes
+258,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.89 ·,2,1,1,2,157,4.8,5,4.9,4.8,4.7,4.8,yes,yes,yes
+259,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.55 ·,2,1,2,1.5,204,4.5,4.7,4.8,4.7,4.8,4.7,no,yes,yes
+260,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,2,1,2,1,314,4.7,4.9,4.9,4.9,4.8,4.6,yes,yes,yes
+261,"Bat Yam, Center District, Israel",4.73 ·,6,3,4,2,520,4.8,4.7,4.9,4.9,4.9,4.7,no,yes,yes
+262,"Bat Yam, Center District, Israel",,1,3,4,2,681,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+263,"Tel Aviv-Yafo, Tel Aviv District, Israel",,Nan,Nan,Nan,Nan,294,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+264,"Bat Yam, Center District, Israel",4.75 ·,8,3,8,1.5,450,4.7,4.9,4.9,4.8,5,4.7,no,yes,yes
+265,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.44 ·,2,Studio,1,1,210,4.4,4.6,4.8,4.6,4.8,4.4,yes,yes,yes
+266,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,264,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+267,"Bat Yam, Center District, Israel",,4,1,2,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+268,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,Nan,Nan,Nan,Nan,550,5,5,5,5,4.9,5,no,yes,yes
+269,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,1,2,1,525,5,5,5,5,5,4.8,yes,yes,yes
+270,"Tel Aviv-Yafo, Israel",Nan,1,1,1,1,125,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+271,"Bat Yam, GUSH Dan, Israel",4.92 ·,3,1,2,1,204,4.9,5,5,4.9,4.9,4.9,no,yes,yes
+272,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,208,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+273,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.97 ·,1,1,1,1,113,4.9,5,5,5,4.8,4.9,no,yes,yes
+274,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.81 ·,4,Studio,2,1,192,4.8,4.8,4.9,5,5,4.8,no,yes,yes
+275,"Bat Yam, Center District, Israel",5.0 ·,8,4,5,1.5,470,5,5,5,5,5,4.9,no,yes,yes
+276,"Bat Yam, Center District, Israel",,2,1,1,1,130,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+277,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,1,1,1,314,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+278,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,4,2,2,2,809,4.9,4.9,5,5,5,5,no,yes,yes
+279,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,6,2,2,1,279,4.5,4.8,5,4.9,4.8,4.6,yes,yes,yes
+280,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.68 ·,2,1,1,1,350,4.6,4.9,4.9,4.8,4.9,4.6,yes,yes,yes
+281,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,6,2,2,1,279,4.5,4.8,5,4.9,4.8,4.6,yes,yes,yes
+282,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.30 ·,2,Studio,2,1.5,136,4.3,5,5,4.7,4.9,4.4,no,yes,yes
+283,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,1,1,1,857,4.8,4.8,4.8,4.8,5,4.8,yes,yes,yes
+284,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,2,1,1,1,260,4.7,4.8,4.9,4.8,4.9,4.6,yes,yes,yes
+285,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.86 ·,2,1,1,1,197,5,4.9,4.9,4.9,4.7,4.8,yes,yes,yes
+286,"Tel Aviv-Yafo, Tel Aviv District, Israel",,3,1,1,1,298,Nan,Nan,Nan,Nan,Nan,Nan,yes,no,yes
+287,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.70 ·,2,1,1,1,330,4.5,4.9,4.9,4.7,4.6,4.6,no,yes,yes
+288,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.47 ·,4,Studio,2,1,235,4.7,4.9,4.9,4.9,4.9,4.3,yes,yes,yes
+289,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.76 ·,2,Studio,1,1,233,4.8,4.9,5,5,4.4,4.7,no,yes,yes
+290,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.41 ·,4,1,2,1,498,4.2,4.5,4.5,4.5,4.8,4.3,yes,yes,yes
+291,"Holon, Center District, Israel",,1,1,2,1,100,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+292,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+293,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.78 ·,Nan,Nan,Nan,Nan,179,4.8,4.8,4.9,4.8,5,4.8,no,yes,yes
+294,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,4,2,2,1,595,4.8,4.9,4.7,4.9,4.9,4.8,no,yes,yes
+295,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.81 ·,4,1,2,1,350,4.9,4.8,4.9,4.8,5,4.8,no,yes,yes
+296,"Tel Aviv, Israel",4.80 ·,2,1,1,1,120,4.5,5,4.9,4.9,4.7,4.8,no,yes,yes
+297,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,2,1,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+298,"Tel Aviv-Yafo, Tel Aviv District, Israel",,2,Studio,1,1,298,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+299,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.0 ·,2,1,1,1,186,4.5,4,4.2,3.8,4.5,3.5,no,yes,yes
+300,"Rishon LeTsiyon, Center District, Israel",4.80 ·,4,1,1,1,260,4.8,5,5,4.9,4.7,4.8,no,yes,yes
+301,"Rishon LeTsiyon, Center District, Israel",4.93 ·,4,1,2,1,197,4.9,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+302,"Rishon LeTsiyon, Center District, Israel",,3,1,1,1,346,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+303,"Rishon LeTsiyon, Center District, Israel",4.85 ·,3,1,2,1,295,4.8,5,5,4.9,4.9,4.9,no,yes,yes
+304,"Rishon LeTsiyon, Center District, Israel",4.84 ·,5,2,2,1,230,4.9,4.9,5,4.9,4.8,4.8,no,yes,yes
+305,"Rishon LeTsiyon, Center District, Israel",4.84 ·,4,2,2,1,310,4.7,4.9,5,4.8,4.8,4.8,no,yes,yes
+306,"Rishon LeTsiyon, Center District, Israel",4.69 ·,3,1,1,1,210,4.8,4.8,4.8,4.9,4.8,4.8,no,yes,yes
+307,"Rishon LeTsiyon, Center District, Israel",,1,1,1,1,140,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+308,"Rishon LeTsiyon, Center District, Israel",5.0 ·,8,3,3,2.5,420,4.9,5,5,5,4.9,4.4,no,yes,yes
+309,"Beit Dagan, Center District, Israel",4.78 ·,2,1,1,1.5,284,4.7,5,4.9,4.9,4.8,4.8,yes,yes,yes
+310,"Rishon LeTsiyon, Center District, Israel",5.0 ·,2,2,4,1.5,320,5,5,5,5,5,5,no,yes,yes
+311,"Bat Yam, Center District, Israel",4.65 ·,3,1,2,1,228,4.7,4.7,4.8,4.7,4.8,4.8,no,yes,yes
+312,"Netaim, Center District, Israel",5.0 ·,2,1,1,1,301,5,5,5,5,4.8,5,yes,yes,yes
+313,"Rishon LeTsiyon, Center District, Israel",4.84 ·,2,2,1,1,111,4.7,5,4.9,4.8,4.7,4.8,no,yes,yes
+314,"Bat Yam, Center District, Israel",5.0 ·,4,1,1,1.5,240,4.7,5,5,5,5,5,no,yes,yes
+315,"Bat Yam, Center District, Israel",4.93 ·,2,1,1,1,124,4.9,5,5,5,4.8,5,no,yes,yes
+316,"Rishon LeTsiyon, Center District, Israel",4.77 ·,3,1,1,1.5,180,4.5,5,4.9,4.8,4.9,4.8,no,yes,yes
+317,"Ришен ле Цион, Israel, Israel",4.63 ·,1,1,1,1.5,100,4.8,4.8,4.6,4.5,4.6,4.5,no,yes,yes
+318,"Rishon LeTsiyon, Center District, Israel",4.60 ·,2,1,1,1,86,4.5,4.9,4.9,4.7,4.6,4.7,no,yes,yes
+319,"Bat Yam, Center District, Israel",4.75 ·,2,1,1,1,154,5,4.5,4.8,4.5,4.2,4.8,no,yes,yes
+320,"Palmachim, Center District, Israel",4.98 ·,Nan,Nan,Nan,Nan,550,5,5,5,5,5,4.9,no,yes,yes
+321,"Rishon LeTsiyon, Center District, Israel",5.0 ·,1,1,1,1.5,132,4.7,4.9,4.8,4.9,4.9,4.7,no,yes,yes
+322,"Rishon LeTsiyon, Center District, Israel",5.0 ·,2,1,2,1,220,4.9,5,5,5,4.9,5,no,yes,yes
+323,"Bat Yam, Center District, Israel",4.40 ·,3,1,1,1,154,4.6,5,5,5,4.8,4.6,no,yes,yes
+324,"Rishon LeTsiyon, Center District, Israel",4.50 ·,4,2,2,1,351,4.2,4.5,4.7,4.3,5,4.3,yes,yes,yes
+325,"Rishon LeTsiyon, Center District, Israel",,4,2,4,1,450,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+326,"Bat Yam, Center District, Israel",5.0 ·,9,3,4,2,430,4,5,5,4.7,4.7,4.7,no,yes,yes
+327,"Bat Yam, Center District, Israel",,2,1,2,1.5,160,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+328,"Bat Yam, Center District, Israel",,4,1,2,1,258,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+329,"Bat Yam, Center District, Israel",,2,1,1,1,147,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+330,"Holon, Center District, Israel",4.75 ·,4,1,1,1,200,5,5,5,5,5,5,yes,yes,yes
+331,"Bat Yam, Center District, Israel",4.64 ·,2,Studio,1,1,300,4.7,5,5,4.6,5,4.6,no,yes,yes
+332,"Holon, Center District, Israel",4.93 ·,4,2,2,1,382,4.9,5,5,5,4.8,4.9,no,yes,yes
+333,"Bat yam, מחוז המרכז, Israel",4.56 ·,7,2,3,2.5,377,4.4,4.9,4.9,4.4,4.7,4.4,no,yes,yes
+334,"Yehud-Monoson, Israel",5.0 ·,2,1,1,1,166,5,5,5,5,4.8,5,yes,yes,yes
+335,"Ness Ziona, Center District, Israel",5.0 ·,5,4,3,2,400,5,5,5,5,5,5,no,yes,yes
+336,"בת ים, מחוז המרכז, Israel",4.91 ·,4,2,2,1.5,678,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+337,"Rishon LeTsiyon, Center District, Israel",5.0 ·,2,1,1,1,190,5,5,5,5,4.9,5,no,yes,yes
+338,"Rishon LeTsiyon, Center District, Israel",5.0 ·,2,1,1,1,200,5,5,4.8,5,4.8,4.8,no,yes,yes
+339,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,407,4.7,5,5,4.8,5,4.7,no,yes,yes
+340,"Bat Yam, Center District, Israel",5.0 ·,2,1,1,1,154,5,5,5,4.8,5,5,no,yes,yes
+341,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,185,5,5,5,5,4.8,5,no,yes,yes
+342,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,252,5,5,5,5,4.5,4.8,no,yes,yes
+343,"Bat Yam, Center District, Israel",4.25 ·,9,3,5,2,435,4.8,5,5,4,4.8,4.8,no,yes,yes
+344,"Rishon LeTsiyon, Center District, Israel",4.67 ·,6,4,4,2,326,4.8,4.7,4.9,4.5,4.8,4.3,yes,yes,yes
+345,"Rishon LeTsiyon, Center District, Israel",4.95 ·,2,1,1,1,86,5,4.9,5,5,4.8,4.8,yes,yes,yes
+346,"Bat Yam, Center District, Israel",4.50 ·,3,1,1,1,146,4.5,4.2,4.8,4.5,4,4.5,no,yes,yes
+347,"Palmachim , Isreal , Israel",5.0 ·,4,2,2,2,"1,000",4.9,5,5,5,5,4.9,no,yes,yes
+348,"Bat Yam, Center District, Israel",4.56 ·,4,1,1,1.5,440,4.7,4.6,4.6,4.7,4.7,4.5,yes,yes,yes
+349,"Bat Yam, Center District, Israel",4.50 ·,2,1,1,1,210,4.5,5,5,4.5,4.8,4.2,no,yes,yes
+350,"Bat Yam, Center District, Israel",4.68 ·,4,1,2,1,330,4.9,5,5,4.9,4.8,4.5,yes,yes,yes
+351,"Rishon LeTsiyon, Center District, Israel",Nan,4,3,2,1,599,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+352,"Holon, Center District, Israel",4.88 ·,2,1,1,1,124,4.9,4.9,5,4.9,4.8,4.9,yes,yes,yes
+353,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.79 ·,4,2,2,1.5,244,4.6,5,4.9,4.9,4.7,4.8,no,yes,yes
+354,"Bat Yam, Center District, Israel",4.80 ·,6,2,3,1,362,5,4.8,5,5,4.6,4.8,no,yes,yes
+355,"Bat Yam, Center District, Israel",4.80 ·,6,2,3,1,331,5,4.8,4.8,4.8,4.8,4.8,no,yes,yes
+356,"Yehud, Center District, Israel",4.94 ·,2,1,1,1,267,4.9,5,5,5,4.9,4.9,no,yes,yes
+357,"Bat Yam, Center District, Israel",4.50 ·,4,1,2,1,241,5,4.5,4.8,4.7,4.5,4.7,no,yes,yes
+358,"Rishon LeTsiyon, Center District, Israel",Nan,2,1,2,1,477,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+359,"Rishon LeTsiyon, Center District, Israel",Nan,2,1,1,1.5,110,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+360,"Bat Yam, Center District, Israel",5.0 ·,6,2,3,1,369,5,5,5,5,5,5,no,yes,yes
+361,"Bat Yam, Center District, Israel",4.87 ·,2,Studio,1,1,197,4.9,5,4.9,4.9,4.8,4.8,no,yes,yes
+362,"Holon, Israel",4.55 ·,6,3,3,3,432,4.5,5,4.9,4.6,4.7,4.6,yes,yes,yes
+363,"Bat Yam, Center District, Israel",4.83 ·,4,1,2,1,279,4.8,5,5,4.8,4.7,4.7,no,yes,yes
+364,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,378,5,4.7,5,5,5,4.9,yes,yes,yes
+365,"Bat Yam, Center District, Israel",4.89 ·,2,Studio,1,1,220,4.9,5,5,5,4.8,4.9,no,yes,yes
+366,"Bat Yam, Center District, Israel",4.75 ·,2,1,1,1,151,5,5,5,4.8,4.5,4.8,no,yes,yes
+367,"Bat Yam, Center District, Israel",,1,4,6,2.5,983,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+368,"Bat Yam, Center District, Israel",4.79 ·,6,3,4,2,420,4.4,4.8,5,4.8,5,4.8,yes,yes,yes
+369,"Bat Yam, Israel",4.89 ·,5,2,2,2,474,4.6,4.8,4.8,4.9,4.8,4.8,yes,yes,yes
+370,"Bat Yam, Israel",4.50 ·,4,1,2,1,191,4.5,4.8,4.9,4.7,4.6,4.7,no,yes,yes
+371,"Bat Yam, Center District, Israel",4.58 ·,4,1,2,1,420,4.9,4.8,4.7,4.6,4.1,4.7,no,yes,yes
+372,"Bat Yam, Center District, Israel",4.78 ·,3,2,2,2,422,4.9,4.7,4.9,4.7,4.7,4.8,yes,yes,yes
+373,"Bat Yam, Center District, Israel",,8,3,3,2,610,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+374,"Bat Yam, Center District, Israel",5.0 ·,8,4,5,1.5,470,5,5,5,5,5,4.9,no,yes,yes
+375,"Bat Yam, Center District, Israel",4.83 ·,5,2,4,1,320,4.8,4.9,4.9,4.8,5,4.8,no,yes,yes
+376,"Bat Yam, Center District, Israel",4.77 ·,4,1,2,1.5,302,4.9,4.9,4.8,4.8,4.8,4.7,yes,yes,yes
+377,"Bat Yam, Center District, Israel",3.33 ·,2,Studio,1,1,149,3.3,3.7,4.7,3.7,3.3,3.3,no,yes,yes
+378,"Rishon LeTsiyon, Center District, Israel",,3,1,2,1,421,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+379,"Bat Yam, Israel",4.94 ·,6,3,3,2,509,4.7,5,4.9,5,5,4.8,no,yes,yes
+380,"Rishon LeTsiyon, Center District, Israel",,3,1,2,1,421,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+381,"Palmahim, Center District, Israel",Nan,5,2,2,1.5,596,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+382,"Bat Yam, Center District, Israel",4.0 ·,2,1,2,1.5,238,4.8,4,5,3,5,3.8,no,yes,yes
+383,"Holon, Center District, Israel",Nan,5,2,5,1,156,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+384,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,259,5,5,5,5,5,5,no,yes,yes
+385,"Bat Yam, Center District, Israel",,4,1,2,1.5,383,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+386,"Bat Yam, Center District, Israel",,2,1,1,1.5,152,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+387,"Bat Yam, Center District, Israel",5.0 ·,9,3,5,2,425,4.7,5,5,5,5,5,no,yes,yes
+388,"Bat Yam, Center District, Israel",,8,1,1,1.5,550,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+389,"Ness Ziona, Center District, Israel",5.0 ·,1,1,1,1,95,5,4.7,4.3,5,5,5,no,yes,yes
+390,"Yehud-Monosson, Center District, Israel",4.26 ·,3,2,2,1,271,4.5,4.5,4.7,4.6,4.5,4.4,yes,yes,yes
+391,"Bat Yam, Center District, Israel",4.75 ·,8,3,8,1.5,450,4.7,4.9,4.9,4.8,5,4.7,no,yes,yes
+392,"Rishon LeTsiyon, Center District, Israel",4.64 ·,2,Studio,1,1,204,4.6,4.8,4.8,4.9,4.7,4.5,no,yes,yes
+393,"Bat Yam, Israel",4.66 ·,3,1,2,1,223,4.6,5,5,4.9,4.8,4.5,no,yes,yes
+394,"Bat Yam, Center District, Israel",,1,3,4,2,681,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+395,"Ness Ziona, Center District, Israel",4.89 ·,7,3,3,1,248,4.8,5,5,5,4.6,4.9,yes,yes,yes
+396,"Bat Yam, Center District, Israel",4.88 ·,6,3,4,2.5,439,4.8,5,4.9,4.9,4.9,4.8,yes,yes,yes
+397,"Holon, Center District, Israel",Nan,4,2,2,2.5,500,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+398,"Ness Ziona, Center District, Israel",5.0 ·,3,1,2,1,302,5,5,5,5,4.9,5,no,yes,yes
+399,"Bat Yam, Center District, Israel",4.72 ·,4,1,2,1,300,4.8,4.9,4.9,4.8,4.9,4.7,yes,yes,yes
+400,"Bat Yam, Israel",4.78 ·,2,1,2,1,322,4.8,4.9,4.9,4.9,4.7,4.6,no,yes,yes
+401,"Holon, Center District, Israel",4.86 ·,2,1,1,1.5,190,4.9,5,4.9,4.8,4.6,4.8,no,yes,yes
+402,"Bat Yam, Center District, Israel",,3,1,1,1.5,209,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+403,"Bat Yam, Center District, Israel",,4,1,2,1,600,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+404,"Bat Yam, Center District, Israel",4.43 ·,2,Studio,2,1,228,4.6,5,4.7,4.7,4.9,4.4,no,yes,yes
+405,"Bat Yam, Center District, Israel",,4,1,2,1,264,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+406,"Bat Yam, Center District, Israel",4.80 ·,9,3,4,2,722,4.2,5,5,4.8,4.6,4.6,no,yes,yes
+407,"Bat Yam, Israel",5.0 ·,3,1,2,1,403,5,5,5,5,5,5,no,yes,yes
+408,"Bat Yam, Center District, Israel",,2,1,1,1,120,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+409,"Bat Yam, Center District, Israel",4.73 ·,6,3,4,2,520,4.8,4.7,4.9,4.9,4.9,4.7,no,yes,yes
+410,"Bat Yam, Center District, Israel",4.88 ·,3,1,2,1,256,4.1,5,5,5,5,4.9,no,yes,yes
+411,"Rishon LeTsiyon, Center District, Israel",4.86 ·,5,2,5,2,332,4.7,5,4.9,4.9,4.8,4.8,no,yes,yes
+412,"Bat Yam, Center District, Israel",5.0 ·,1,3,3,1.5,527,4.8,5,5,5,5,4.8,no,yes,yes
+413,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,285,5,5,5,5,5,4.9,no,yes,yes
+414,"Bat Yam, Israel",4.39 ·,4,1,2,1,191,4.8,4.9,4.7,4.8,4.4,4.4,no,yes,yes
+415,"Bat Yam, Center District, Israel",4.74 ·,2,1,1,1.5,197,4.8,4.7,4.9,4.9,4.7,4.7,no,yes,yes
+416,"Holon, Center District, Israel",5.0 ·,4,2,2,1.5,260,5,5,5,5,5,5,no,yes,yes
+417,"Ness Ziona, Center District, Israel",,1,4,5,3.5,150,Nan,Nan,Nan,Nan,Nan,Nan,yes,no,yes
+418,"Bat Yam, Center District, Israel",5.0 ·,9,3,3,2,748,5,5,5,4.8,4.8,5,no,yes,yes
+419,"Bat Yam, Israel",Nan,8,3,3,2,603,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+420,"Palmachim, Israel",4.43 ·,4,2,3,1.5,"1,546",4.3,4.9,5,4.4,4.9,4.2,no,yes,yes
+421,"Bat Yam, Center District, Israel",,4,1,2,1,297,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+422,"Bat Yam, Center District, Israel",5.0 ·,4,3,2,2,572,5,5,5,5,5,5,no,yes,yes
+423,"Bat Yam, Center District, Israel",5.0 ·,5,3,3,1.5,287,5,5,5,5,5,4.8,no,yes,yes
+424,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.45 ·,2,1,1,1,99,4.3,4.5,4.8,4.5,4.4,4.5,no,yes,yes
+425,"חולון, מחוז המרכז, Israel",4.67 ·,2,1,1,1.5,181,4.8,5,4.9,5,4.8,4.4,no,yes,yes
+426,"Bat Yam, Center District, Israel",Nan,9,3,5,2,488,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+427,"Bat Yam, Center District, Israel",,1,4,5,2.5,515,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+428,"Bat Yam, Center District, Israel",4.80 ·,2,1,1,1,178,4.8,5,5,5,4.8,4.7,no,yes,yes
+429,"Rishon LeTsiyon, Center District, Israel",5.0 ·,5,2,2,1.5,700,5,5,5,5,5,5,no,yes,yes
+430,"Bat Yam, Center District, Israel",,5,2,2,1,360,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+431,"Bat Yam, Center District, Israel",,4,1,2,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+432,"Holon, Israel",4.68 ·,2,1,1,1,115,4.6,5,5,4.8,4.6,4.7,no,yes,yes
+433,"Bat Yam, Center District, Israel",,1,1,2,1,340,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+434,"Bat Yam, Center District, Israel",,2,1,1,1,130,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+435,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.76 ·,3,1,4,1.5,159,4.9,4.8,4.9,4.8,4.7,4.9,no,yes,yes
+436,"Rishon LeTsiyon, Center District, Israel",4.83 ·,2,1,1,1,352,4.8,5,5,5,4.8,4.8,yes,yes,yes
+437,"Tel Aviv-Yafo, Israel",Nan,1,1,1,1,125,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+438,"Rishon LeTsiyon, Center District, Israel",5.0 ·,2,1,1,1,371,5,5,5,5,5,5,no,yes,yes
+439,"Bat Yam, Center District, Israel",4.40 ·,4,1,2,1,300,4.5,4.5,4.5,4.3,3.9,4.3,no,yes,yes
+440,"Bat Yam, Center District, Israel",4.88 ·,1,1,6,1,429,4.9,5,5,4.9,4.7,4.8,no,yes,yes
+441,"Or Yehuda, Israel",4.58 ·,2,Studio,1,1,153,4.4,5,5,4.8,4.9,4.7,no,yes,yes
+442,"Rishon LeTsiyon, Center District, Israel",4.43 ·,1,1,1,1,200,4.7,4.5,4.7,4.6,4.5,4.6,no,yes,yes
+443,"Bat Yam, Center District, Israel",5.0 ·,4,2,2,1,400,5,4.8,5,5,4.8,5,no,yes,yes
+444,"Holon, Center District, Israel",4.67 ·,2,1,1,1,150,4.3,4.7,4.3,4,4,4.7,yes,yes,yes
+445,"Ness Ziona, Center District, Israel",5.0 ·,2,1,2,1,337,5,5,5,4.8,5,4.8,yes,yes,yes
+446,"Bat Yam, Israel",4.73 ·,2,1,1,1,191,4.8,5,5,4.8,4.9,4.7,no,yes,yes
+447,"Bat Yam, Center District, Israel",5.0 ·,4,2,2,1,420,5,5,5,5,5,5,no,yes,yes
+448,"Rishon LeTsiyon, Center District, Israel",,2,Studio,1,1,480,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+449,"Palmachim, Center District, Israel",5.0 ·,4,2,2,1,"1,028",4.8,5,5,5,5,4.8,no,yes,yes
+450,"Bat Yam, Center District, Israel",5.0 ·,1,1,1,1.5,129,5,5,5,5,5,5,no,yes,yes
+451,"Irus, Israel, Center District, Israel",Nan,6,3,3,3.5,"1,500",Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+452,"Bat Yam, Center District, Israel",4.93 ·,9,4,4,3.5,568,4.8,4.9,4.7,4.9,4.8,4.8,yes,yes,yes
+453,"Bat Yam, Center District, Israel",4.90 ·,7,3,3,2,431,4.9,5,4.9,4.8,5,4.9,no,yes,yes
+454,"Bat Yam, Center District, Israel",5.0 ·,6,3,3,1.5,249,5,5,5,5,4.8,4.8,no,yes,yes
+455,"Bat Yam, Israel",4.32 ·,4,1,2,1,318,4.3,4.8,4.8,4.7,4.5,4.4,no,yes,yes
+456,"Bat Yam, Center District, Israel",4.95 ·,4,1,1,1,320,5,5,5,5,4.7,4.8,no,yes,yes
+457,"Bat Yam, Center District, Israel",5.0 ·,1,3,4,3,453,5,5,5,5,5,5,no,yes,yes
+458,"Bat Yam, Center District, Israel",4.50 ·,2,1,1,1,128,4.3,5,4.9,4.9,4.6,4.2,no,yes,yes
+459,"Bat Yam, GUSH Dan, Israel",4.92 ·,3,1,2,1,204,4.9,5,5,4.9,4.9,4.9,no,yes,yes
+460,"Irus, Israel, Israel",5.0 ·,8,4,4,3,"1,749",5,5,5,5,4.8,4.8,yes,yes,yes
+461,"Or Yehuda, Tel Aviv District, Israel",4.83 ·,3,2,2,1.5,350,4.8,5,5,5,5,5,no,yes,yes
+462,"Bat Yam, Center District, Israel",,2,1,1,1,130,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+463,"Bat Yam, Center District, Israel",4.85 ·,4,1,2,1,229,4.8,4.9,4.8,5,4.8,4.7,no,yes,yes
+464,"Mishmar HaShiv'a, Center District, Israel",5.0 ·,2,1,1,1,480,4.9,5,5,5,5,4.8,no,yes,yes
+465,"Rishon LeTsiyon, Center District, Israel",Nan,4,2,2,1.5,210,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+466,"Bat Yam, Center District, Israel",4.56 ·,4,1,1,1,309,4.6,4.7,4.8,4.7,4.7,4.6,no,yes,yes
+467,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,286,5,5,5,5,5,5,no,yes,yes
+468,"Bat Yam, Center District, Israel",,4,1,1,1,800,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+469,"Bat Yam, Center District, Israel",3.75 ·,3,1,1,1,261,3.5,5,5,4.8,5,4.2,no,yes,yes
+470,"Bat Yam, Center District, Israel",Nan,1,3,3,2,849,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+471,"Bat Yam, Israel",4.93 ·,3,1,2,1,207,4.9,5,5,4.9,4.7,4.7,no,yes,yes
+472,"Bat Yam, Center District, Israel",Nan,2,1,1,1,200,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+473,"Bat Yam, Center District, Israel",,3,1,2,1,477,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+474,"Бат-Ям, Israel",4.61 ·,4,2,1,1.5,146,4.6,4.8,4.8,4.7,4.8,4.6,no,yes,yes
+475,"Bat Yam, Center District, Israel",Nan,8,3,3,2.5,700,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+476,"Bat Yam, Israel",5.0 ·,6,3,3,2,446,4.9,5,5,5,5,4.9,no,yes,yes
+477,"Gan Sorek, Center District, Israel",5.0 ·,1,7,9,4.5,"6,381",4.7,5,5,5,5,5,no,yes,yes
+478,"Bat Yam, Center District, Israel",Nan,4,1,1,1,382,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+479,"Bat Yam, Center District, Israel",4.88 ·,4,1,2,1.5,350,4.8,5,4.9,5,4.8,4.8,no,yes,yes
+480,"Bat Yam, Center District, Israel",Nan,7,4,6,2.5,"1,000",Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+481,"Or Yehuda, Tel Aviv District, Israel",5.0 ·,4,2,3,1.5,500,4.9,5,5,4.9,4.9,4.8,no,yes,yes
+482,"Bat Yam, Center District, Israel",Nan,3,Studio,2,1,211,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+483,"Bat Yam, Israel",3.67 ·,5,1,2,1.5,186,4,4.7,4.3,4.3,3.7,4,no,yes,yes
+484,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.88 ·,2,1,1,1,130,4.5,5,4.9,4.8,4.6,4.6,no,yes,yes
+485,"Bat Yam, Israel",3.67 ·,4,2,2,1,286,3,5,5,4.3,5,4,no,yes,yes
+486,"Bat Yam, Center District, Israel",4.94 ·,7,4,5,2.5,396,5,5,5,5,4.9,4.7,yes,yes,yes
+487,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.85 ·,2,1,1,1.5,150,4.8,5,5,5,4.7,4.8,no,no,yes
+488,"Bat Yam, Center District, Israel",4.69 ·,6,3,3,2,511,4.8,4.8,5,4.6,4.9,4.9,no,yes,yes
+489,"Holon, Center District, Israel",Nan,1,2,3,2.5,350,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+490,"Bat Yam, Center District, Israel",5.0 ·,6,3,4,2,378,5,5,5,5,5,4.9,yes,yes,yes
+491,"Bat Yam, Center District, Israel",,6,3,3,2,919,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+492,"Bat Yam, Center District, Israel",4.46 ·,8,4,4,2.5,359,4.2,4.8,4.9,4.7,4.9,4.6,no,yes,yes
+493,"Ness Ziona, Center District, Israel",Nan,6,4,5,3.5,800,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+494,"Bat Yam, Tel Aviv District, Israel",4.86 ·,2,1,2,1,223,4.9,4.9,5,4.8,4.9,4.7,yes,yes,yes
+495,"Ramla, Center District, Israel",,2,1,2,1,100,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+496,"Bat Yam, Center District, Israel",5.0 ·,1,1,6,1,439,5,4.9,4.9,4.9,4.3,4.4,no,yes,yes
+497,"Bat Yam, Center District, Israel",,3,1,1,1,207,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+498,"Bat Yam, Center District, Israel",5.0 ·,6,4,4,3.5,572,5,5,5,5,5,4.8,no,yes,yes
+499,"Bat Yam, Center District, Israel",4.0 ·,5,2,4,1,300,4.2,4.2,5,4.5,4.8,3.8,no,yes,yes
+500,"Bat Yam, Center District, Israel",4.57 ·,3,Studio,2,1,230,4.7,4.9,4.9,4.9,4.1,4.5,no,no,yes
+501,"Bat Yam, Center District, Israel",4.88 ·,5,3,5,2,502,4.7,4.9,5,4.8,4.9,4.8,yes,yes,yes
+502,"Ness Ziona, Center District, Israel",,2,1,1,1.5,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+503,"Bat Yam, Center District, Israel",4.78 ·,6,3,3,2,708,4.7,4.7,4.6,4.7,5,4.7,yes,yes,yes
+504,"Tel Aviv-Yafo, Tel Aviv District, Israel",4.38 ·,4,1,1,1,120,4.2,4.6,4.7,4.6,4.4,4.4,no,yes,yes
+505,"Yehud, Center District, Israel",4.89 ·,5,2,4,2,439,4.8,5,5,5,5,5,no,yes,yes
+506,"Bat Yam, Center District, Israel",5.0 ·,7,3,4,2,572,4.8,4.9,4.8,5,4.9,4.5,yes,yes,yes
+507,"Bat Yam, Israel",4.96 ·,1,5,8,3.5,"2,382",4.9,4.9,4.9,4.9,4.8,4.8,no,yes,yes
+508,"Ness Ziona, Center District, Israel",,2,1,1,1,636,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+509,"Rishon LeTsiyon, Center District, Israel",Nan,4,1,4,1,"1,286",Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+510,"Bat Yam, Center District, Israel",,2,1,1,1,191,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+511,"Bat Yam, Center District, Israel",,2,1,1,1,286,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+512,"Holon, Center District, Israel",5.0 ·,2,2,2,Half-bath,400,4.9,5,5,4.9,4.9,4.6,no,yes,yes
+513,"Ness Ziona, Center District, Israel",4.80 ·,5,2,4,1,500,4.8,5,5,5,4.8,5,no,yes,yes
+514,"Tel Aviv, Jaffa, Center District, Israel",5.0 ·,6,3,3,2,850,5,5,4.8,5,5,5,yes,yes,yes
+515,"Bat Yam, Center District, Israel",Nan,3,1,1,1,173,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+516,"Bat Yam, Center District, Israel",5.0 ·,4,Studio,2,1,380,5,4.3,5,5,5,5,yes,yes,yes
+517,"Kfar Habad, Center District, Israel",,4,1,2,1,330,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+518,"Bat Yam, Center District, Israel",,4,Studio,1,1,289,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+519,"Bat Yam, Israel",4.73 ·,7,3,5,2,291,4.7,5,4.9,4.8,4.4,4.8,no,yes,yes
+520,"Bat Yam, Israel",4.73 ·,7,3,5,2,291,4.7,5,4.9,4.8,4.4,4.8,no,yes,yes
+521,"Bat Yam, Israel",4.70 ·,3,1,2,1,207,4.7,5,4.9,5,4.6,4.5,no,yes,yes
+522,"Bat Yam, Center District, Israel",4.32 ·,5,2,2,1.5,886,4.2,4.6,4.6,4.5,4.8,4.4,no,yes,yes
+523,"Bat Yam, Center District, Israel",4.77 ·,2,Studio,1,1,156,4.8,4.9,4.9,4.8,4.7,4.8,no,yes,yes
+524,"Bat Yam, Center District, Israel",,Nan,Nan,Nan,Nan,500,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+525,"Bat Yam, Center District, Israel",5.0 ·,9,3,3,2,587,5,5,5,5,5,5,no,yes,yes
+526,"Bat Yam, Tel Aviv District, Israel",4.92 ·,4,1,2,1,254,4.9,5,5,5,4.8,4.9,no,yes,yes
+527,"Bat Yam, Center District, Israel",4.0 ·,4,2,1,1,331,4.7,5,5,5,4.3,4.7,no,yes,yes
+528,"Holon, Center District, Israel",,1,1,1,1,299,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+529,"Bat Yam, Tel Aviv District, Israel",5.0 ·,3,1,2,1,270,4.9,5,4.9,4.8,4.9,5,no,yes,yes
+530,"bat yam, Israel, Israel",4.49 ·,7,2,6,1,350,4.6,4.8,4.7,4.6,4.4,4.5,no,yes,yes
+531,"Bat Yam, Center District, Israel",Nan,4,1,2,1,600,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+532,"Bat Yam, Center District, Israel",4.20 ·,4,1,2,1,410,4.2,4.6,5,4.6,4.8,4.8,yes,yes,yes
+533,"Bat Yam, Center District, Israel",Nan,4,1,2,1,800,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+534,"Bat Yam, Israel",4.74 ·,4,1,2,1,280,4.8,5,4.9,4.8,4.8,4.6,no,yes,yes
+535,"Bat Yam, Center District, Israel",,4,1,1,1,211,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+536,"Bat Yam, Center District, Israel",4.87 ·,5,2,2,1.5,340,4.6,4.9,4.9,4.9,4.8,4.8,no,yes,yes
+537,"Bat Yam, Center District, Israel",Nan,4,2,2,2,431,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+538,"Bat Yam, Center District, Israel",3.0 ·,4,1,1,1,289,3.3,3.7,3.7,3.3,3.3,3,no,yes,yes
+539,"Bat Yam, Center District, Israel",,4,1,2,1.5,286,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+540,"Bat Yam, Israel",4.61 ·,4,1,4,1,121,4.7,4.7,4.8,4.7,4.9,4.6,no,yes,yes
+541,"Bat Yam, Center District, Israel",Nan,4,1,1,1,318,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+542,"Bat Yam, Center District, Israel",4.55 ·,8,3,7,1.5,420,5,4.8,5,4.7,5,4.7,yes,yes,yes
+543,"Bat Yam, Center District, Israel",4.75 ·,4,3,2,1,370,4.8,4.8,5,4.8,5,4.8,no,yes,yes
+544,"Bat Yam, Center District, Israel",Nan,4,3,3,3,250,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+545,"Bat Yam, Center District, Israel",Nan,2,1,1,1,318,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+546,"Raanana, Center District, Israel",4.83 ·,6,3,3,2,690,4.3,5,5,4.5,5,5,no,yes,yes
+547,"Bat Yam, Tel Aviv District, Israel",5.0 ·,4,1,2,1,286,5,5,5,5,5,4.8,no,yes,yes
+548,"Bat Yam, Center District, Israel",Nan,6,3,3,2,922,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+549,"Or Yehuda, Tel Aviv District, Israel",4.90 ·,4,2,2,1,520,5,5,5,4.9,4.9,4.8,no,yes,yes
+550,"Bat Yam, Center District, Israel",4.75 ·,6,2,3,2,600,5,5,5,5,5,4.2,no,yes,yes
+551,"Beit Dagan, Center District, Israel",Nan,2,Studio,1,1,451,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+552,"Kfar Habad, Center District, Israel",4.67 ·,2,1,2,1,509,4.7,5,4.7,4.7,5,4.7,no,yes,yes
+553,"Bat Yam, Israel",4.59 ·,5,2,3,1,270,4.9,4.9,4.9,4.8,4.4,4.7,no,yes,yes
+554,"Bat Yam, Israel",4.82 ·,3,1,2,1,207,4.7,5,5,5,4.8,4.8,no,yes,yes
+555,"Bat Yam, улица Рав Узиель 9, Israel",4.87 ·,2,1,2,1.5,159,4.9,4.9,4.9,4.9,4.8,4.8,no,yes,yes
+556,"Bat Yam, Center District, Israel",Nan,3,1,1,1.5,220,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+557,"Bat Yam, Center District, Israel",Nan,6,2,2,1.5,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+558,"צפריה, מחוז המרכז, Israel",4.96 ·,1,5,15,4.5,"3,890",4.6,5,4.9,5,5,4.8,no,yes,yes
+559,"Tel Aviv-Yafo, Tel Aviv District, Israel",Nan,4,2,5,1.5,221,Nan,Nan,Nan,Nan,Nan,Nan,yes,no,yes
+560,"Bat Yam, Center District, Israel",4.69 ·,9,3,6,1.5,315,4.7,4.8,4.9,4.7,5,4.5,no,yes,yes
+561,"Bat Yam, Center District, Israel",5.0 ·,2,Studio,1,1,650,4.5,5,5,5,4.8,4.7,yes,yes,yes
+562,"Bat Yam, Center District, Israel",4.80 ·,8,4,7,2,"1,590",4.6,4.8,4.6,4.6,4.6,4.6,yes,yes,yes
+563,"Tel Aviv-Yafo, Tel Aviv District, Israel",5.0 ·,2,1,1,1.5,110,5,5,5,5,4.9,5,no,yes,yes
+564,"Bat Yam, Center District, Israel",Nan,4,1,2,1,175,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+565,"Rishon LeTsiyon, Center District, Israel",,4,1,2,1.5,345,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+566,"Yehud-Monosson, Center District, Israel",Nan,4,2,2,2,413,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+567,"Bat Yam, Center District, Israel",5.0 ·,4,1,2,1,207,4.7,5,5,5,5,5,no,yes,yes
+568,"Bat Yam, Israel",4.55 ·,4,1,2,1,191,4.5,4.8,4.9,4.7,4.6,4.5,no,yes,yes
+569,"Bat Yam, Center District, Israel",Nan,4,1,2,1,800,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+570,"Rishon LeTsiyon, Center District, Israel",,4,1,1,1,600,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+571,"Rishon LeTsiyon, Center District, Israel",,4,2,2,1,540,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+572,"Bat Yam, Center District, Israel",5.0 ·,7,2,3,2,700,4.8,5,5,4.9,5,4.7,no,yes,yes
+573,"Bat Yam, Center District, Israel",4.15 ·,4,1,3,1,169,4,4.9,5,5,4.9,4.5,no,yes,yes
+574,"Holon, Center District, Israel",Nan,2,1,1,1,300,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+575,"Rishon LeTsiyon, Center District, Israel",Nan,1,6,9,3,"3,929",Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+576,"Bat Yam, Center District, Israel",4.97 ·,4,Studio,2,1,550,5,5,5,5,4.8,4.9,no,yes,yes
+577,"Bat Yam, Center District, Israel",,2,Studio,1,1,450,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+578,"Bat Yam, Center District, Israel",,3,1,2,1,207,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+579,"Ness Ziyyona, Center District, Israel",4.48 ·,5,4,4,2.5,293,4.3,4.9,4.7,4.8,4.9,4.7,no,yes,yes
+580,"Bat Yam, Israel",4.13 ·,4,1,2,1,365,4,4.9,4.6,4.1,4.7,4.3,no,yes,yes
+581,"Rishon LeTsiyon, Center District, Israel",Nan,2,1,1,1,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+582,"Bat Yam, Center District, Israel",Nan,2,1,1,1.5,382,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+583,"Bat Yam, Center District, Israel",3.88 ·,3,Studio,1,1,180,4.6,4.5,4.9,4.1,5,4.5,no,yes,yes
+584,"Lod, Tel Aviv District, Israel",5.0 ·,6,3,3,1,349,5,5,5,5,4.7,4.7,no,yes,yes
+585,"Bat Yam, Center District, Israel",,4,Studio,1,1,289,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+586,"Bat Yam, Center District, Israel",,4,1,2,1,175,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+587,"Bat Yam, Center District, Israel",,4,1,1,1.5,237,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+588,"Bat Yam, Center District, Israel",4.67 ·,5,3,3,1,590,4.8,4.8,4.9,4.7,4.7,4.7,no,yes,yes
+589,"Beit Dagan, Center District, Israel",Nan,2,1,1,1,445,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+590,"Bat Yam, Center District, Israel",5.0 ·,8,4,4,2.5,"1,103",5,5,5,5,5,5,yes,yes,yes
+591,"Palmachim, Center District, Israel",Nan,Nan,Nan,Nan,Nan,879,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+592,"Holon, Center District, Israel",,7,4,5,2,382,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+593,"Yehud, Center District, Israel",4.88 ·,8,4,4,3,"1,482",4.7,4.9,5,4.9,5,4.8,no,yes,yes
+594,"Holon, Center District, Israel",Nan,3,1,1,1.5,200,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+595,"Bat Yam, Israel",4.60 ·,3,1,2,1,234,4.6,5,4.8,4.4,4.8,4.6,no,yes,yes
+596,"Bat Yam, Center District, Israel",5.0 ·,6,3,3,2,610,5,5,5,5,5,5,no,yes,yes
+597,"Bat Yam, Center District, Israel",4.46 ·,4,1,1,1,286,4.4,4.3,4.6,4.6,4.9,4.8,no,yes,yes
+598,"Bat Yam, Center District, Israel",4.95 ·,4,Studio,2,1,550,5,5,5,5,4.7,4.9,no,yes,yes
+599,"Bat Yam, Center District, Israel",Nan,Nan,Nan,Nan,Nan,400,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes

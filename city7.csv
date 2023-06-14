@@ -1,0 +1,301 @@
+,city_in_israel,star_rate,guests_number,bedroom_number,beds_number,baths_number,price_for_night,cleanliness_rate,communication_rate,check_in_rate,accuracy_rate,location_rate,value_rate,balcony,wifi,tv
+0,"Jerusalem, Jerusalem District, Israel",4.40 ·,2,Studio,1,1,131,4.6,4.9,4.8,4.7,4.8,4.6,no,yes,yes
+1,"Jerusalem, Jerusalem District, Israel",4.86 ·,3,Studio,2,1,216,4.9,5.0,4.9,4.9,4.9,4.9,no,yes,yes
+2,"Jerusalem, Jerusalem District, Israel",4.77 ·,8,2,4,1.5,300,4.6,4.8,4.7,4.8,4.9,4.7,no,yes,yes
+3,"Jerusalem, Jerusalem District, Israel",4.71 ·,4,1,2,1,200,4.3,5.0,4.9,4.8,5.0,4.5,yes,yes,yes
+4,"Jerusalem, Jerusalem District, Israel",4.72 ·,3,Studio,1,1,304,4.8,4.7,4.9,4.7,4.9,4.8,no,yes,yes
+5,"Jerusalem, Jerusalem District, Israel",4.78 ·,4,1,1,1,180,4.8,4.8,5.0,4.8,5.0,4.7,no,yes,yes
+6,"Jerusalem, Jerusalem District, Israel",4.87 ·,4,1,2,1,199,4.8,5.0,4.9,4.9,4.9,4.8,no,yes,yes
+7,"Jerusalem, Jerusalem District, Israel",4.82 ·,2,Studio,1,1,369,4.8,4.9,5.0,4.9,4.9,4.8,no,yes,yes
+8,"Jerusalem, Jerusalem District, Israel",4.74 ·,3,Studio,1,1,304,4.5,4.7,4.9,4.7,5.0,4.7,no,yes,yes
+9,"Jerusalem, Jerusalem District, Israel",4.62 ·,4,1,2,1,272,4.6,5.0,4.8,4.6,5.0,4.8,no,yes,yes
+10,"Jerusalem, Jerusalem District, Israel",4.73 ·,1,Studio,1,1,175,4.8,5.0,4.9,4.8,4.8,4.8,no,yes,yes
+11,"Jerusalem, Jerusalem District, Israel",4.41 ·,2,1,1,1,191,4.2,4.8,4.8,4.7,4.8,4.5,no,yes,yes
+12,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,1,1,250,4.9,5.0,5.0,5.0,5.0,5.0,no,yes,yes
+13,"Jerusalem, Jerusalem District, Israel",4.55 ·,3,1,2,1,160,4.7,4.8,4.9,4.8,4.8,4.5,yes,yes,yes
+14,"Jerusalem, Jerusalem District, Israel",4.63 ·,2,1,1,1,180,4.6,4.7,4.8,4.6,5.0,4.7,yes,yes,yes
+15,"Jerusalem, Israel",4.63 ·,3,1,2,1,159,4.5,4.8,4.6,4.6,4.8,4.7,no,yes,yes
+16,"Jerusalem, Jerusalem District, Israel",4.69 ·,2,1,1,1,130,4.9,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+17,"Jerusalem, Jerusalem District, Israel",4.83 ·,2,1,1,1,243,4.9,5.0,4.9,4.8,4.9,4.8,yes,yes,yes
+18,"Jerusalem, Jerusalem District, Israel",4.84 ·,3,1,3,1,300,4.8,4.9,4.9,4.8,4.8,4.7,no,yes,yes
+19,"Jerusalem, Jerusalem District, Israel",4.85 ·,2,1,1,1,224,4.9,4.9,4.9,4.9,5.0,4.8,no,yes,yes
+20,"Jerusalem, Jerusalem District, Israel",4.82 ·,2,1,1,1,267,4.9,4.9,4.9,4.8,5.0,4.8,no,yes,yes
+21,"Jerusalem, Jerusalem District, Israel",4.82 ·,5,Studio,3,1,243,4.7,5.0,5.0,5.0,4.9,4.8,no,yes,yes
+22,"Jerusalem, Jerusalem District, Israel",4.0 ·,4,1,2,1,214,3.7,4.7,5.0,3.7,5.0,3.3,yes,yes,yes
+23,"Jerusalem, Jerusalem District, Israel",4.50 ·,4,1,2,1,292,4.6,4.9,4.9,4.6,5.0,4.6,no,yes,yes
+24,"Jerusalem, Jerusalem District, Israel",4.75 ·,3,Studio,1,1,304,4.8,4.8,5.0,4.6,5.0,4.8,no,yes,yes
+25,"Jerusalem, Jerusalem District, Israel",4.48 ·,2,1,1,1.5,192,4.3,4.6,4.8,4.6,4.9,4.6,no,yes,yes
+26,"Jerusalem, Jerusalem District, Israel",4.62 ·,3,Studio,1,1,304,4.8,4.7,4.7,4.6,5.0,4.6,no,yes,yes
+27,"Jerusalem, Jerusalem District, Israel",4.56 ·,6,2,6,1,449,4.6,4.6,4.7,4.7,4.9,4.6,no,yes,yes
+28,"Jerusalem, Jerusalem District, Israel",4.88 ·,3,1,2,1,240,4.8,4.9,4.9,4.8,4.9,4.8,no,yes,yes
+29,"Jerusalem, Jerusalem District, Israel",4.65 ·,1,1,1,1,156,4.6,4.9,4.9,4.8,4.9,4.7,yes,yes,yes
+30,"Jerusalem, Jerusalem District, Israel",4.79 ·,4,Studio,1,1,370,4.8,4.9,4.9,4.9,5.0,4.8,yes,yes,yes
+31,"Jerusalem, Jerusalem District, Israel",4.84 ·,4,2,4,1,326,4.9,5.0,4.9,4.8,5.0,4.8,no,yes,yes
+32,"Jerusalem, Jerusalem District, Israel",4.89 ·,3,1,2,1,317,4.9,5.0,5.0,4.9,4.9,4.8,no,yes,yes
+33,"Jerusalem, Jerusalem District, Israel",4.72 ·,4,1,2,1,260,4.7,4.8,4.8,4.8,4.9,4.7,yes,yes,yes
+34,"Jerusalem, Jerusalem District, Israel",4.81 ·,1,1,1,1.5,159,4.7,5.0,4.9,4.8,5.0,4.6,no,yes,yes
+35,"Jerusalem, Jerusalem District, Israel",4.49 ·,2,1,1,1,184,4.2,4.9,4.8,4.5,4.8,4.6,no,yes,yes
+36,"Jerusalem, Jerusalem District, Israel",,4,1,2,1.5,420,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+37,"Jerusalem, Jerusalem District, Israel",4.57 ·,4,1,2,1,224,4.5,4.9,4.9,4.7,4.8,4.6,no,yes,yes
+38,"Jerusalem, Jerusalem District, Israel",4.46 ·,3,1,1,1,262,4.5,4.6,4.7,4.7,5.0,4.5,no,yes,yes
+39,"Jerusalem, Jerusalem District, Israel",4.52 ·,5,2,2,1,414,4.5,4.8,4.8,4.7,4.8,4.6,yes,yes,yes
+40,"Jerusalem, Jerusalem District, Israel",4.91 ·,4,1,2,1,305,4.9,4.9,4.9,4.9,4.9,4.6,no,yes,yes
+41,"Jerusalem, Jerusalem District, Israel",4.56 ·,4,1,2,1,288,4.2,4.6,4.6,4.5,4.9,4.5,no,yes,yes
+42,"Jerusalem, Jerusalem District, Israel",4.78 ·,2,Studio,1,1,206,4.8,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+43,"Jerusalem, Jerusalem District, Israel",4.53 ·,4,1,2,1,276,4.5,5.0,4.9,4.7,5.0,4.8,no,yes,yes
+44,"Jerusalem, Jerusalem District, Israel",5.0 ·,Nan,Nan,Nan,Nan,234,4.6,5.0,5.0,4.8,5.0,4.6,no,yes,yes
+45,"Jerusalem, Jerusalem District, Israel",4.80 ·,4,Studio,1,1,349,4.8,4.9,4.8,4.9,4.9,4.8,yes,yes,yes
+46,"Jerusalem, Jerusalem District, Israel",4.89 ·,2,1,1,1,360,4.8,4.9,5.0,4.9,5.0,4.8,yes,yes,yes
+47,"Jerusalem, Jerusalem District, Israel",4.41 ·,2,1,1,1,220,4.4,4.7,4.8,4.7,5.0,4.5,no,yes,yes
+48,"Jerusalem, Jerusalem District, Israel",Nan,4,1,2,1,339,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+49,"Jerusalem, Jerusalem District, Israel",4.14 ·,4,1,2,1,282,4.3,4.9,4.4,4.4,4.9,4.1,no,yes,yes
+50,"Jerusalem, Jerusalem District, Israel",4.80 ·,2,1,1,1,248,4.6,5.0,5.0,4.8,4.8,5.0,no,yes,yes
+51,"Jerusalem, Jerusalem District, Israel",4.87 ·,4,2,2,1,251,4.9,5.0,5.0,4.9,4.9,4.8,no,yes,yes
+52,"Jerusalem, Jerusalem District, Israel",4.94 ·,4,1,2,1,531,4.9,5.0,4.9,4.9,5.0,4.9,yes,yes,yes
+53,"Jerusalem, Jerusalem District, Israel",,2,1,1,1,147,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+54,"Jerusalem, Jerusalem District, Israel",4.91 ·,4,1,2,1,375,4.9,5.0,5.0,5.0,4.9,4.8,yes,yes,yes
+55,"Jerusalem, Jerusalem District, Israel",4.89 ·,4,1,2,1,256,4.9,4.9,4.9,4.9,5.0,4.9,no,yes,yes
+56,"Jerusalem, Jerusalem District, Israel",Nan,4,1,1,1,379,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+57,"Jerusalem, Jerusalem District, Israel",4.65 ·,2,1,1,1,303,4.6,5.0,4.9,4.8,5.0,4.7,no,yes,yes
+58,"Jerusalem, Jerusalem District, Israel",4.88 ·,7,2,6,1,599,4.7,4.8,5.0,4.9,5.0,4.8,no,yes,yes
+59,"Jerusalem, Israel",4.91 ·,1,1,1,1.5,220,4.9,4.8,5.0,4.7,4.9,4.9,yes,yes,yes
+60,"Jerusalem, Jerusalem District, Israel",4.42 ·,2,Studio,1,1,235,4.2,4.5,4.7,4.7,4.9,4.5,no,yes,yes
+61,"Jerusalem, Jerusalem District, Israel",4.79 ·,4,Studio,2,1,444,4.7,4.8,4.9,4.8,4.9,4.8,no,yes,yes
+62,"Jerusalem, Jerusalem District, Israel",4.62 ·,6,Studio,3,1,221,4.6,5.0,5.0,4.8,4.8,4.6,no,yes,yes
+63,"Jerusalem, Jerusalem District, Israel",4.68 ·,2,1,1,1,246,4.4,4.9,5.0,4.8,4.9,4.7,no,yes,yes
+64,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,276,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+65,"Jerusalem, Jerusalem District, Israel",Nan,4,1,1,1,307,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+66,"Jerusalem, Jerusalem District, Israel",4.29 ·,4,1,1,1,224,4.2,4.7,4.7,4.7,4.8,4.4,no,yes,yes
+67,"Jerusalem, Jerusalem District, Israel",Nan,2,1,1,1.5,186,Nan,Nan,Nan,Nan,Nan,Nan,no,no,yes
+68,"Jerusalem, Jerusalem District, Israel",4.25 ·,2,1,1,1,200,4.4,4.6,4.6,5.0,4.8,4.4,no,yes,yes
+69,"Jerusalem, Jerusalem District, Israel",,2,1,1,1,169,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+70,"Jerusalem, Jerusalem District, Israel",3.86 ·,2,1,1,1,177,4.3,4.1,4.6,4.1,4.1,3.7,no,yes,yes
+71,"Jerusalem, Jerusalem District, Israel",4.53 ·,2,1,2,1,251,4.7,4.7,4.8,4.7,5.0,4.6,no,yes,yes
+72,"Jerusalem, Jerusalem District, Israel",4.33 ·,5,2,3,1,230,4.4,4.8,4.9,4.5,4.9,4.4,no,yes,yes
+73,"Jerusalem, Israel",4.76 ·,1,1,1,1,80,4.6,4.9,4.9,4.8,4.8,4.8,yes,yes,yes
+74,"Jerusalem, Jerusalem District, Israel",4.91 ·,4,1,2,1,405,4.9,4.9,5.0,4.8,4.7,4.9,no,yes,yes
+75,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,1,2,1,510,5.0,5.0,5.0,5.0,5.0,5.0,yes,yes,yes
+76,"Jerusalem, Jerusalem District, Israel",4.43 ·,6,2,3,2,490,4.5,4.6,4.7,4.6,4.9,4.6,no,yes,yes
+77,"Jerusalem, Jerusalem District, Israel",4.73 ·,5,Studio,2,1,363,4.8,4.8,4.8,4.7,4.9,4.8,yes,yes,yes
+78,"Jerusalem, Jerusalem District, Israel",4.77 ·,4,Studio,2,1,241,4.8,5.0,4.8,4.8,5.0,4.7,no,yes,yes
+79,"Jerusalem, Jerusalem District, Israel",4.64 ·,4,1,3,1,616,4.6,4.5,4.8,4.7,5.0,4.7,yes,yes,yes
+80,"Jerusalem, Jerusalem District, Israel",4.78 ·,5,2,4,2,677,4.6,4.9,5.0,4.9,4.9,4.7,no,yes,yes
+81,"Jerusalem, Jerusalem District, Israel",4.59 ·,3,1,1,1,294,4.5,4.8,4.9,4.8,5.0,4.6,no,yes,yes
+82,"Jerusalem, Jerusalem District, Israel",4.88 ·,4,1,2,1,Nan,4.9,4.6,4.7,4.8,4.8,4.6,yes,yes,yes
+83,"Jerusalem, Jerusalem District, Israel",Nan,4,1,2,1,276,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+84,"Jerusalem, Jerusalem District, Israel",4.71 ·,6,2,2,1,776,4.7,4.4,4.6,4.9,5.0,4.7,no,yes,yes
+85,"Jerusalem, Jerusalem District, Israel",4.76 ·,6,2,3,1,409,4.8,4.9,4.9,4.8,5.0,4.7,no,yes,yes
+86,"Jerusalem, Jerusalem District, Israel",3.82 ·,4,1,2,1,329,4.0,3.6,4.1,4.3,4.4,3.6,yes,yes,yes
+87,"Jerusalem, Israel",4.76 ·,1,1,1,1,80,4.6,4.9,4.9,4.8,4.8,4.8,yes,yes,yes
+88,"Jerusalem, Israel",4.93 ·,4,Studio,3,1,375,5.0,5.0,4.9,5.0,4.9,4.9,no,yes,yes
+89,"Jerusalem, Jerusalem District, Israel",4.64 ·,4,1,3,1.5,399,4.6,4.6,4.8,4.7,5.0,4.7,no,yes,yes
+90,"Jerusalem, Jerusalem District, Israel",4.50 ·,2,1,1,1,335,5.0,4.8,5.0,4.7,4.8,4.3,yes,yes,yes
+91,"Jerusalem, Jerusalem District, Israel",4.80 ·,4,1,1,1,499,4.8,5.0,5.0,5.0,4.8,4.9,no,yes,yes
+92,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,410,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+93,"Jerusalem, Jerusalem District, Israel",4.60 ·,6,1,6,1,390,4.6,4.7,4.7,4.7,5.0,4.7,no,yes,yes
+94,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,2,1,200,5.0,5.0,5.0,5.0,5.0,5.0,no,no,yes
+95,"Jerusalem, Jerusalem District, Israel",,3,2,4,1,300,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+96,"Jerusalem, Jerusalem District, Israel",5.0 ·,7,3,4,2,470,5.0,4.9,4.9,4.9,5.0,4.9,no,yes,yes
+97,"Jerusalem, Jerusalem District, Israel",4.48 ·,6,2,3,2,513,4.4,4.1,4.2,4.3,4.8,4.2,no,yes,yes
+98,"Jerusalem, Jerusalem District, Israel",4.96 ·,2,Studio,1,1,539,4.9,5.0,5.0,5.0,5.0,4.9,no,yes,yes
+99,"Jerusalem, Jerusalem District, Israel",4.66 ·,5,2,2,1,563,4.5,4.6,4.6,4.7,5.0,4.5,yes,yes,yes
+100,"Jerusalem, Jerusalem District, Israel",4.50 ·,3,1,3,1,281,4.5,4.7,4.5,4.5,4.8,4.3,yes,yes,yes
+101,"Jerusalem, Jerusalem District, Israel",4.69 ·,6,2,3,1,403,4.7,4.8,4.7,4.8,4.9,4.6,no,yes,yes
+102,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,1,2,1,542,5.0,5.0,5.0,5.0,5.0,5.0,no,yes,yes
+103,"Jerusalem, Jerusalem District, Israel",,2,1,1,1,246,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+104,"Jerusalem, Jerusalem District, Israel",3.25 ·,4,1,2,1,357,3.2,3.8,3.8,2.8,3.2,3.2,yes,yes,yes
+105,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,2,1,200,5.0,5.0,5.0,5.0,5.0,5.0,no,no,yes
+106,"Jerusalem, Jerusalem District, Israel",4.76 ·,5,2,2,1,814,4.7,4.7,4.8,4.8,5.0,4.6,no,yes,yes
+107,"Jerusalem, Jerusalem District, Israel",4.82 ·,6,3,4,2,586,4.6,4.9,5.0,4.9,5.0,4.9,no,yes,yes
+108,"Jerusalem, Israel",4.76 ·,1,1,1,1,80,4.6,4.9,4.9,4.8,4.8,4.8,yes,yes,yes
+109,"Jerusalem, Jerusalem District, Israel",Nan,4,1,2,1,304,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+110,"Jerusalem, Jerusalem District, Israel",4.75 ·,4,1,2,1,419,4.9,4.8,5.0,4.8,5.0,4.7,no,yes,yes
+111,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,1,2,1,380,4.9,4.9,5.0,5.0,4.9,5.0,yes,yes,yes
+112,"Jerusalem, Jerusalem District, Israel",4.67 ·,5,2,2,1.5,364,4.2,4.8,4.9,4.7,5.0,4.7,yes,yes,yes
+113,"Jerusalem, Jerusalem District, Israel",4.74 ·,4,2,4,1,250,4.9,4.9,5.0,4.7,5.0,4.7,no,yes,yes
+114,"Jerusalem, Israel",4.88 ·,5,1,2,1,302,5.0,4.9,5.0,5.0,4.9,4.8,no,no,yes
+115,"Jerusalem, Israel",Nan,2,1,1,1,120,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+116,"Jerusalem, Jerusalem District, Israel",,6,2,4,1,529,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+117,"Jerusalem, Jerusalem District, Israel",4.62 ·,2,Studio,1,1,256,4.6,4.9,4.9,4.6,4.9,4.6,yes,yes,yes
+118,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,339,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+119,"Jerusalem, Jerusalem District, Israel",4.44 ·,2,1,1,1,319,4.4,4.7,4.7,4.7,4.8,4.5,no,yes,yes
+120,"Jerusalem, Jerusalem District, Israel",4.67 ·,4,2,2,1,494,4.4,4.6,4.6,4.7,5.0,4.7,yes,yes,yes
+121,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,339,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+122,"Jerusalem, Jerusalem District, Israel",4.44 ·,2,1,1,1,319,4.4,4.7,4.7,4.7,4.8,4.5,no,yes,yes
+123,"Jerusalem, Jerusalem District, Israel",4.95 ·,4,2,3,1.5,584,4.9,4.9,5.0,5.0,4.9,4.9,yes,yes,yes
+124,"Jerusalem, Jerusalem District, Israel",4.93 ·,3,1,2,1,327,4.8,4.8,4.9,4.9,5.0,4.9,no,yes,yes
+125,"Jerusalem, Jerusalem District, Israel",4.50 ·,4,1,3,1,407,4.8,4.0,4.8,5.0,4.8,4.5,no,yes,yes
+126,"Jerusalem, Jerusalem District, Israel",4.86 ·,6,2,2,1,403,4.9,4.9,4.8,4.8,4.9,4.8,no,yes,yes
+127,"Jerusalem, Israel",4.58 ·,4,1,3,1,444,4.7,4.6,4.4,4.5,5.0,4.6,yes,yes,yes
+128,"Jerusalem, Jerusalem District, Israel",4.25 ·,6,2,3,1,507,4.1,4.2,3.6,4.6,4.9,4.1,yes,yes,yes
+129,"Jerusalem, Israel",4.79 ·,2,Studio,2,1,350,4.8,4.9,4.9,4.8,4.9,4.7,yes,yes,yes
+130,"Jerusalem, Israel",4.81 ·,6,3,4,1,350,4.9,4.9,4.9,4.9,4.8,4.8,no,yes,yes
+131,"Jerusalem, Jerusalem District, Israel",,6,2,4,1,529,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+132,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,1,2,1,405,5.0,5.0,5.0,5.0,5.0,5.0,yes,yes,yes
+133,"Jerusalem, Jerusalem District, Israel",4.71 ·,4,1,2,1,283,4.8,4.9,4.8,4.9,5.0,4.9,no,yes,yes
+134,"Jerusalem, Jerusalem District, Israel",4.69 ·,2,Studio,1,1,322,4.7,5.0,4.9,4.8,4.6,4.6,no,yes,yes
+135,"Jerusalem, Yerushalayim, Israel",4.92 ·,4,1,2,1,419,5.0,4.9,5.0,4.9,4.9,4.6,no,yes,yes
+136,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,339,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+137,"Jerusalem, Israel",Nan,2,1,1,1,120,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+138,"Jerusalem, Israel",4.81 ·,5,2,2,1,677,4.7,4.8,4.8,4.9,4.9,4.7,no,yes,yes
+139,"Jerusalem, Jerusalem District, Israel",4.96 ·,2,Studio,1,1,283,5.0,5.0,5.0,5.0,4.9,4.9,no,yes,yes
+140,"Jerusalem, Jerusalem District, Israel",,6,2,4,1,529,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+141,"Jerusalem, Israel",4.86 ·,3,Studio,2,1,333,5.0,5.0,5.0,5.0,5.0,4.9,no,yes,yes
+142,"Jerusalem, Jerusalem District, Israel",4.54 ·,2,Studio,1,1,200,4.5,4.8,4.8,4.8,4.7,4.7,no,yes,yes
+143,"Jerusalem, Jerusalem District, Israel",Nan,2,1,1,1,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+144,"Jerusalem, Jerusalem District, Israel",4.80 ·,4,1,3,1,449,4.5,5.0,4.9,4.9,5.0,4.8,no,yes,yes
+145,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,339,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+146,"Jerusalem, Jerusalem District, Israel",,6,2,4,1,543,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+147,"Jerusalem, Jerusalem District, Israel",4.79 ·,4,1,3,1,399,4.8,4.8,4.9,4.8,5.0,4.9,yes,yes,yes
+148,"Jerusalem, Israel",Nan,2,1,1,1,120,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+149,"Jerusalem, Jerusalem District, Israel",4.77 ·,4,1,5,1,300,4.8,4.9,5.0,4.9,4.9,4.7,yes,yes,yes
+150,"Jerusalem, Jerusalem District, Israel",4.76 ·,6,1,3,1,368,4.9,4.9,4.8,4.8,4.8,4.7,yes,yes,yes
+151,"Jerusalem, Jerusalem District, Israel",3.87 ·,6,2,3,1,507,3.8,3.9,4.4,4.0,4.8,3.9,yes,yes,yes
+152,"Jerusalem, Jerusalem District, Israel",4.75 ·,2,1,1,1,238,4.5,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+153,"Jerusalem, Jerusalem District, Israel",4.73 ·,7,3,4,1.5,483,4.7,4.9,4.9,4.9,4.9,4.7,no,yes,yes
+154,"Jerusalem, Jerusalem District, Israel",4.77 ·,4,1,3,1,511,4.8,4.8,4.8,4.8,5.0,4.8,yes,yes,yes
+155,"Jerusalem, Israel",4.26 ·,6,2,3,2,737,4.2,4.6,4.8,4.4,5.0,4.4,no,yes,yes
+156,"Jerusalem, Jerusalem District, Israel",4.64 ·,2,1,1,1,300,4.6,4.5,4.8,4.6,5.0,4.5,no,yes,yes
+157,"Jerusalem, Jerusalem District, Israel",4.22 ·,5,1,4,1,357,4.2,3.9,4.4,4.2,4.9,4.2,no,yes,yes
+158,"Jerusalem, MOCHAVA, Israel",4.52 ·,6,2,5,1,576,4.6,4.6,4.6,4.7,4.9,4.5,no,yes,yes
+159,"Jerusalem, Jerusalem District, Israel",Nan,5,2,5,1,451,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+160,"Jerusalem, Jerusalem District, Israel",4.75 ·,4,2,3,1,377,4.8,4.9,4.6,4.5,5.0,4.7,yes,yes,yes
+161,"Jerusalem, Jerusalem District, Israel",4.75 ·,2,1,1,1,380,4.5,4.5,5.0,4.2,5.0,4.8,yes,yes,yes
+162,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,1,1,528,5.0,5.0,5.0,5.0,4.9,5.0,yes,yes,yes
+163,"Jerusalem, Jerusalem District, Israel",4.67 ·,4,1,2,1,490,4.7,5.0,4.9,4.7,5.0,4.7,no,yes,yes
+164,"Jerusalem, Jerusalem District, Israel",Nan,5,2,5,1,451,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+165,"Jerusalem, Jerusalem District, Israel",4.22 ·,5,1,4,1,357,4.2,3.9,4.4,4.2,4.9,4.2,no,yes,yes
+166,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,339,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+167,"Jerusalem, Jerusalem District, Israel",4.90 ·,4,1,2,1,330,4.8,5.0,4.9,4.8,4.8,4.6,no,yes,yes
+168,"Motza Illit, Jerusalem District, Israel",4.82 ·,2,1,1,1,300,4.8,4.9,4.9,4.7,4.9,4.8,yes,yes,yes
+169,"Jerusalem, Jerusalem District, Israel",4.64 ·,4,1,3,1,444,4.6,4.5,4.5,4.8,4.9,4.6,no,yes,yes
+170,"Jerusalem, Jerusalem District, Israel",5.0 ·,5,2,2,2,225,4.0,5.0,5.0,5.0,5.0,5.0,no,yes,yes
+171,"Jerusalem, Jerusalem District, Israel",3.90 ·,2,1,1,1,226,4.2,4.0,4.5,4.2,4.0,3.8,no,yes,yes
+172,"Jerusalem, Jerusalem District, Israel",4.90 ·,6,2,6,1,500,5.0,4.9,5.0,4.9,4.9,4.8,no,yes,yes
+173,"Jerusalem, Jerusalem District, Israel",4.80 ·,4,1,2,1,280,4.8,4.6,5.0,5.0,4.8,4.6,no,yes,yes
+174,"Jerusalem, Jerusalem District, Israel",Nan,4,1,2,1,199,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+175,"Jerusalem, Jerusalem District, Israel",4.43 ·,5,2,2,2,"1,189",4.6,4.5,4.6,4.6,5.0,4.6,no,yes,yes
+176,"Jerusalem, Jerusalem District, Israel",4.67 ·,5,2,5,1,350,4.8,5.0,5.0,4.9,5.0,4.9,no,yes,yes
+177,"Jerusalem, Jerusalem District, Israel",4.73 ·,Nan,Nan,Nan,Nan,180,4.9,4.7,4.9,4.9,4.9,4.7,no,yes,yes
+178,"Jerusalem, Jerusalem District, Israel",4.56 ·,5,1,4,1,357,4.7,4.6,4.7,4.2,4.8,4.4,no,yes,yes
+179,"Jerusalem, Jerusalem District, Israel",4.56 ·,4,1,2,1,260,4.2,4.8,4.8,4.7,4.6,4.7,no,yes,yes
+180,"Jerusalem, Jerusalem District, Israel",4.78 ·,6,2,4,1.5,584,4.6,4.8,4.8,4.8,4.9,4.8,no,yes,yes
+181,"Jerusalem, Israel",,5,2,3,1.5,179,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+182,"Jerusalem, Jerusalem District, Israel",4.94 ·,4,2,2,1,410,4.9,5.0,4.9,4.9,5.0,4.9,yes,yes,yes
+183,"Jerusalem, Jerusalem District, Israel",Nan,6,1,2,1,320,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+184,"Jerusalem, Jerusalem District, Israel",4.50 ·,5,2,5,2,683,4.4,4.4,4.3,4.5,5.0,4.4,no,yes,yes
+185,"Jerusalem, Jerusalem District, Israel",4.85 ·,3,1,2,1,284,5.0,4.9,4.9,4.8,5.0,4.7,no,yes,yes
+186,"Jerusalem, Jerusalem District, Israel",4.80 ·,2,1,2,1,128,4.5,4.9,4.9,4.9,4.9,4.9,yes,yes,yes
+187,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,1,3,1,438,4.2,5.0,4.8,4.8,5.0,4.2,yes,yes,yes
+188,"Jerusalem, Jerusalem District, Israel",4.56 ·,5,1,4,1,357,4.7,4.6,4.7,4.2,4.8,4.4,no,yes,yes
+189,"Jerusalem, Jerusalem District, Israel",4.72 ·,8,3,3,2,"1,109",4.7,4.7,4.7,4.8,5.0,4.6,no,yes,yes
+190,"Jerusalem, Jerusalem District, Israel",,Nan,Nan,Nan,Nan,323,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+191,"Jerusalem, Israel",4.94 ·,2,Studio,1,1,350,4.9,5.0,5.0,4.9,5.0,4.9,no,yes,yes
+192,"Jerusalem, Jerusalem District, Israel",4.88 ·,6,1,4,1,345,4.9,5.0,5.0,4.9,4.9,4.8,no,yes,yes
+193,"Jerusalem, Jerusalem District, Israel",Nan,4,1,2,1,320,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+194,"Jerusalem, Jerusalem District, Israel",4.47 ·,2,Studio,1,1,156,4.6,5.0,5.0,4.8,4.5,4.6,no,yes,yes
+195,"Jerusalem, Jerusalem District, Israel",4.82 ·,4,2,3,2,920,4.9,4.8,4.8,4.9,5.0,4.8,no,yes,yes
+196,"Jerusalem, Israel",4.82 ·,4,1,3,1,455,5.0,4.9,5.0,5.0,4.9,4.8,yes,yes,yes
+197,"Jerusalem, Jerusalem District, Israel",Nan,8,3,4,2.5,900,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+198,"Jerusalem, Jerusalem District, Israel",4.86 ·,7,2,3,2,709,4.7,4.9,4.8,4.9,4.9,4.8,no,yes,yes
+199,"Jerusalem, Jerusalem District, Israel",4.50 ·,1,4,5,2.5,"1,323",4.7,4.2,4.3,4.4,4.9,4.5,no,yes,yes
+200,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,1,1,195,4.7,5.0,5.0,5.0,5.0,5.0,no,yes,yes
+201,"Jerusalem, Jerusalem District, Israel",4.86 ·,7,2,3,2,709,4.7,4.9,4.8,4.9,4.9,4.8,no,yes,yes
+202,"Jerusalem, Jerusalem District, Israel",Nan,8,3,4,2.5,900,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+203,"Jerusalem, Jerusalem District, Israel",4.89 ·,8,3,7,2.5,"1,270",5.0,5.0,4.9,5.0,5.0,4.8,no,yes,yes
+204,"Jerusalem, Israel",4.68 ·,2,1,1,1,350,4.7,4.9,4.9,4.8,4.9,4.7,yes,yes,yes
+205,"Jerusalem, Jerusalem District, Israel",4.80 ·,5,2,2,1,677,4.9,5.0,5.0,5.0,5.0,5.0,no,yes,yes
+206,"Jerusalem, Jerusalem District, Israel",4.0 ·,6,2,3,1,507,4.1,3.7,4.4,4.2,4.8,3.7,yes,yes,yes
+207,"Jerusalem, Jerusalem District, Israel",4.73 ·,5,1,1,1.5,395,4.8,4.8,4.7,4.9,5.0,4.7,yes,yes,yes
+208,"Jerusalem, Jerusalem District, Israel",4.76 ·,5,2,2,2,318,4.8,4.7,4.8,4.8,4.8,4.7,yes,yes,yes
+209,"Jerusalem, Jerusalem District, Israel",4.57 ·,2,Studio,1,1,256,4.6,4.9,4.8,4.7,4.9,4.5,yes,yes,yes
+210,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,1,1.5,400,5.0,5.0,5.0,5.0,5.0,4.9,no,yes,yes
+211,"Jerusalem, Jerusalem District, Israel",4.88 ·,6,2,3,1,611,4.8,4.9,4.9,4.9,5.0,4.7,yes,yes,yes
+212,"Jerusalem, Jerusalem District, Israel",4.90 ·,4,1,2,1,363,4.8,5.0,5.0,5.0,5.0,4.9,no,yes,yes
+213,"Jerusalem, Jerusalem District, Israel",4.89 ·,4,1,1,1,472,4.9,4.7,4.9,4.8,5.0,4.7,no,yes,yes
+214,"Jerusalem, Jerusalem District, Israel",4.76 ·,5,Studio,4,1,420,4.9,4.9,4.9,4.8,4.8,4.6,no,yes,yes
+215,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,1,1,1,477,5.0,5.0,5.0,5.0,5.0,5.0,no,yes,yes
+216,"Jerusalem, Jerusalem District, Israel",4.21 ·,6,2,5,2,780,4.1,4.2,4.2,4.3,4.9,4.4,no,yes,yes
+217,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,1,1,130,4.7,5.0,5.0,5.0,4.9,4.9,no,yes,yes
+218,"Jerusalem, Israel",4.80 ·,5,1,1,1,464,4.8,4.9,4.9,4.8,4.9,4.7,no,yes,yes
+219,"Jerusalem, Jerusalem District, Israel",4.81 ·,2,1,1,1,401,4.8,4.8,4.9,4.8,5.0,4.7,no,yes,yes
+220,"Jerusalem, Jerusalem District, Israel",4.82 ·,5,2,5,2,527,4.7,4.9,4.8,4.9,4.9,4.7,yes,yes,yes
+221,"Jerusalem, Jerusalem District, Israel",4.88 ·,3,1,1,1,305,4.9,5.0,5.0,4.9,4.9,4.8,no,yes,yes
+222,"Jerusalem, Jerusalem District, Israel",4.53 ·,6,3,3,1.5,"1,301",4.7,4.8,4.9,4.4,4.9,4.5,yes,yes,yes
+223,"Jerusalem, Jerusalem District, Israel",4.46 ·,4,2,3,2,527,4.2,4.8,4.8,4.5,4.8,4.3,yes,yes,yes
+224,"Jerusalem, Jerusalem District, Israel",4.90 ·,3,1,1,1.5,942,4.8,4.9,4.8,4.9,5.0,4.6,yes,yes,yes
+225,"Jerusalem, Jerusalem District, Israel",4.54 ·,3,1,2,1.5,316,4.7,4.8,4.8,4.8,4.7,4.6,no,yes,yes
+226,"Jerusalem, Jerusalem District, Israel",4.74 ·,4,1,2,1,302,4.9,4.7,4.9,4.8,4.7,4.7,no,yes,yes
+227,"Jerusalem, Israel",4.71 ·,4,1,1,1,445,4.7,4.9,5.0,4.7,4.9,4.6,no,yes,yes
+228,"Jerusalem, Jerusalem District, Israel",4.80 ·,3,2,3,1,350,4.9,4.9,4.9,4.8,4.9,4.8,no,yes,yes
+229,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,324,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+230,"Jerusalem, Jerusalem District, Israel",,3,1,2,1,479,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+231,"Jerusalem, Jerusalem District, Israel",4.99 ·,4,1,2,1,509,5.0,5.0,5.0,5.0,5.0,5.0,yes,yes,yes
+232,"Jerusalem, Jerusalem District, Israel",4.90 ·,2,Studio,1,1,543,4.9,4.9,5.0,4.9,4.8,4.8,yes,yes,yes
+233,"Jerusalem, Jerusalem District, Israel",,4,2,3,1,309,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+234,"Jerusalem, Israel",4.27 ·,4,1,3,1,510,4.3,4.8,4.7,4.5,4.7,4.7,no,yes,yes
+235,"Jerusalem, Jerusalem District, Israel",,7,3,5,3,755,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+236,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,1,1,316,5.0,4.9,5.0,5.0,4.9,4.9,no,yes,yes
+237,"Jerusalem, Jerusalem District, Israel",4.80 ·,4,1,1,1,393,4.7,4.8,4.9,4.9,5.0,4.8,no,yes,yes
+238,"Jerusalem, Jerusalem District, Israel",4.89 ·,7,2,9,1.5,735,4.8,5.0,5.0,5.0,5.0,4.8,no,yes,yes
+239,"Jerusalem, Jerusalem District, Israel",4.98 ·,5,2,5,1.5,477,4.9,5.0,5.0,5.0,5.0,4.9,yes,yes,yes
+240,"Jerusalem, Jerusalem District, Israel",4.83 ·,3,1,1,1,144,4.9,4.9,4.9,4.9,4.7,4.8,no,yes,yes
+241,"Jerusalem, Jerusalem District, Israel",4.75 ·,2,Studio,2,1,159,4.9,4.8,4.9,5.0,5.0,4.6,yes,no,yes
+242,"Jerusalem, Israel",4.27 ·,4,1,3,1,510,4.3,4.8,4.7,4.5,4.7,4.7,no,yes,yes
+243,"Jerusalem, Jerusalem District, Israel",,4,1,3,1,435,Nan,Nan,Nan,Nan,Nan,Nan,yes,yes,yes
+244,"Jerusalem, Jerusalem District, Israel",4.85 ·,4,1,4,1,445,4.7,4.8,4.8,5.0,5.0,4.8,no,yes,yes
+245,"Jerusalem, Jerusalem District, Israel",4.84 ·,2,Studio,2,1,195,5.0,5.0,5.0,4.9,5.0,4.7,yes,yes,yes
+246,"Jerusalem, Jerusalem District, Israel",4.89 ·,7,2,9,1.5,736,4.8,5.0,5.0,5.0,5.0,4.8,no,yes,yes
+247,"Jerusalem, Jerusalem District, Israel",4.98 ·,6,2,4,1,606,4.9,5.0,5.0,5.0,5.0,4.8,yes,yes,yes
+248,"Jerusalem, Jerusalem District, Israel",Nan,Nan,Nan,Nan,Nan,250,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+249,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,1,2,1.5,510,4.8,5.0,5.0,5.0,5.0,4.8,no,yes,yes
+250,"Jerusalem, Jerusalem District, Israel",4.29 ·,4,1,2,1,405,4.1,4.0,4.4,4.3,4.4,4.4,yes,yes,yes
+251,"Jerusalem, Jerusalem District, Israel",4.67 ·,4,1,2,1,587,4.7,5.0,4.9,4.6,4.8,4.6,yes,yes,yes
+252,"Jerusalem, Jerusalem District, Israel",4.09 ·,6,2,3,1,507,4.0,4.3,4.5,4.1,4.8,3.9,yes,yes,yes
+253,"Jerusalem, Israel",4.29 ·,2,1,1,1.5,270,4.6,5.0,5.0,4.4,4.7,4.3,no,yes,yes
+254,"Jerusalem, Jerusalem District, Israel",4.78 ·,4,1,3,1,347,4.6,4.9,4.8,4.9,5.0,4.7,no,yes,yes
+255,"Jerusalem, Jerusalem District, Israel",4.60 ·,4,1,1,1,399,4.2,4.6,4.7,4.6,5.0,4.6,no,yes,yes
+256,"Jerusalem, Jerusalem District, Israel",4.41 ·,2,Studio,1,1,286,4.7,4.7,4.7,4.5,4.9,4.3,yes,yes,yes
+257,"Jerusalem, Israel",4.76 ·,2,1,2,1,302,4.7,4.9,4.8,4.9,5.0,4.7,no,yes,yes
+258,"Jerusalem, Jerusalem District, Israel",4.29 ·,4,1,3,1,180,3.9,4.7,4.3,4.0,4.3,4.0,no,yes,yes
+259,"Jerusalem, Jerusalem District, Israel",,2,1,1,1,361,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+260,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,2,1,160,4.8,5.0,5.0,5.0,4.8,5.0,yes,yes,yes
+261,"Jerusalem, Israel",4.97 ·,4,1,4,1,429,4.9,4.9,4.9,4.9,4.9,4.8,no,yes,yes
+262,"Jerusalem, Jerusalem District, Israel",4.83 ·,6,1,2,1.5,424,4.0,4.8,4.8,4.8,4.8,4.8,no,yes,yes
+263,"Jerusalem, Jerusalem District, Israel",,2,1,1,1,361,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+264,"Jerusalem, Jerusalem District, Israel",5.0 ·,6,3,4,2,867,5.0,5.0,5.0,5.0,5.0,5.0,yes,yes,yes
+265,"Jerusalem, Jerusalem District, Israel",4.90 ·,2,2,2,1,200,4.9,5.0,4.9,4.8,4.9,5.0,no,yes,yes
+266,"Jerusalem, Jerusalem District, Israel",4.86 ·,6,2,4,1,538,4.8,4.7,4.8,4.9,4.9,4.7,no,yes,yes
+267,"Jerusalem, Jerusalem District, Israel",4.76 ·,4,1,1,1,356,4.8,5.0,4.9,4.9,5.0,4.8,yes,yes,yes
+268,"Jerusalem, Jerusalem District, Israel",,2,1,1,1,300,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+269,"Jerusalem, Israel",4.38 ·,4,1,3,1,455,4.8,4.6,4.8,5.0,4.9,4.6,yes,yes,yes
+270,"Jerusalem, Jerusalem District, Israel",,5,1,4,1,329,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+271,"Jerusalem, Jerusalem District, Israel",Nan,6,2,5,1,480,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+272,"Jerusalem, Jerusalem District, Israel",4.86 ·,7,3,7,2.5,"1,347",5.0,4.8,4.8,4.8,5.0,4.7,yes,yes,yes
+273,"Jerusalem, Jerusalem District, Israel",4.67 ·,2,1,1,1,361,4.7,5.0,4.8,4.8,5.0,4.3,no,yes,yes
+274,"Jerusalem, Jerusalem District, Israel",4.92 ·,7,3,3,2,747,4.8,4.8,4.6,4.9,5.0,4.8,no,yes,yes
+275,"Jerusalem, Jerusalem District, Israel",,2,1,4,1.5,290,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+276,"Jerusalem, Jerusalem District, Israel",,4,1,2,1,587,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+277,"Jerusalem, Israel",4.87 ·,2,1,1,1,279,4.8,4.8,4.8,4.8,4.7,4.8,yes,yes,yes
+278,"Jerusalem, Jerusalem District, Israel",4.54 ·,6,2,2,2,777,4.4,4.7,4.7,4.6,4.8,4.5,yes,yes,yes
+279,"Jerusalem, Jerusalem District, Israel",4.60 ·,5,1,4,1,357,4.4,4.4,4.6,4.0,5.0,4.0,no,yes,yes
+280,"Jerusalem, Jerusalem District, Israel",4.54 ·,6,2,2,2,777,4.4,4.7,4.7,4.6,4.8,4.5,yes,yes,yes
+281,"Jerusalem, Jerusalem District, Israel",5.0 ·,5,1,4,1.5,597,5.0,4.9,5.0,4.9,5.0,4.8,no,yes,yes
+282,"Jerusalem, Jerusalem District, Israel",4.60 ·,5,1,4,1,357,4.4,4.4,4.6,4.0,5.0,4.0,no,yes,yes
+283,"Jerusalem, Israel, Israel",4.74 ·,4,Studio,2,1,327,4.7,4.9,4.9,4.8,4.9,4.7,yes,yes,yes
+284,"Jerusalem, Jerusalem District, Israel",4.73 ·,3,1,2,1,282,4.7,5.0,4.8,4.8,4.9,4.8,no,yes,yes
+285,"Jerusalem, Jerusalem District, Israel",5.0 ·,4,2,2,1,840,5.0,5.0,5.0,5.0,4.8,4.9,no,yes,yes
+286,"Jerusalem, Jerusalem District, Israel",4.66 ·,8,3,3,3,735,4.5,4.7,4.8,4.8,4.8,4.6,no,yes,yes
+287,"Jerusalem, Jerusalem District, Israel",4.33 ·,4,1,1,1.5,460,4.3,4.7,5.0,4.3,5.0,4.7,no,yes,yes
+288,"Jerusalem, Jerusalem District, Israel",4.74 ·,2,Studio,1,1,191,4.6,5.0,5.0,4.7,5.0,4.7,no,yes,yes
+289,"Jerusalem, Jerusalem District, Israel",4.39 ·,7,2,7,2,877,4.4,4.1,4.3,4.5,4.9,4.4,no,yes,yes
+290,"Jerusalem, Jerusalem District, Israel",5.0 ·,2,1,1,1,223,5.0,5.0,5.0,4.8,4.9,4.9,no,yes,yes
+291,"Jerusalem, Jerusalem District, Israel",4.61 ·,6,3,4,1.5,"1,464",4.7,5.0,4.9,4.7,5.0,4.7,yes,yes,yes
+292,"Jerusalem, Jerusalem District, Israel",4.45 ·,7,2,3,1.5,657,4.2,4.8,4.7,4.4,4.9,4.6,no,yes,yes
+293,"Jerusalem, Jerusalem District, Israel",4.85 ·,4,2,6,1,477,4.8,4.9,5.0,4.9,5.0,4.8,no,yes,yes
+294,"Jerusalem, Jerusalem District, Israel",4.29 ·,8,2,5,1.5,557,4.0,3.7,5.0,4.6,5.0,4.3,yes,yes,yes
+295,"Jerusalem, Jerusalem District, Israel",4.88 ·,8,3,6,2,534,4.7,5.0,4.9,4.9,4.9,4.8,yes,yes,yes
+296,"Jerusalem, Jerusalem District, Israel",Nan,3,1,1,1.5,538,Nan,Nan,Nan,Nan,Nan,Nan,no,yes,yes
+297,"Jerusalem, Israel",5.0 ·,2,1,2,1.5,317,5.0,5.0,5.0,5.0,5.0,5.0,yes,yes,yes
+298,"Jerusalem, Israel, Israel",4.52 ·,4,1,1,1,233,4.8,4.6,4.7,4.6,4.5,4.6,no,yes,yes
+299,"Jerusalem, Jerusalem District, Israel",4.94 ·,2,1,1,1,127,4.9,5.0,4.9,4.9,4.8,4.9,no,yes,yes
